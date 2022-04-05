@@ -9,10 +9,14 @@
 	- $W$ : Energy ($J$)
 	- $t$ : Time ($s$)
 
-- $P = \frac{dW}{dt} = \left( \frac{dW}{\cancel{dQ}} \right) \left( \frac{\cancel{dQ}}{dt} \right) = vi$, where:
+- $P = \frac{dW}{dt} = \left( \frac{dW}{\cancel{dQ}} \right) \left( \frac{\cancel{dQ}}{dt} \right) = VI$, where:
 	- $P$ = Power ($W$)
-	- $v$ = Voltage ($V$)
-	- $i$ = Current ($A$)
+	- $V$ = Voltage ($V$)
+	- $I$ = Current ($A$)
+
+- If $P = VI$ and $V = IR$, then:
+	-  $P = I^2R$
+	- $P = \large \frac{V^2}{R}$
 
 ---
 tags: #Circuits 

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Power.md",
-            "mode": "preview",
+            "file": "Notes/TCR.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Power.md",
+                "file": "Notes/TCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,8 @@
   },
   "active": "bcae4fe08381d537",
   "lastOpenFiles": [
+    "Notes/TCR.md",
+    "Notes/PAssive Sign Convention.md",
     "Notes/Power.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Notes/Resistivity.md",
@@ -124,8 +126,6 @@
     "Notes/Voltage.md",
     "Notes/Guess and Check.md",
     "Notes/Geometric Series.md",
-    "Notes/Ohm's Law.md",
-    "Videos/Electric Charges and Forces.md",
-    "Notes/Charging by Induction.md"
+    "Notes/Ohm's Law.md"
   ]
 }
