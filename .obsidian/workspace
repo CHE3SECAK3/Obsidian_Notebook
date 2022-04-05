@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bcae4fe08381d537",
+        "id": "82182d6023388d6c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/TCR.md",
-            "mode": "source",
+            "file": "Notes/Alternating Series.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/TCR.md",
+                "file": "Notes/Alternating Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bcae4fe08381d537",
+  "active": "82182d6023388d6c",
   "lastOpenFiles": [
-    "Notes/TCR.md",
-    "Notes/PAssive Sign Convention.md",
-    "Notes/Power.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+    "Notes/Alternating Series.md",
+    "Notes/Alternating Series Test.md",
+    "Notes/Charge Conservation.md",
+    "Notes/Insulator.md",
+    "Notes/Kirchoff's Voltage Law.md",
+    "Notes/Resistance.md",
     "Notes/Resistivity.md",
-    "Notes/Divergence Test.md",
-    "Notes/Voltage.md",
-    "Notes/Guess and Check.md",
-    "Notes/Geometric Series.md",
-    "Notes/Ohm's Law.md"
+    "Notes/Temperature Coefficient of Resistance.md",
+    "Notes/PAssive Sign Convention.md",
+    "Notes/Power.md"
   ]
 }

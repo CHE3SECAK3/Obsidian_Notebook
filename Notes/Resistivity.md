@@ -1,5 +1,5 @@
 # Resistivity
-- *A property of a material*
+- *The resistive property of a material*
 
 - Symbol: $\rho$
 
@@ -7,19 +7,25 @@
 
 - $R = \rho \large \frac{\ell}{A}$ where:
 	- $R$ : Resistance ($\ohm$)
-	- $\rho$ : Resistivity
-	- $\ell$ : Length of wire
-	- $A$ : Minimim cross-sectional area of wire
+	- $\rho$ : Resistivity ($\ohm \cdot m$)
+	- $\ell$ : Length of wire ($m$)
+	- $A$ : Minimim cross-sectional area of wire ($m^2$)
 
-- $\rho \propto \large \frac{1}{\text{conductivity}}$
+- $\rho \propto \large \frac{1}{\sigma}$
 	- Resisitivity is inversely proportional to conductivity
 
-- Typical metals used for wires
-	- $\text{Al}$ (Aluminium)
+- Typical metals used for wires:
+	- $\text{Al}$ (Aluminium) -> Highest $\rho$ $\therefore$ Lowest $\sigma$
 	- $\text{Cu}$ (Copper)
-	- $\text{Ag}$ (Silver)
+	- $\text{Ag}$ (Silver) -> Lowest $\rho$ $\therefore$ Highest $\sigma$
 	- $\text{Au}$ (Gold)
-	- Aluminium has highest resistivity
-	- Silver has lowest resistivity
-		- However Gold is tend to be used more because it doesn't oxidize / tarnish unlike silver (with sulfur)
 
+> [!info] Why Use Gold?
+> - Although $\text{Ag}$ has high conductance, it tarnishes easily with $\text{Su}$.
+> - Gold does not really oxidize.
+
+
+
+---
+tags: #TODO - #Circuits 
+links:

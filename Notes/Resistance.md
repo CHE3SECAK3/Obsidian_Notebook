@@ -1,8 +1,12 @@
 # Resistance
-Measured in ohms $\Omega$
+- Symbol: $R$
+- Units: $\Omega$
 
-R = V / I
+- $R = \large \frac{V}{I}$ where:
+	- $R$ : Resisitance ($\Omega$)
+	- $V$ : Voltage ($V$)
+	- $I$ : Current ($A$)
 
 ---
 tags: #TODO - #Circuits 
-links:
+links: [[Ohm's Law]]
