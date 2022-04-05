@@ -7,11 +7,9 @@
         "id": "bcae4fe08381d537",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Absolute Convergence.md",
-            "mode": "preview",
-            "source": true
+            "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Absolute Convergence.md",
+                "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +115,15 @@
   },
   "active": "bcae4fe08381d537",
   "lastOpenFiles": [
-    "Notes/Absolute Convergence.md",
-    "Notes/Matrix.md",
-    "Notes/Coulomb's Law.md",
-    "Notes/Charge.md",
-    "Sketches/Coulomb's Law Example.md",
-    "Notes/Electric Field.md",
-    "Sketches/Electric Field.md",
-    "Notes/Dipole.md",
-    "Notes/Conductor.md",
-    "Notes/Charging by Induction.md"
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+    "Notes/Divergence Test.md",
+    "Notes/Voltage.md",
+    "Notes/Guess and Check.md",
+    "Notes/Geometric Series.md",
+    "Notes/Ohm's Law.md",
+    "Videos/Electric Charges and Forces.md",
+    "Notes/Charging by Induction.md",
+    "Sketches/Charging Insulators by Induction.md",
+    "Notes/Separable Differential Equation.md"
   ]
 }
