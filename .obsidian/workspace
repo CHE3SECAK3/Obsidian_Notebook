@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "558ac27c13fc5943",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcae4fe08381d537",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Absolute Convergence.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75bc6fe6d0b38784",
+    "type": "split",
+    "children": [
+      {
+        "id": "566d0c334c0d8fd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "025dbbc15987f4c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "57b27eab1c85068e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1c1673af42dcc9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "98fd7f55848969bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5140ac7961400108",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Absolute Convergence.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cc38ec9809953f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4eacdea4c0c9e801",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "68375f0769ebda88",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bcae4fe08381d537",
+  "lastOpenFiles": [
+    "Notes/Absolute Convergence.md",
+    "Notes/Matrix.md",
+    "Notes/Coulomb's Law.md",
+    "Notes/Charge.md",
+    "Sketches/Coulomb's Law Example.md",
+    "Notes/Electric Field.md",
+    "Sketches/Electric Field.md",
+    "Notes/Dipole.md",
+    "Notes/Conductor.md",
+    "Notes/Charging by Induction.md"
+  ]
+}
