@@ -7,9 +7,11 @@
         "id": "bcae4fe08381d537",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md"
+            "file": "Notes/Power.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+                "file": "Notes/Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +117,15 @@
   },
   "active": "bcae4fe08381d537",
   "lastOpenFiles": [
+    "Notes/Power.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+    "Notes/Resistivity.md",
     "Notes/Divergence Test.md",
     "Notes/Voltage.md",
     "Notes/Guess and Check.md",
     "Notes/Geometric Series.md",
     "Notes/Ohm's Law.md",
     "Videos/Electric Charges and Forces.md",
-    "Notes/Charging by Induction.md",
-    "Sketches/Charging Insulators by Induction.md",
-    "Notes/Separable Differential Equation.md"
+    "Notes/Charging by Induction.md"
   ]
 }
