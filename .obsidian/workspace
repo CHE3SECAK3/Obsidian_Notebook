@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Matrix Multiplication.md",
-            "mode": "preview",
+            "file": "Notes/Passive Sign Convention.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Matrix Multiplication.md",
+                "file": "Notes/Passive Sign Convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Matrix Multiplication.md",
+                "file": "Notes/Passive Sign Convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +118,7 @@
   },
   "active": "1e6730b6fa33b1b2",
   "lastOpenFiles": [
+    "Notes/Passive Sign Convention.md",
     "Notes/Matrix Multiplication.md",
     "Notes/Matrix Addition.md",
     "Notes/Matrix Scalar Multiplication.md",
@@ -126,7 +127,6 @@
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Notes/Absolute Convergence.md",
     "Circuits/First LaTeX Circuit.md",
-    "Notes/Charge.md",
-    "Notes/Convergence.md"
+    "Notes/Charge.md"
   ]
 }
