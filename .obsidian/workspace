@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md"
+            "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md",
+                "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md",
+                "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,6 +115,7 @@
   },
   "active": "1e6730b6fa33b1b2",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md",
     "Sketches/Coulomb's Law Example.md",
     "Notes/Coulomb's Law.md",
@@ -123,7 +124,6 @@
     "Notes/Matrix Multiplication.md",
     "Notes/Matrix Addition.md",
     "Notes/Matrix Scalar Multiplication.md",
-    "Notes/Matrix.md",
-    "Attachments/Circuits.pdf"
+    "Notes/Matrix.md"
   ]
 }
