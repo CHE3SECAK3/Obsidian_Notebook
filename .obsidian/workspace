@@ -7,12 +7,9 @@
         "id": "1e6730b6fa33b1b2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Passive Sign Convention.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Passive Sign Convention.md",
+                "file": "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Passive Sign Convention.md",
+                "file": "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +115,15 @@
   },
   "active": "1e6730b6fa33b1b2",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md",
+    "Sketches/Coulomb's Law Example.md",
+    "Notes/Coulomb's Law.md",
+    "Notes/Electric Field.md",
     "Notes/Passive Sign Convention.md",
     "Notes/Matrix Multiplication.md",
     "Notes/Matrix Addition.md",
     "Notes/Matrix Scalar Multiplication.md",
     "Notes/Matrix.md",
-    "Attachments/Circuits.pdf",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Notes/Absolute Convergence.md",
-    "Circuits/First LaTeX Circuit.md",
-    "Notes/Charge.md"
+    "Attachments/Circuits.pdf"
   ]
 }
