@@ -4,15 +4,13 @@
   "switcher",
   "graph",
   "backlink",
-  "tag-pane",
+  "outgoing-link",
   "page-preview",
   "templates",
   "note-composer",
   "command-palette",
   "editor-status",
   "markdown-importer",
-  "word-count",
   "audio-recorder",
-  "open-with-default-app",
   "file-recovery"
 ]
