@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Absolute Convergence.md",
-            "mode": "source",
+            "file": "Notes/Matrix Multiplication.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Absolute Convergence.md",
+                "file": "Notes/Matrix Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Absolute Convergence.md",
+                "file": "Notes/Matrix Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,19 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "1e6730b6fa33b1b2",
   "lastOpenFiles": [
+    "Notes/Matrix Multiplication.md",
+    "Notes/Matrix Addition.md",
+    "Notes/Matrix Scalar Multiplication.md",
+    "Notes/Matrix.md",
+    "Attachments/Circuits.pdf",
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Notes/Absolute Convergence.md",
     "Circuits/First LaTeX Circuit.md",
     "Notes/Charge.md",
-    "Notes/Convergence.md",
-    "Notes/Alternating Series Test.md",
-    "Notes/Alternating Series.md",
-    "Notes/Charge Conservation.md",
-    "Notes/Insulator.md",
-    "Notes/Kirchoff's Voltage Law.md",
-    "Notes/Resistance.md"
+    "Notes/Convergence.md"
   ]
 }

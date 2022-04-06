@@ -1,5 +1,6 @@
 # Matrix
 - *An array of numbers*
+
 - Properties of a Matrix:
 	- Rows
 	- Columns
@@ -9,10 +10,7 @@
 > - An $m \times n$ matrix has $m$ rows and $n$ columns.
 > - If $m = n$, it is called a *square matrix*
 
-- [[Matrix Addition]]
-- [[Matrix Scalar Multiplication]]
-- 
 
 ---
-tags: #TODO
+tags: #Linear_Algebra
 links:
