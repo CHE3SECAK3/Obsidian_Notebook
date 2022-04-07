@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Drawing 2022-04-07 10.00.46.excalidraw.md"
+            "file": "Sketches/Drawing 2022-04-07 11.16.36.excalidraw.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-04-07 10.00.46.excalidraw.md",
+                "file": "Sketches/Drawing 2022-04-07 11.16.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-04-07 10.00.46.excalidraw.md",
+                "file": "Sketches/Drawing 2022-04-07 11.16.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,6 +115,7 @@
   },
   "active": "1e6730b6fa33b1b2",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-04-07 11.16.36.excalidraw.md",
     "Sketches/Drawing 2022-04-07 10.00.46.excalidraw.md",
     "Notes/Kirchoff's Current Law.md",
     "Notes/Kirchoff's Voltage Law.md",
@@ -123,7 +124,6 @@
     "Notes/Charge.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md",
-    "Sketches/Coulomb's Law Example.md",
-    "Notes/Coulomb's Law.md"
+    "Sketches/Coulomb's Law Example.md"
   ]
 }
