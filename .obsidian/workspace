@@ -7,9 +7,12 @@
         "id": "1e6730b6fa33b1b2",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Electric Field.md"
+            "file": "Notes/Matrix Multiplication.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Electric Field.md",
+                "file": "Notes/Matrix Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Electric Field.md",
+                "file": "Notes/Matrix Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,6 +118,8 @@
   },
   "active": "1e6730b6fa33b1b2",
   "lastOpenFiles": [
+    "Notes/Matrix Multiplication.md",
+    "Notes/Linear Combination.md",
     "Sketches/Electric Field.md",
     "Sketches/ckt notes refactor.md",
     "Sketches/Charging Conductors by Induction.md",
@@ -122,8 +127,6 @@
     "Sketches/Cross Product Proof.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md",
-    "Sketches/Drawing 2022-04-07 11.16.36.excalidraw.md",
-    "Sketches/Multi-Step Req Problem.md",
-    "Notes/Kirchoff's Current Law.md"
+    "Sketches/Drawing 2022-04-07 11.16.36.excalidraw.md"
   ]
 }
