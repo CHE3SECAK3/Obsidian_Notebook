@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Matrix Multiplication.md",
-            "mode": "preview",
+            "file": "Notes/Elementary Row Operations.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Matrix Multiplication.md",
+                "file": "Notes/Elementary Row Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Matrix Multiplication.md",
+                "file": "Notes/Elementary Row Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +118,7 @@
   },
   "active": "1e6730b6fa33b1b2",
   "lastOpenFiles": [
+    "Notes/Elementary Row Operations.md",
     "Notes/Matrix Multiplication.md",
     "Notes/Linear Combination.md",
     "Sketches/Electric Field.md",
@@ -126,7 +127,6 @@
     "Sketches/Charging Insulators by Induction.md",
     "Sketches/Cross Product Proof.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md",
-    "Sketches/Drawing 2022-04-07 11.16.36.excalidraw.md"
+    "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md"
   ]
 }
