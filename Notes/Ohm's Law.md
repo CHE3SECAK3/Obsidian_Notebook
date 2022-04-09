@@ -5,6 +5,9 @@
 	- $I$ : Current
 	- $R$ : Resistance
 
+> [!question] Proof?
+> For now, take Ohm's Law to be the Circuit Bible®.
+
 ---
-tags: #TODO - #Physics/Electromagnetism - #Circuits 
+tags: #Physics/Electromagnetism - #Circuits 
 links: [[Voltage]] - [[Current]] - [[Resistance]]

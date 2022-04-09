@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bd530e62d99a6eb6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Ohm's Law.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
-        }
-      },
-      {
         "id": "3770a48e772a3af1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Conductance.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Electric Field of a Dipole.md"
           }
         }
       }
@@ -54,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Physics/Electromagnetism",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Ohm's Law.md",
+                "file": "Sketches/Electric Field of a Dipole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Ohm's Law.md",
+                "file": "Sketches/Electric Field of a Dipole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,19 +111,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "bd530e62d99a6eb6",
+  "active": "3770a48e772a3af1",
   "lastOpenFiles": [
+    "Sketches/Electric Field of a Dipole.md",
+    "Sketches/Charging Conductors by Induction.md",
+    "Notes/Conductance.md",
+    "Sketches/Drawing 2022-04-07 11.16.36.excalidraw.md",
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Notes/Ohm's Law.md",
     "Notes/Resistance.md",
-    "Notes/Conductance.md",
     "Notes/Resistor.md",
     "Notes/Resistivity.md",
-    "Notes/Electrical Source.md",
-    "Sketches/Electric Field.md",
-    "Sketches/Independent Current Source.md",
-    "Videos/Electric Charges and Forces.md",
-    "Notes/Coulomb's Law.md"
+    "Notes/Electrical Source.md"
   ]
 }
