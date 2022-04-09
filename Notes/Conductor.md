@@ -2,5 +2,5 @@
 - *A material that allows the easy flow of charge*
 
 ---
-tags: #ElectroMagnetism 
+tags: #Physics/Electromagnetism 
 links: [[Current]]

@@ -6,5 +6,5 @@
 - Removing an electron creates a positive ion 
 
 ---
-tags: #ElectroMagnetism 
+tags: #Physics/Electromagnetism 
 links:

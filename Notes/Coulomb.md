@@ -6,5 +6,5 @@
 - $1C$ represents the charge of $6.24 * 10^{18}$ electrons
 
 ---
-tags: #ElectroMagnetism - #Circuits
+tags: #Physics/Electromagnetism - #Circuits
 links: [[Charge]] - [[Current]]

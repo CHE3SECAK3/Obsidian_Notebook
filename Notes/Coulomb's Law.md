@@ -14,9 +14,6 @@
 > 
 > - If the two charges are opposite signs, then $\vec{F}$ would be in the opposite direction of $\hat r$ (indicating attraction).
 > - If the two charges are the same sign, then $\vec{F}$ would be in the same direction as $\hat r$ (indicating repulsion).
-> 
-> > [!attention] $\left| \vec{F} \right|$ and Vector Component Form
-> > $$\left| \vec{F} \right| = K \frac{|q_1||q_2|}{r^2}$$
 
 
 > [!note] Gravitational Force
@@ -30,5 +27,5 @@
 
 
 ---
-tags: #TODO
+tags: #Physics/Electromagnetism 
 links: [[Permittivity of Free Space]] - [[Gravitational Force]]

@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Notes/Circuit Sources.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -119,14 +119,14 @@
   "active": "bd530e62d99a6eb6",
   "lastOpenFiles": [
     "Notes/Circuit Sources.md",
+    "Sketches/Electric Field.md",
+    "Sketches/Independent Current Source.md",
+    "Videos/Electric Charges and Forces.md",
+    "Notes/Coulomb's Law.md",
     "Sketches/Dependent Voltage Source.md",
     "Sketches/Dependent Current Source.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Sketches/Drawing 2022-04-07 11.16.36.excalidraw.md",
-    "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md",
-    "Sketches/Independent Voltage Source.md",
-    "Sketches/Independent Current Source.md",
-    "Notes/Ideal Voltage Source.md",
-    "Notes/Direct Comparison Test.md"
+    "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md"
   ]
 }

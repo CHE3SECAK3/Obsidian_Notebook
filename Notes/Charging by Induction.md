@@ -32,5 +32,5 @@
 - Moving the rod away will neutralize the atoms
   
 ---
-tags: #ElectroMagnetism 
+tags: #Physics/Electromagnetism 
 links: [[Charge]] - [[Conductor]] - [[Insulator]]

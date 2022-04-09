@@ -7,5 +7,5 @@
 
 
 ---
-tags: #TODO - #ElectroMagnetism - #Circuits 
+tags: #TODO - #Physics/Electromagnetism - #Circuits 
 links: [[Voltage]] - [[Current]] - [[Resistance]]

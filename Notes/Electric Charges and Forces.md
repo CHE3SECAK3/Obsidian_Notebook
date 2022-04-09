@@ -7,5 +7,5 @@
 
 
 ---
-tags: #ElectroMagnetism
+tags: #Physics/Electromagnetism
 links:

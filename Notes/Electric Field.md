@@ -63,5 +63,5 @@ $$\vec{F}_{\textit{on q}} = q \vec{E}\quad \text{where:}$$
 
 
 ---
-tags: #ElectroMagnetism 
+tags: #Physics/Electromagnetism 
 links: [[Charge]] - [[Coulomb's Law]]

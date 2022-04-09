@@ -7,5 +7,5 @@
 - Electrons can be moved within materials and between objects as long as the net charge is conserved
 
 ---
-tags: #ElectroMagnetism 
+tags: #Physics/Electromagnetism 
 links: [[Charge]]

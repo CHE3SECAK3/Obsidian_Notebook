@@ -26,5 +26,5 @@
 - The "positivity" or "negativity" of a charge is entirely arbitrary. What matters is that protons have an opposite, attractive charge from electrons, and that 2 of the *same* charges repel each other.
 
 ---
-tags: #ElectroMagnetism 
+tags: #Physics/Electromagnetism 
 links:
