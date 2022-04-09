@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Elementary Row Operations.md",
+            "file": "Notes/Matrix.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Elementary Row Operations.md",
+                "file": "Notes/Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Elementary Row Operations.md",
+                "file": "Notes/Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +118,15 @@
   },
   "active": "1e6730b6fa33b1b2",
   "lastOpenFiles": [
-    "Notes/Elementary Row Operations.md",
-    "Notes/Matrix Multiplication.md",
-    "Notes/Linear Combination.md",
-    "Sketches/Electric Field.md",
-    "Sketches/ckt notes refactor.md",
-    "Sketches/Charging Conductors by Induction.md",
-    "Sketches/Charging Insulators by Induction.md",
-    "Sketches/Cross Product Proof.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md"
+    "Notes/Matrix.md",
+    "Notes/Limit Comparison Test.md",
+    "Notes/Kirchoff's Voltage Law.md",
+    "Notes/Kirchoff's Current Law.md",
+    "Notes/Ionization.md",
+    "Notes/Integral Test.md",
+    "Notes/Insulator.md",
+    "Notes/Guess and Check.md",
+    "Notes/Geometric Series.md",
+    "Notes/Fractional Decomposition.md"
   ]
 }
