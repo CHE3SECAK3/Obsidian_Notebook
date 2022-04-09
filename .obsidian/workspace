@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Circuit Sources.md",
+            "file": "Notes/Resistance.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "3770a48e772a3af1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Conductance.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Circuit Sources.md",
+                "file": "Notes/Resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Circuit Sources.md",
+                "file": "Notes/Resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +131,15 @@
   },
   "active": "bd530e62d99a6eb6",
   "lastOpenFiles": [
-    "Notes/Circuit Sources.md",
+    "Notes/Resistance.md",
+    "Notes/Conductance.md",
+    "Notes/Resistor.md",
+    "Notes/Resistivity.md",
+    "Notes/Electrical Source.md",
     "Sketches/Electric Field.md",
     "Sketches/Independent Current Source.md",
     "Videos/Electric Charges and Forces.md",
     "Notes/Coulomb's Law.md",
-    "Sketches/Dependent Voltage Source.md",
-    "Sketches/Dependent Current Source.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Sketches/Drawing 2022-04-07 11.16.36.excalidraw.md",
-    "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md"
+    "Sketches/Dependent Voltage Source.md"
   ]
 }

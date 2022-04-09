@@ -1,12 +1,14 @@
 # Resistance
+- *Ability to impede flow of current*
 - Symbol: $R$
 - Units: $\Omega$
 
-- $R = \large \frac{V}{I}$ where:
+
+- Manipulation of Ohm's Law -> $R = \large \frac{V}{I}$ where:
 	- $R$ : Resisitance ($\Omega$)
 	- $V$ : Voltage ($V$)
 	- $I$ : Current ($A$)
 
 ---
 tags: #TODO - #Circuits 
-links: [[Ohm's Law]]
+links: [[Current]] - [[Voltage]] - [[Ohm's Law]]
