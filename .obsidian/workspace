@@ -7,9 +7,12 @@
         "id": "3770a48e772a3af1",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Electric Field of a Dipole.md"
+            "file": "Notes/Dipole.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Electric Field of a Dipole.md",
+                "file": "Notes/Dipole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Electric Field of a Dipole.md",
+                "file": "Notes/Dipole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,6 +119,7 @@
   },
   "active": "3770a48e772a3af1",
   "lastOpenFiles": [
+    "Notes/Dipole.md",
     "Sketches/Electric Field of a Dipole.md",
     "Sketches/Charging Conductors by Induction.md",
     "Notes/Conductance.md",
@@ -124,7 +128,6 @@
     "Notes/Ohm's Law.md",
     "Notes/Resistance.md",
     "Notes/Resistor.md",
-    "Notes/Resistivity.md",
-    "Notes/Electrical Source.md"
+    "Notes/Resistivity.md"
   ]
 }
