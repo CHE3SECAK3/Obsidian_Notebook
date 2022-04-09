@@ -14,10 +14,9 @@ $$
 > The limit of the infinte partial sum is the series!
 > 
 
-- [[Absolute Convergence]]
 - [[Divergence and Convergence Tests]]
 
 
 ---
 tags: #Calculus/Sequences_and_Series 
-links: [[Sequence Convergence]]
+links: [[Sequence Convergence]] - [[Convergence]]

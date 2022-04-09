@@ -1,13 +1,13 @@
 # Matrix Scalar Multiplication
 - Given matrix $A$ and a constant $k$:
+	- $k \cdot A$ is a new matrix $B$  where:
 
-- $k \cdot A$ is a new matrix $B$  where:
-	- $B$ has $i$ rows and $j$ columns
-	- Element $B_{ij} = k \cdot A_{ij}$
+		- $B$ has $i$ rows and $j$ columns
+		- Element $B_{ij} = k \cdot A_{ij}$
 
 > [!note] Scalar Multiplication
 > $$
-> B = k \cdot
+> B = k
 > \begin{bmatrix}
 > A_{11} & A_{12} & \ldots & A_{1j} \\
 > A_{21} & A_{22} & \ldots & A_{2j} \\

@@ -30,6 +30,17 @@
 > - Therefore:
 > $$C = \begin{bmatrix} am + bn + cp & dm + en + fp \\ ax + by + cz & dx + ey + fz \end{bmatrix}$$
 
+> [!warning] Commutative Property
+> - Multiplication with numbers follow the commutative property:
+> 	- $2 \times 3 = 3 \times 2$
+> 
+> - However, matrix multiplication *does not* have this property
+> 	- i.e. $AB \neq BA$
+>
+> > [!example] Example
+> > $$\begin{bmatrix}1 & 2 \\ 2 & 4\end{bmatrix} \begin{bmatrix}3 & 0 \\ 5 & 1\end{bmatrix} = \begin{bmatrix}10 & 2 \\ 26 & 4 \end{bmatrix}$$
+> > $$\neq$$
+> > $$\begin{bmatrix}3 & 0 \\ 5 & 1\end{bmatrix} \begin{bmatrix}1 & 2 \\ 2 & 4\end{bmatrix} = \begin{bmatrix}3 & 6 \\ 7 & 14 \end{bmatrix}$$
 ---
 tags: #Linear_Algebra 
 links: [[Matrix]] - [[Linear Combination]] - [[Dot Product]]

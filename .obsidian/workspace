@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1e6730b6fa33b1b2",
+        "id": "bd530e62d99a6eb6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Matrix.md",
-            "mode": "source",
+            "file": "Notes/Circuit Sources.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Matrix.md",
+                "file": "Notes/Circuit Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,30 +103,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Matrix.md",
+                "file": "Notes/Circuit Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "1e6730b6fa33b1b2",
+  "active": "bd530e62d99a6eb6",
   "lastOpenFiles": [
-    "Notes/Matrix.md",
-    "Notes/Limit Comparison Test.md",
-    "Notes/Kirchoff's Voltage Law.md",
-    "Notes/Kirchoff's Current Law.md",
-    "Notes/Ionization.md",
-    "Notes/Integral Test.md",
-    "Notes/Insulator.md",
-    "Notes/Guess and Check.md",
-    "Notes/Geometric Series.md",
-    "Notes/Fractional Decomposition.md"
+    "Notes/Circuit Sources.md",
+    "Sketches/Dependent Voltage Source.md",
+    "Sketches/Dependent Current Source.md",
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+    "Sketches/Drawing 2022-04-07 11.16.36.excalidraw.md",
+    "Sketches/Drawing 2022-04-06 09.55.11.excalidraw.md",
+    "Sketches/Independent Voltage Source.md",
+    "Sketches/Independent Current Source.md",
+    "Notes/Ideal Voltage Source.md",
+    "Notes/Direct Comparison Test.md"
   ]
 }

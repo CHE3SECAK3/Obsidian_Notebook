@@ -6,4 +6,4 @@ $A$ *converges* to a value $L$ if the terms of $A$ get arbitrarily close to $L$,
 
 ---
 tags: #Calculus/Sequences_and_Series 
-links: [[Limit]] - [[Sequence]]
+links: [[Limit]] - [[Sequence]] - [[Convergence]]

@@ -20,12 +20,11 @@
 	- $\text{Ag}$ (Silver) -> Lowest $\rho$ $\therefore$ Highest $\sigma$
 	- $\text{Au}$ (Gold)
 
-> [!info] Why Use Gold?
+> [!info] Why Not Use Silver Everywhere?
 > - Although $\text{Ag}$ has high conductance, it tarnishes easily with $\text{Su}$.
-> - Gold does not really oxidize.
 
 
 
 ---
-tags: #TODO - #Circuits 
-links:
+tags: #Circuits 
+links: [[Resistance]]
