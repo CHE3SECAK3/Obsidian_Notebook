@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#TODO",
+  "search": "tag:#TODO tag:#Physics/Electromagnetism",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 0.504494382022472,
   "linkDistance": 100,
-  "scale": 0.5032896284863478,
+  "scale": 0.41833356361768664,
   "close": false
 }

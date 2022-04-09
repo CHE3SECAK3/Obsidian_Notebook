@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Resistance.md",
-            "mode": "preview",
+            "file": "Notes/Ohm's Law.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Physics/Electromagnetism",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Resistance.md",
+                "file": "Notes/Ohm's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Resistance.md",
+                "file": "Notes/Ohm's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,6 +132,7 @@
   },
   "active": "bd530e62d99a6eb6",
   "lastOpenFiles": [
+    "Notes/Ohm's Law.md",
     "Notes/Resistance.md",
     "Notes/Conductance.md",
     "Notes/Resistor.md",
@@ -139,7 +141,6 @@
     "Sketches/Electric Field.md",
     "Sketches/Independent Current Source.md",
     "Videos/Electric Charges and Forces.md",
-    "Notes/Coulomb's Law.md",
-    "Sketches/Dependent Voltage Source.md"
+    "Notes/Coulomb's Law.md"
   ]
 }

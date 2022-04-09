@@ -5,7 +5,6 @@
 	- $I$ : Current
 	- $R$ : Resistance
 
-
 ---
 tags: #TODO - #Physics/Electromagnetism - #Circuits 
 links: [[Voltage]] - [[Current]] - [[Resistance]]
