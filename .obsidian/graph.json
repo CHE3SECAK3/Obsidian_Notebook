@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "tag:#TODO tag:#Physics/Electromagnetism",
+  "collapse-filter": true,
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -12,11 +12,11 @@
   "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.01329423990499,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.297752808988764,
-  "repelStrength": 10,
-  "linkStrength": 0.504494382022472,
-  "linkDistance": 100,
-  "scale": 0.41833356361768664,
+  "collapse-forces": false,
+  "centerStrength": 0.199893162393162,
+  "repelStrength": 12.2029914529915,
+  "linkStrength": 0.596581196581197,
+  "linkDistance": 500,
+  "scale": 0.15971974802517924,
   "close": false
 }

@@ -7,10 +7,8 @@
         "id": "e4ca446322fb0405",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Sketches/Drawing 2022-04-10 12.40.43.excalidraw.md"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-04-10 12.40.43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-04-10 12.40.43.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,15 +112,15 @@
   },
   "active": "e4ca446322fb0405",
   "lastOpenFiles": [
-    "Sketches/Drawing 2022-04-10 12.40.43.excalidraw.md",
+    "Videos/Electric Charges and Forces.md",
+    "Notes/Electric Field of Ring.md",
+    "Notes/Electric Field of Rod.md",
+    "Sketches/Electric Field of a Ring.md",
     "Sketches/Cross Product Proof.md",
     "Notes/Charge Distribution.md",
     "Integral.md",
     "Notes/Trigonometric Substitution.md",
-    "Notes/Electric Field of Rod.md",
     "Sketches/Electric Field of Point Charge.md",
-    "Notes/Electric Field of Multiple Point Charges.md",
-    "Notes/Electric Field.md",
-    "Sketches/Electric Field of a Rod.md"
+    "Notes/Electric Field of Multiple Point Charges.md"
   ]
 }
