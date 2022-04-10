@@ -1,11 +1,18 @@
 # Electric Field
+- *The electric vector influencer*
 
-- The force on an object is dependent on:
+- An electric force can be modeled by:
 
-	- The property of the object
-	- A property of the location
+$$\vec{F}_{\textit{on q}} = q \vec{E}\quad \text{where:}$$
+- q: Point charge -> Property of the object
+- $\vec{E}$: Electric Field of a *source charge* -> Property of the location
 
-> [!example]- Gravity
+> [!question]- Force Properties
+> - The force on an object is dependent on:
+> 	- The property of the object
+> 	- A property of the location
+>
+> Example: Gravitational Force
 > $$
 > \vec{F}_g = m \vec{g}
 > $$
@@ -14,11 +21,6 @@
 > 	- Mass -> Property of the object
 > 	- Gravity vector -> Property of the location
 
-- An *electric* force can be modeled by:
-
-$$\vec{F}_{\textit{on q}} = q \vec{E}\quad \text{where:}$$
-- q: Point charge -> Property of the object
-- $\vec{E}$: Electric Field of a *source charge* -> Property of the location
 ---
 - A *source charge* creates an electric field in the space around it, which can apply a force on point charges ( $q$ ) in the electric field.
 

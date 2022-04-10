@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3770a48e772a3af1",
+        "id": "7a7258465927d0cf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Dipole.md",
+            "file": "Notes/Charge Distribution.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Dipole.md",
+                "file": "Notes/Charge Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Dipole.md",
+                "file": "Notes/Charge Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3770a48e772a3af1",
+  "active": "7a7258465927d0cf",
   "lastOpenFiles": [
-    "Notes/Dipole.md",
-    "Sketches/Electric Field of a Dipole.md",
-    "Sketches/Charging Conductors by Induction.md",
+    "Notes/Charge Distribution.md",
+    "Notes/Charge Density.md",
+    "Notes/Conductivity.md",
     "Notes/Conductance.md",
-    "Sketches/Drawing 2022-04-07 11.16.36.excalidraw.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Notes/Ohm's Law.md",
-    "Notes/Resistance.md",
-    "Notes/Resistor.md",
-    "Notes/Resistivity.md"
+    "Notes/Electric Field.md",
+    "Notes/Electric Field-Vector and Field-Line Diagrams.md",
+    "Notes/Charging by Induction.md",
+    "Notes/Dipole.md",
+    "Notes/Direct Comparison Test.md",
+    "Sketches/Electric Field of a Dipole.md"
   ]
 }

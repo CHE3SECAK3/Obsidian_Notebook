@@ -22,9 +22,12 @@
 > - This is on the axis of the dipole (y-axis on diagram)
 > $$\vec{E}_{BP} \approx -\frac{1}{4\pi\epsilon_{0}} \frac{\vec{p}}{r^{3}}$$
 > - This is on the bisecting plane (x-axis and z-axis on the diagram)
+> > [!note] $\vec{p}$ and $\vec{E}$
+> > - $\vec{p}$ is in the direction of $\vec{E}$ on the axis of symmetry
+> > - $\vec{p}$ is in the *opposite direction* of $\vec{E}$ on the bisecting axis
 
 
 ---
-tags: #TODO
+tags: #Physics/Electromagnetism
 links: [[Charging by Induction]] - [[Electric Field]]
 
