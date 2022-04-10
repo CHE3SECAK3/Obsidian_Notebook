@@ -63,7 +63,13 @@ $$\vec{F}_{\textit{on q}} = q \vec{E}\quad \text{where:}$$
 > [!summary] Net Electric Field
 > The net electric field is the sum of all electric fields due to each source charge
 
+## $\vec{E}$ of Definite Rod
+$$\vec{E}_{\text{rod}} = \frac{1}{4\pi\epsilon_{0}}\frac{Q}{r\sqrt{r^{2}+(\frac{L}{2})^2}}$$
+
+> [!done] Electric Field Rod Proof
+> ![[Electric Field of a Rod]]
+
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Charge]] - [[Coulomb's Law]]
+links: [[Charge]] - [[Charge Distribution]] - [[Coulomb's Law]]

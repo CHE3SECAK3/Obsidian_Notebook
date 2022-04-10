@@ -17,7 +17,7 @@ $$Q = \int\limits_{0}^{L} dQ$$
 		- $Q$ : Total charge ($C$)
 		- $L$ : Total length of rod ($m$)
 
-$$ Q = \int\limits_{0}^{L} \lambda dL $$
+$$ Q = \int\limits_{0}^{L} \lambda dx $$
 
 ---
 tags: #TODO - #Physics/Electromagnetism 

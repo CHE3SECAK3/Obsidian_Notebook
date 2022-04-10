@@ -7,9 +7,12 @@
         "id": "7a7258465927d0cf",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-04-10 10.13.24.excalidraw.md"
+            "file": "Notes/Electric Field.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-04-10 10.13.24.excalidraw.md",
+                "file": "Notes/Electric Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-04-10 10.13.24.excalidraw.md",
+                "file": "Notes/Electric Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,12 +119,12 @@
   },
   "active": "7a7258465927d0cf",
   "lastOpenFiles": [
-    "Sketches/Drawing 2022-04-10 10.13.24.excalidraw.md",
+    "Notes/Electric Field.md",
     "Notes/Charge Distribution.md",
+    "Sketches/Electric Field of a Rod.md",
     "Notes/Charge Density.md",
     "Notes/Conductivity.md",
     "Notes/Conductance.md",
-    "Notes/Electric Field.md",
     "Notes/Electric Field-Vector and Field-Line Diagrams.md",
     "Notes/Charging by Induction.md",
     "Notes/Dipole.md",
