@@ -1,9 +1,9 @@
 # Charge Distribution
-- *What is the total charge $Q$ of an object?
+- *What is the total charge $Q$ of an object?*
 
 ## Definite Rod
 - A rod of charge can be thought of as a row of point charges
-  
+
 - Thus, the total charge can be calculated by adding up all the point charges that compose a rod of length $L$ (*Think integral!*)
 
 $$Q = \int\limits_{0}^{L} dQ$$

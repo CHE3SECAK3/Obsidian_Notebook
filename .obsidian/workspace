@@ -7,12 +7,9 @@
         "id": "7a7258465927d0cf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Charge Distribution.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Drawing 2022-04-10 10.13.24.excalidraw.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Charge Distribution.md",
+                "file": "Sketches/Drawing 2022-04-10 10.13.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Charge Distribution.md",
+                "file": "Sketches/Drawing 2022-04-10 10.13.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +116,7 @@
   },
   "active": "7a7258465927d0cf",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-04-10 10.13.24.excalidraw.md",
     "Notes/Charge Distribution.md",
     "Notes/Charge Density.md",
     "Notes/Conductivity.md",
@@ -127,7 +125,6 @@
     "Notes/Electric Field-Vector and Field-Line Diagrams.md",
     "Notes/Charging by Induction.md",
     "Notes/Dipole.md",
-    "Notes/Direct Comparison Test.md",
-    "Sketches/Electric Field of a Dipole.md"
+    "Notes/Direct Comparison Test.md"
   ]
 }
