@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7a7258465927d0cf",
+        "id": "e4ca446322fb0405",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Electric Field of a Rod.md"
+            "file": "Sketches/Drawing 2022-04-10 12.40.43.excalidraw.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Electric Field of a Rod.md",
+                "file": "Sketches/Drawing 2022-04-10 12.40.43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Electric Field of a Rod.md",
+                "file": "Sketches/Drawing 2022-04-10 12.40.43.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a7258465927d0cf",
+  "active": "e4ca446322fb0405",
   "lastOpenFiles": [
-    "Sketches/Electric Field of a Rod.md",
-    "Notes/Electric Field.md",
-    "Sketches/Electric Field of a Dipole.md",
+    "Sketches/Drawing 2022-04-10 12.40.43.excalidraw.md",
+    "Sketches/Cross Product Proof.md",
     "Notes/Charge Distribution.md",
-    "Notes/Charge Density.md",
-    "Notes/Conductivity.md",
-    "Notes/Conductance.md",
-    "Notes/Electric Field-Vector and Field-Line Diagrams.md",
-    "Notes/Charging by Induction.md",
-    "Notes/Dipole.md"
+    "Integral.md",
+    "Notes/Trigonometric Substitution.md",
+    "Notes/Electric Field of Rod.md",
+    "Sketches/Electric Field of Point Charge.md",
+    "Notes/Electric Field of Multiple Point Charges.md",
+    "Notes/Electric Field.md",
+    "Sketches/Electric Field of a Rod.md"
   ]
 }
