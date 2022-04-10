@@ -7,12 +7,9 @@
         "id": "7a7258465927d0cf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Electric Field.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Electric Field of a Rod.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Electric Field.md",
+                "file": "Sketches/Electric Field of a Rod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Electric Field.md",
+                "file": "Sketches/Electric Field of a Rod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +116,15 @@
   },
   "active": "7a7258465927d0cf",
   "lastOpenFiles": [
-    "Notes/Electric Field.md",
-    "Notes/Charge Distribution.md",
     "Sketches/Electric Field of a Rod.md",
+    "Notes/Electric Field.md",
+    "Sketches/Electric Field of a Dipole.md",
+    "Notes/Charge Distribution.md",
     "Notes/Charge Density.md",
     "Notes/Conductivity.md",
     "Notes/Conductance.md",
     "Notes/Electric Field-Vector and Field-Line Diagrams.md",
     "Notes/Charging by Induction.md",
-    "Notes/Dipole.md",
-    "Notes/Direct Comparison Test.md"
+    "Notes/Dipole.md"
   ]
 }

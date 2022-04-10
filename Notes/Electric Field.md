@@ -47,7 +47,7 @@ $$\vec{F}_{\textit{on q}} = q \vec{E}\quad \text{where:}$$
 			- $-q$ : The field points towards the source charge
 			(opposite direction of $\hat r$)
 	- $r$ : An arbitrary distance from the source charge
-	- $\hat r$ : Unit vector of the distance between the source chage and any arbitrary point
+	- $\hat r$ : Unit vector of the distance between the source charge and any arbitrary point
 
 > [!note] Coulomb's Law
 > - Notice the similarities between Coulomb's Law and the Electric Field equation.
@@ -58,17 +58,20 @@ $$\vec{F}_{\textit{on q}} = q \vec{E}\quad \text{where:}$$
 ## $\vec{E}$ of Multiple Point Charges
 - What if there are *multiple* source charges each with their own electric field? How will it influence a point in space?
 
-	- $\vec{E}_{NET} = \vec{E}_{q_1} + \vec{E}_{q_2} + ... + \vec{E}_{q_i} = \displaystyle \sum_i \vec{E}_{q_i}$
+	- $\vec{E}_{NET} = \vec{E}_{q_1} + \vec{E}_{q_2} + ... + \vec{E}_{q_i} = \sum\limits_i \vec{E}_{q_i}$
 
 > [!summary] Net Electric Field
 > The net electric field is the sum of all electric fields due to each source charge
 
-## $\vec{E}$ of Definite Rod
-$$\vec{E}_{\text{rod}} = \frac{1}{4\pi\epsilon_{0}}\frac{Q}{r\sqrt{r^{2}+(\frac{L}{2})^2}}$$
+## $\vec{E}$ of a Finite Rod
+$$\begin{align}\vec{E}_{\text{finite rod}} &= \frac{1}{4\pi\epsilon_{0}}\frac{Q}{r\sqrt{r^{2}+(\frac{L}{2})^{2}}}\\ \\
+\vec{E}_{\text{infinite rod}} &= \frac{1}{4\pi\epsilon_{0}}\frac{2\lambda}{r}\end{align}$$
 
 > [!done] Electric Field Rod Proof
 > ![[Electric Field of a Rod]]
 
+> [!note] $\vec{E}$ Estimation
+> - The infinite rod equation is used to estimate the field of definite rod except near the ends of the rod
 
 ---
 tags: #Physics/Electromagnetism 
