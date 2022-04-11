@@ -52,5 +52,5 @@ where:
 
 
 ---
-tags: #DifferentialEquations 
+tags: #Calculus/DifferentialEquations 
 links:

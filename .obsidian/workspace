@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2ef6b3e110dcea3",
+        "id": "99e82da761e75c13",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Elementary Row Operations.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Elementary Row Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Elementary Row Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c2ef6b3e110dcea3",
+  "active": "99e82da761e75c13",
   "lastOpenFiles": [
+    "Notes/Separable Differential Equation.md",
+    "Notes/Series Convergence.md",
+    "Notes/Divergence and Convergence Tests.md",
+    "Notes/Trigonometric Substitution.md",
+    "Notes/Fractional Decomposition.md",
+    "Notes/Current.md",
     "Notes/Elementary Row Operations.md",
     "Notes/Linear System of Equations as a Matrix.md",
     "Notes/First-Order Linear Differential Equation.md",
-    "Notes/Matrix Multiplication.md",
-    "Notes/Convergence.md",
-    "Notes/Charge.md",
-    "Notes/Alternating Series Test.md",
-    "Notes/Linear Combination.md",
-    "Notes/Matrix Scalar Multiplication.md",
-    "Notes/Matrix Addition.md"
+    "Notes/Matrix Multiplication.md"
   ]
 }

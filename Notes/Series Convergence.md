@@ -12,10 +12,6 @@ $$
 > [!tldr]  Partial Sum Limit
 > 
 > The limit of the infinte partial sum is the series!
-> 
-
-- [[Divergence and Convergence Tests]]
-
 
 ---
 tags: #Calculus/Sequences_and_Series 

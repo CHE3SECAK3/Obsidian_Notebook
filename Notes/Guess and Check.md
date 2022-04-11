@@ -50,5 +50,5 @@
 - A guess might not cover *all* solutions
 
 ---
-tags: #DifferentialEquations
+tags: #Calculus/DifferentialEquations
 links: 
