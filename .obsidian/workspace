@@ -7,8 +7,10 @@
         "id": "99e82da761e75c13",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "excalidraw",
+          "state": {
+            "file": "Sketches/Drawing 2022-04-10 19.15.41.excalidraw.md"
+          }
         }
       }
     ],
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sketches/Drawing 2022-04-10 19.15.41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sketches/Drawing 2022-04-10 19.15.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +116,7 @@
   },
   "active": "99e82da761e75c13",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-04-10 19.15.41.excalidraw.md",
     "Notes/Separable Differential Equation.md",
     "Notes/Series Convergence.md",
     "Notes/Divergence and Convergence Tests.md",
@@ -120,7 +125,6 @@
     "Notes/Current.md",
     "Notes/Elementary Row Operations.md",
     "Notes/Linear System of Equations as a Matrix.md",
-    "Notes/First-Order Linear Differential Equation.md",
-    "Notes/Matrix Multiplication.md"
+    "Notes/First-Order Linear Differential Equation.md"
   ]
 }
