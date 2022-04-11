@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4ca446322fb0405",
+        "id": "c2ef6b3e110dcea3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Elementary Row Operations.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Elementary Row Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Elementary Row Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4ca446322fb0405",
+  "active": "c2ef6b3e110dcea3",
   "lastOpenFiles": [
-    "Videos/Electric Charges and Forces.md",
-    "Notes/Electric Field of Ring.md",
-    "Notes/Electric Field of Rod.md",
-    "Sketches/Electric Field of a Ring.md",
-    "Sketches/Cross Product Proof.md",
-    "Notes/Charge Distribution.md",
-    "Integral.md",
-    "Notes/Trigonometric Substitution.md",
-    "Sketches/Electric Field of Point Charge.md",
-    "Notes/Electric Field of Multiple Point Charges.md"
+    "Notes/Elementary Row Operations.md",
+    "Notes/Linear System of Equations as a Matrix.md",
+    "Notes/First-Order Linear Differential Equation.md",
+    "Notes/Matrix Multiplication.md",
+    "Notes/Convergence.md",
+    "Notes/Charge.md",
+    "Notes/Alternating Series Test.md",
+    "Notes/Linear Combination.md",
+    "Notes/Matrix Scalar Multiplication.md",
+    "Notes/Matrix Addition.md"
   ]
 }

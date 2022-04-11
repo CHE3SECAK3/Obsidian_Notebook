@@ -19,7 +19,7 @@
 > > - Each entry in $C$ is the dot product of a row of $A$ to a column of $B$
 
 > [!note] Matrix Multiplication as a Linear Combination
-> - Matrix multiplication can also be thought of as a *linear combination*
+> - Matrix multiplication can also be thought of as a *linear combination* of columns
 > - If $A = \begin{bmatrix} m & n & p \\ x & y & z \end{bmatrix}$ and $B = \begin{bmatrix} a & d \\ b & e \\ c & f \end{bmatrix}$ :
 > 
 > - The first column of $C$:
@@ -43,4 +43,4 @@
 > > $$\begin{bmatrix}3 & 0 \\ 5 & 1\end{bmatrix} \begin{bmatrix}1 & 2 \\ 2 & 4\end{bmatrix} = \begin{bmatrix}3 & 6 \\ 7 & 14 \end{bmatrix}$$
 ---
 tags: #Linear_Algebra 
-links: [[Matrix]] - [[Linear Combination]] - [[Dot Product]]
+links: [[Matrix]] - [[Dot Product]]
