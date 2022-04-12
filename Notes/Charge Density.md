@@ -9,3 +9,7 @@
 
 - $\rho$ : Volume charge density
 	- $\rho = \frac{Q}{V}$ $\quad\left[\frac{C}{m^3}\right]$
+
+---
+tags: #Physics/Electromagnetism 
+links: [[Charge]]

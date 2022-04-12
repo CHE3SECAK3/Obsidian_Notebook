@@ -7,10 +7,8 @@
         "id": "99e82da761e75c13",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Sketches/Drawing 2022-04-10 19.15.41.excalidraw.md"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-04-10 19.15.41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-04-10 19.15.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,15 +112,15 @@
   },
   "active": "99e82da761e75c13",
   "lastOpenFiles": [
-    "Sketches/Drawing 2022-04-10 19.15.41.excalidraw.md",
-    "Notes/Separable Differential Equation.md",
-    "Notes/Series Convergence.md",
-    "Notes/Divergence and Convergence Tests.md",
-    "Notes/Trigonometric Substitution.md",
-    "Notes/Fractional Decomposition.md",
-    "Notes/Current.md",
+    "Notes/Charge Density.md",
+    "Notes/Charge Conservation.md",
+    "Notes/Charge.md",
+    "Notes/Alternating Series Test.md",
+    "Notes/Alternating Series.md",
+    "Notes/Absolute Convergence.md",
     "Notes/Elementary Row Operations.md",
-    "Notes/Linear System of Equations as a Matrix.md",
-    "Notes/First-Order Linear Differential Equation.md"
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+    "Notes/Electric Field of Rod.md",
+    "Notes/Electric Field of Ring.md"
   ]
 }
