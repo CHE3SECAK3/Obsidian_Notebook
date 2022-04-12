@@ -7,8 +7,10 @@
         "id": "99e82da761e75c13",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "excalidraw",
+          "state": {
+            "file": "Sketches/ckt notes refactor.md"
+          }
         }
       }
     ],
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sketches/ckt notes refactor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sketches/ckt notes refactor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +116,15 @@
   },
   "active": "99e82da761e75c13",
   "lastOpenFiles": [
-    "Notes/Charge Density.md",
-    "Notes/Charge Conservation.md",
-    "Notes/Charge.md",
-    "Notes/Alternating Series Test.md",
-    "Notes/Alternating Series.md",
-    "Notes/Absolute Convergence.md",
-    "Notes/Elementary Row Operations.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Notes/Electric Field of Rod.md",
-    "Notes/Electric Field of Ring.md"
+    "Sketches/ckt notes refactor.md",
+    "Sketches/Electric Field of a Rod.md",
+    "Sketches/Harmonic Series Integral Test.md",
+    "Sketches/Independent Current Source.md",
+    "Sketches/Independent Voltage Source.md",
+    "Sketches/Multi-Step Req Problem.md",
+    "Sketches/Ratio Test Example.md",
+    "Notes/Resistivity.md",
+    "Notes/Power Series.md",
+    "Notes/Ratio Test.md"
   ]
 }
