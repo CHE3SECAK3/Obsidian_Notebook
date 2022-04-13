@@ -7,9 +7,12 @@
         "id": "99e82da761e75c13",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/ckt notes refactor.md"
+            "file": "Notes/Separable Differential Equation.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/ckt notes refactor.md",
+                "file": "Notes/Separable Differential Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/ckt notes refactor.md",
+                "file": "Notes/Separable Differential Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,15 +119,15 @@
   },
   "active": "99e82da761e75c13",
   "lastOpenFiles": [
+    "Notes/Separable Differential Equation.md",
+    "Notes/Resistor.md",
+    "Notes/Geometric Series.md",
+    "Notes/First-Order Linear Differential Equation.md",
+    "Notes/Elementary Row Operations.md",
+    "Notes/P-Series.md",
+    "Notes/Resistivity.md",
     "Sketches/ckt notes refactor.md",
     "Sketches/Electric Field of a Rod.md",
-    "Sketches/Harmonic Series Integral Test.md",
-    "Sketches/Independent Current Source.md",
-    "Sketches/Independent Voltage Source.md",
-    "Sketches/Multi-Step Req Problem.md",
-    "Sketches/Ratio Test Example.md",
-    "Notes/Resistivity.md",
-    "Notes/Power Series.md",
-    "Notes/Ratio Test.md"
+    "Sketches/Harmonic Series Integral Test.md"
   ]
 }

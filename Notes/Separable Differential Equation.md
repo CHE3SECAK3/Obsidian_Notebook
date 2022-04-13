@@ -1,7 +1,7 @@
 # Separable Differential Equation
 Separable equations follow the pattern:
 $$
-y' = G(y)*F(x), \quad y(a) = b
+y' = G(y)\cdot F(x), \quad y(a) = b
 $$
 where:
 - $G(y)$ is a function of $y$
