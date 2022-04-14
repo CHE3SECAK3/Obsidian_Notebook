@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "99e82da761e75c13",
+        "id": "e48d053d71429bb8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Separable Differential Equation.md",
+            "file": "Notes/Geometric Series.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Separable Differential Equation.md",
+                "file": "Notes/Geometric Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Separable Differential Equation.md",
+                "file": "Notes/Geometric Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99e82da761e75c13",
+  "active": "e48d053d71429bb8",
   "lastOpenFiles": [
+    "Notes/Geometric Series.md",
+    "Notes/Divergence and Convergence Tests.md",
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+    "Sketches/Drawing 2022-04-10 19.15.41.excalidraw.md",
     "Notes/Separable Differential Equation.md",
     "Notes/Resistor.md",
-    "Notes/Geometric Series.md",
     "Notes/First-Order Linear Differential Equation.md",
     "Notes/Elementary Row Operations.md",
     "Notes/P-Series.md",
-    "Notes/Resistivity.md",
-    "Sketches/ckt notes refactor.md",
-    "Sketches/Electric Field of a Rod.md",
-    "Sketches/Harmonic Series Integral Test.md"
+    "Notes/Resistivity.md"
   ]
 }
