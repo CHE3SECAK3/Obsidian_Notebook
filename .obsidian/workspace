@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md"
+            "file": "Sketches/ckt notes refactor.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md",
+                "file": "Sketches/ckt notes refactor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,14 +100,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md",
+                "file": "Sketches/ckt notes refactor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,15 +115,15 @@
   },
   "active": "e48d053d71429bb8",
   "lastOpenFiles": [
+    "Sketches/ckt notes refactor.md",
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md",
+    "Sketches/Electric Field of a Ring.md",
+    "Notes/Kirchoff's Current Law.md",
     "Notes/Geometric Series.md",
     "Notes/Divergence and Convergence Tests.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Sketches/Drawing 2022-04-10 19.15.41.excalidraw.md",
     "Notes/Separable Differential Equation.md",
-    "Notes/Resistor.md",
-    "Notes/First-Order Linear Differential Equation.md",
-    "Notes/Elementary Row Operations.md",
-    "Notes/P-Series.md"
+    "Notes/Resistor.md"
   ]
 }
