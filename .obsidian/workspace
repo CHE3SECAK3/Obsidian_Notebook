@@ -7,12 +7,9 @@
         "id": "e48d053d71429bb8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Geometric Series.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Geometric Series.md",
+                "file": "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Geometric Series.md",
+                "file": "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +116,7 @@
   },
   "active": "e48d053d71429bb8",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md",
     "Notes/Geometric Series.md",
     "Notes/Divergence and Convergence Tests.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
@@ -127,7 +125,6 @@
     "Notes/Resistor.md",
     "Notes/First-Order Linear Differential Equation.md",
     "Notes/Elementary Row Operations.md",
-    "Notes/P-Series.md",
-    "Notes/Resistivity.md"
+    "Notes/P-Series.md"
   ]
 }
