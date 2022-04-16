@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e48d053d71429bb8",
+        "id": "5276d53236b6310d",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/ckt notes refactor.md"
+            "file": "Notes/Series.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/ckt notes refactor.md",
+                "file": "Notes/Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/ckt notes refactor.md",
+                "file": "Notes/Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e48d053d71429bb8",
+  "active": "5276d53236b6310d",
   "lastOpenFiles": [
-    "Sketches/ckt notes refactor.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md",
-    "Sketches/Electric Field of a Ring.md",
-    "Notes/Kirchoff's Current Law.md",
-    "Notes/Geometric Series.md",
+    "Notes/Series.md",
+    "Notes/Sequence.md",
+    "Notes/P-Series Test.md",
     "Notes/Divergence and Convergence Tests.md",
-    "Sketches/Drawing 2022-04-10 19.15.41.excalidraw.md",
-    "Notes/Separable Differential Equation.md",
-    "Notes/Resistor.md"
+    "Untitled.md",
+    "Notes/Electric Field of Ring.md",
+    "Notes/Coulomb's Law.md",
+    "Notes/Conductance.md",
+    "Notes/Charge Conservation.md",
+    "Notes/Power Series.md"
   ]
 }

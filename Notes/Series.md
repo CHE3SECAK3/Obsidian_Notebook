@@ -1,5 +1,5 @@
 # Series
-A summation of the terms of a sequence.
+*A summation of a sequence*
 
 
 > [!example]  Example Series
