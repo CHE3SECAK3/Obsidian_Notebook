@@ -25,5 +25,5 @@ x_{1} &= 5\\ x_{2} &= 6 \\ x_{3} &= 3 \\ \\ \bar{x} &= \begin{bmatrix} 5\\
 
 
 ---
-tags: #TODO
+tags: #Linear_Algebra 
 links: [[Matrix]] - [[Matrix Multiplication]]

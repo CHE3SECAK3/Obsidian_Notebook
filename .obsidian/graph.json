@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:TODO",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 12.2029914529915,
   "linkStrength": 0.596581196581197,
   "linkDistance": 500,
-  "scale": 0.2525044831598336,
+  "scale": 0.15018042150362254,
   "close": false
 }

@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5276d53236b6310d",
+        "id": "59f11c2455b87686",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Identity Matrix.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Identity Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Identity Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5276d53236b6310d",
+  "active": "59f11c2455b87686",
   "lastOpenFiles": [
+    "Notes/Gaussian Elimination.md",
+    "Notes/Row Echelon Form.md",
+    "Notes/Inverse Matrix.md",
     "Notes/Identity Matrix.md",
     "Notes/Elementary Row Operations.md",
     "Notes/Matrix.md",
     "Notes/Matrix Addition.md",
     "Notes/Electric Field-Vector and Field-Line Diagrams.md",
     "Sketches/Drawing 2022-04-16 16.46.24.excalidraw.md",
-    "Notes/Series.md",
-    "Notes/Sequence.md",
-    "Notes/P-Series Test.md",
-    "Notes/Divergence and Convergence Tests.md"
+    "Notes/Series.md"
   ]
 }
