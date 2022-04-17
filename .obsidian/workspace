@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Right Habd Rule.md",
+            "file": "Notes/Row Echelon Form.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Right Habd Rule.md",
+                "file": "Notes/Row Echelon Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Right Habd Rule.md",
+                "file": "Notes/Row Echelon Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +118,10 @@
   },
   "active": "59f11c2455b87686",
   "lastOpenFiles": [
+    "Notes/Row Echelon Form.md",
     "Notes/Right Habd Rule.md",
     "Notes/Electric Field of Multiple Point Charges.md",
     "Notes/Gaussian Elimination.md",
-    "Notes/Row Echelon Form.md",
     "Notes/Inverse Matrix.md",
     "Notes/Identity Matrix.md",
     "Notes/Elementary Row Operations.md",
