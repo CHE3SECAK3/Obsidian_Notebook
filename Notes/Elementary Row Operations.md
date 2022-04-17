@@ -29,7 +29,7 @@
 	- Multiplying an equation by a nonzero
 	- Multiplying a row by a nonzero
 
-- Addition
+- Combination
 	- Multiplying one equation and adding it to another
 	- Multiplying one row and adding it to another
 
@@ -45,7 +45,7 @@
 -7a &- 6b & &+ 4d &= -8
 \end{cases}$$
 > 
-> - Permutation:
+> - Permutate:
 > 	- *Swapping first and second equation*
 > $$\begin{bmatrix} 4 & -1 & 2 & 2 \\ -2 & 0 & 5 & -1 \\ -7 & -6 & 0 & 4\end{bmatrix} \begin{bmatrix}a \\ b \\ c \\ d\end{bmatrix} = \begin{bmatrix}-2 \\ 6 \\ -8\end{bmatrix}$$
 > $$\updownarrow$$
@@ -65,7 +65,7 @@
 -7a &- 6b & &+ 4d &= -8
 \end{cases}$$
 >
-> - Addition:
+> - Combine:
 > 	- *Adding 3 times the first equation to the third*
 > $$\begin{bmatrix} 8 & -2 & 4 & 4 \\ -2 & 0 & 5 & -1 \\ 17 & 0 & 12 & 16\end{bmatrix} \begin{bmatrix}a \\ b \\ c \\ d\end{bmatrix} = \begin{bmatrix} -4 \\ 6 \\ -20\end{bmatrix}$$
 > $$\updownarrow$$
