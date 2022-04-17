@@ -7,8 +7,13 @@
         "id": "59f11c2455b87686",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Right Habd Rule.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Right Habd Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Right Habd Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +118,8 @@
   },
   "active": "59f11c2455b87686",
   "lastOpenFiles": [
+    "Notes/Right Habd Rule.md",
+    "Notes/Electric Field of Multiple Point Charges.md",
     "Notes/Gaussian Elimination.md",
     "Notes/Row Echelon Form.md",
     "Notes/Inverse Matrix.md",
@@ -118,8 +127,6 @@
     "Notes/Elementary Row Operations.md",
     "Notes/Matrix.md",
     "Notes/Matrix Addition.md",
-    "Notes/Electric Field-Vector and Field-Line Diagrams.md",
-    "Sketches/Drawing 2022-04-16 16.46.24.excalidraw.md",
-    "Notes/Series.md"
+    "Notes/Electric Field-Vector and Field-Line Diagrams.md"
   ]
 }
