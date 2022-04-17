@@ -18,6 +18,7 @@
 
 > [!warning] Commutative Property
 > - Recall that in matrix multiplication, $AB$ isn't always equal to $BA$
+> - However, a matrix and its inverse *are* commutative
 
 
 
