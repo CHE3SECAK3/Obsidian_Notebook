@@ -7,12 +7,9 @@
         "id": "5276d53236b6310d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Series.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Drawing 2022-04-16 16.46.24.excalidraw.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Series.md",
+                "file": "Sketches/Drawing 2022-04-16 16.46.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Series.md",
+                "file": "Sketches/Drawing 2022-04-16 16.46.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +115,7 @@
   },
   "active": "5276d53236b6310d",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-04-16 16.46.24.excalidraw.md",
     "Notes/Series.md",
     "Notes/Sequence.md",
     "Notes/P-Series Test.md",
@@ -126,7 +124,6 @@
     "Notes/Electric Field of Ring.md",
     "Notes/Coulomb's Law.md",
     "Notes/Conductance.md",
-    "Notes/Charge Conservation.md",
-    "Notes/Power Series.md"
+    "Notes/Charge Conservation.md"
   ]
 }
