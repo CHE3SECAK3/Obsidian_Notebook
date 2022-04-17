@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Drawing 2022-04-17 11.42.14.excalidraw.md"
+            "file": "Sketches/Electric Field of a Disk.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-04-17 11.42.14.excalidraw.md",
+                "file": "Sketches/Electric Field of a Disk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-04-17 11.42.14.excalidraw.md",
+                "file": "Sketches/Electric Field of a Disk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,15 +115,15 @@
   },
   "active": "59f11c2455b87686",
   "lastOpenFiles": [
+    "Sketches/Electric Field of a Disk.md",
+    "Notes/Electric Field of a Disk.md",
+    "Sketches/Electric Field of a Ring.md",
+    "Sketches/Electric Field of a Dipole.md",
+    "Notes/Electric Field of a Ring.md",
+    "Notes/Electric Field of a Rod.md",
+    "Notes/Electric Field of Multiple Point Charges.md",
     "Sketches/Drawing 2022-04-17 11.42.14.excalidraw.md",
     "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Notes/Monotonic Convergence Theorem.md",
-    "Notes/Inverse Matrix.md",
-    "Notes/Row Echelon Form.md",
-    "Notes/Right Habd Rule.md",
-    "Notes/Electric Field of Multiple Point Charges.md",
-    "Notes/Gaussian Elimination.md",
-    "Notes/Identity Matrix.md"
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md"
   ]
 }

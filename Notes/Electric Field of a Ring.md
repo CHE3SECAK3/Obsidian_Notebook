@@ -3,12 +3,15 @@ $$\vec{E}_{\text{ring}} = \frac{1}{{4\pi\epsilon_{0}}} \frac{{Qz}}{\left({z^{2} 
 
 where:
 - $Q$ : Total charge of ring
+
 - $z$ : Distance from center of ring to point of interest
+	- On the axis of symmetry
+
 - $R$ : Radius of ring
 
 
 > [!done] Equation Proof
-> ![[Electric Field of a Ring]]
+> ![[Sketches/Electric Field of a Ring]]
 
 ---
 tags: #Physics/Electromagnetism 
