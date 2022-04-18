@@ -15,11 +15,14 @@ then $\large \sum_{n=0}^{\infty} a_n$ and $\large \sum_{n=0}^{\infty} b_n$ are *
 > And if $\large \sum_{n=0}^{\infty} a_n$ is divergent, then $\large \sum_{n=0}^{\infty} b_n$ is also divergent.
 > 
 
- > [!info] Why?
-> TODO
-> 
+ > [!info] Why does this work?
+> - If the $\lim\limits_{n \to \infty} \frac{a_{n}}{b_{n}}$ is a finite non-zero number, $\lim\limits_{n \to \infty} a_{n} \propto \lim\limits_{n \to \infty} b_{n}$ 
+> 	- $a_n$ converges proportionally to $b_n$
+>
+> - So if $\sum\limits b_{n}$ converges, then $\sum\limits a_{n}$ also converges, but the actual value might be bigger or smaller depending how much faster or slower $a_{n}$ converges compared to $b_{n}$
+
 
 
 ---
-tags: #Calculus/Sequences_and_Series - #TODO 
+tags: #Calculus/Sequences_and_Series
 links:  [[Limit]] - [[Divergence and Convergence Tests]]

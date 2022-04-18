@@ -21,14 +21,8 @@ $$ Q = \int\limits_{0}^{L} \lambda dx $$
 
 ___
 
-- In a *uniformly* distributed object, $\lambda$ is constant, but density could also be *variable* as a function of the point on the object
-
-## Plane
-
-## Ring
-
-## Disk
+- In a *uniformly* distributed object, $\lambda$ is constant, but density could also be *variable* as a function of the point on the object $\lambda (x)$
 
 ---
-tags: #TODO - #Physics/Electromagnetism 
+tags: #Physics/Electromagnetism 
 links: [[Charge]] - [[Integral]] - [[Charge Density]]
