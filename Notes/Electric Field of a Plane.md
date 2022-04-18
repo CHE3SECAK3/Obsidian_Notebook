@@ -11,7 +11,7 @@ where:
 >   
 >   - For a *finite* plane, the infinite plane equation can be used as long as the point of interest is not too close to the edge of the surface
 
-> [!info] Electric Field Proof
+> [!check] Electric Field Proof
 > ![[Sketches/Electric Field of a Disk]]
 
 

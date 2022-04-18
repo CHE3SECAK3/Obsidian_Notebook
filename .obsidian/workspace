@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Electric Field of a Plane.md",
-            "mode": "preview",
+            "file": "Notes/ERO as Matrix Multiplication.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Electric Field of a Plane.md",
+                "file": "Notes/ERO as Matrix Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Electric Field of a Plane.md",
+                "file": "Notes/ERO as Matrix Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +118,15 @@
   },
   "active": "09ee8dc6e9135aa7",
   "lastOpenFiles": [
+    "Notes/ERO as Matrix Multiplication.md",
+    "Notes/Charge Density.md",
+    "Notes/Gaussian Elimination.md",
     "Notes/Electric Field of a Plane.md",
     "Sketches/Electric Field of a Disk.md",
     "Notes/Electric Field of a Disk.md",
     "Notes/Electric Field of a Ring.md",
     "Notes/Electric Field of a Rod.md",
     "Notes/Electric Field.md",
-    "Sketches/Electric Field of a Ring.md",
-    "Sketches/Electric Field of a Dipole.md",
-    "Notes/Electric Field of Multiple Point Charges.md",
-    "Sketches/Drawing 2022-04-17 11.42.14.excalidraw.md"
+    "Sketches/Electric Field of a Ring.md"
   ]
 }
