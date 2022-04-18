@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "59f11c2455b87686",
+        "id": "09ee8dc6e9135aa7",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Electric Field of a Disk.md"
+            "file": "Notes/Electric Field of a Plane.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Electric Field of a Disk.md",
+                "file": "Notes/Electric Field of a Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Electric Field of a Disk.md",
+                "file": "Notes/Electric Field of a Plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "59f11c2455b87686",
+  "active": "09ee8dc6e9135aa7",
   "lastOpenFiles": [
+    "Notes/Electric Field of a Plane.md",
     "Sketches/Electric Field of a Disk.md",
     "Notes/Electric Field of a Disk.md",
-    "Sketches/Electric Field of a Ring.md",
-    "Sketches/Electric Field of a Dipole.md",
     "Notes/Electric Field of a Ring.md",
     "Notes/Electric Field of a Rod.md",
+    "Notes/Electric Field.md",
+    "Sketches/Electric Field of a Ring.md",
+    "Sketches/Electric Field of a Dipole.md",
     "Notes/Electric Field of Multiple Point Charges.md",
-    "Sketches/Drawing 2022-04-17 11.42.14.excalidraw.md",
-    "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md"
+    "Sketches/Drawing 2022-04-17 11.42.14.excalidraw.md"
   ]
 }

@@ -19,4 +19,4 @@ where:
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Electric Field]] - [[Integral]]
+links: [[Electric Field]]
