@@ -26,7 +26,7 @@
 
 ## Power
 - In passive convention, the power dissipated by a circuit component would be positive ($P = IV$)
-- This means that power generation is negative
+- This means that power generation by a source is negative
 
 ---
 tags: #Circuits 
