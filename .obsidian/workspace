@@ -7,9 +7,12 @@
         "id": "141ea7a6b5ea6327",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Nodal Analysis Example.md"
+            "file": "Notes/Parallel Plate Capacitor.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Nodal Analysis Example.md",
+                "file": "Notes/Parallel Plate Capacitor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Nodal Analysis Example.md",
+                "file": "Notes/Parallel Plate Capacitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,15 +119,15 @@
   },
   "active": "141ea7a6b5ea6327",
   "lastOpenFiles": [
+    "Notes/Parallel Plate Capacitor.md",
+    "Sketches/Parallel-Plate Capacitor.md",
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+    "Sketches/Dependent Voltage Source.md",
+    "Notes/Alternating Series Test.md",
     "Sketches/Nodal Analysis Example.md",
     "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Sketches/Drawing 2022-04-17 11.42.14.excalidraw.md",
     "Sketches/Drawing 2022-04-16 16.46.24.excalidraw.md",
-    "Sketches/Independent Voltage Source.md",
-    "Sketches/Multi-Step Req Problem.md",
-    "Notes/Untitled.md",
-    "Notes/Kirchoff's Current Law.md",
-    "Notes/Node.md"
+    "Sketches/Independent Voltage Source.md"
   ]
 }
