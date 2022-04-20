@@ -8,9 +8,7 @@
 	- $Q$ = charge ($C$)
 	- $t$ = time ($s$)
 
-## Conventional Current and Electron Flow
-
 
 ---
-tags: #Circuits - #TODO 
+tags: #Circuits
 links: [[Charge]]

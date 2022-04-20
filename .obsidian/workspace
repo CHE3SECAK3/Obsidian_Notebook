@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Power Series.md",
+            "file": "Notes/Passive Sign Convention.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Power Series.md",
+                "file": "Notes/Passive Sign Convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Power Series.md",
+                "file": "Notes/Passive Sign Convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +118,15 @@
   },
   "active": "e731f84201e9d640",
   "lastOpenFiles": [
+    "Notes/Passive Sign Convention.md",
+    "Notes/P-Series Test.md",
+    "Notes/Current.md",
+    "Sketches/Passive Sign Convention.md",
+    "Notes/Charge.md",
+    "Notes/Coulomb.md",
     "Notes/Power Series.md",
     "Notes/Taylor Series.md",
     "Notes/Insulator.md",
-    "Notes/Power.md",
-    "Notes/P-Series.md",
-    "Notes/Charge Distribution.md",
-    "Notes/Limit Comparison Test.md",
-    "Notes/Kirchoff's Voltage Law.md",
-    "Notes/Kirchoff's Current Law.md",
-    "Notes/Divergence and Convergence Tests.md"
+    "Notes/Power.md"
   ]
 }
