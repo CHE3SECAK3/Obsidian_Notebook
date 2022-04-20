@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c019924057bb319c",
+        "id": "2815db7ac5d070d4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Kirchoff's Voltage Law.md",
+            "file": "Notes/Motion of a Charged Particle.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kirchoff",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Kirchoff's Voltage Law.md",
+                "file": "Notes/Motion of a Charged Particle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Kirchoff's Voltage Law.md",
+                "file": "Notes/Motion of a Charged Particle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c019924057bb319c",
+  "active": "2815db7ac5d070d4",
   "lastOpenFiles": [
+    "Notes/Motion of a Charged Particle.md",
+    "Sketches/Electric Field vs Gravity.md",
+    "Notes/Electric Field.md",
+    "Notes/Power Series.md",
+    "Notes/Kirchoff's Laws.md",
     "Notes/Kirchoff's Voltage Law.md",
-    "Notes/Electric Field of a Parallel-Plate Capacitor.md",
-    "Notes/Passive Sign Convention.md",
-    "Notes/Electric Field of a Disk.md",
-    "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Sketches/2x2 Determinant Proof.md",
-    "Sketches/Electric Field of a Dipole.md",
+    "Sketches/Drawing 2022-04-20 11.04.24.excalidraw.md",
     "Notes/Untitled.md",
-    "Sketches/Parallel-Plate Capacitor.md"
+    "Integral.md",
+    "Notes/Electric Field of a Parallel-Plate Capacitor.md"
   ]
 }

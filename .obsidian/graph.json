@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "kirch",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -18,5 +18,5 @@
   "linkStrength": 0.596581196581197,
   "linkDistance": 500,
   "scale": 0.20245809592663927,
-  "close": false
+  "close": true
 }
