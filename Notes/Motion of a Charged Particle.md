@@ -17,6 +17,6 @@
 > [!warning] Charge vs Mass
 > - Point charges can be positive *or* negative
 >  
-> - This means that positive point charges move in the direction of the electric field while negative charges move in the opposite direction
+> - This means that positive point charges have a force in the direction of the electric field while negative charges have a force in the opposite direction
 >  
 > - This is different than objects affected by gravity, since mass can only be positive and gravity is an attractive force
