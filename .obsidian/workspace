@@ -7,12 +7,9 @@
         "id": "d7a4159321e62eef",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Kirchoff's Current Law.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Nodal Analysis Example.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Kirchoff's Current Law.md",
+                "file": "Sketches/Nodal Analysis Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Kirchoff's Current Law.md",
+                "file": "Sketches/Nodal Analysis Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +116,8 @@
   },
   "active": "d7a4159321e62eef",
   "lastOpenFiles": [
+    "Sketches/Nodal Analysis Example.md",
+    "Notes/Untitled.md",
     "Notes/Kirchoff's Current Law.md",
     "Notes/Node.md",
     "Sketches/Node.md",
@@ -126,8 +125,6 @@
     "Notes/Electrical Source.md",
     "Sketches/Independent Current Source.md",
     "Notes/Matrix.md",
-    "Sketches/Dependent Current Source.md",
-    "Notes/Passive Sign Convention.md",
-    "Notes/Right Hand Rule.md"
+    "Sketches/Dependent Current Source.md"
   ]
 }
