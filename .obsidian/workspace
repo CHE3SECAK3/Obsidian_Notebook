@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d7a4159321e62eef",
+        "id": "141ea7a6b5ea6327",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
@@ -114,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7a4159321e62eef",
+  "active": "141ea7a6b5ea6327",
   "lastOpenFiles": [
     "Sketches/Nodal Analysis Example.md",
+    "Sketches/Drawing 2022-04-14 09.56.49.excalidraw.md",
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+    "Sketches/Drawing 2022-04-17 11.42.14.excalidraw.md",
+    "Sketches/Drawing 2022-04-16 16.46.24.excalidraw.md",
+    "Sketches/Independent Voltage Source.md",
+    "Sketches/Multi-Step Req Problem.md",
     "Notes/Untitled.md",
     "Notes/Kirchoff's Current Law.md",
-    "Notes/Node.md",
-    "Sketches/Node.md",
-    "Notes/Power.md",
-    "Notes/Electrical Source.md",
-    "Sketches/Independent Current Source.md",
-    "Notes/Matrix.md",
-    "Sketches/Dependent Current Source.md"
+    "Notes/Node.md"
   ]
 }
