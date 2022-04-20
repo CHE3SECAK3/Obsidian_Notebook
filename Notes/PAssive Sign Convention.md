@@ -6,23 +6,28 @@
 
 - This means that:
 	- Electrons flow from a negative to a positive voltage
-		- $- \rightarrow_{-i} +$
+		- $\mathop{+ \quad -} \limits^ {\mathop{\curvearrowleft}\limits^V}_{\mathop{\longleftarrow}\limits_{i}}$
 	- Current ($\frac{C}{s}$) is negative since an electron has $-1.6 \times 10^{19}C$
 
 ## Passive Sign Convention
-- However, circuit analysis adopted a universal convention to treat current as *positive*
+- However, the universal convention to label current is in the direction of a positive to negative voltage terminal
 
 - This means that:
 
-	- Positive current flows through a drop in voltage (positive to negative)
-		- $+ \rightarrow_{i} -$
+	- Current flows through a drop in voltage
+		- $\mathop{+ \quad -} \limits^ {\mathop{\curvearrowleft}\limits^V}_{\mathop{\longrightarrow}\limits_{i}}$
+
+- A positive current in passive sign convention means the current is flowing in the direction of the current arrow
 
 > [!question] Why?
 > - Early circuit analysts assumed that current flowed from the positive to the negative terminal (without the knowledge of electrons)
 > 
-> - The convention is kept since the mathematics behind circuit analysis (Ohm's Law) is consistent regardless of what is considered "positive" and "negative"
+> - The convention is kept since the mathematics behind circuit analysis (Ohm's Law) is consistent with passive convention
 
+## Power
+- In passive convention, the power dissipated by a circuit component would be positive ($P = IV$)
+- This means that power generation is negative
 
 ---
 tags: #Circuits 
-links: [[Current]]
+links: [[Current]] - [[Voltage]] - [[Power]]

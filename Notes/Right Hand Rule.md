@@ -1,4 +1,4 @@
-# Right Habd Rule
+# Right Hand Rule
 
 ---
 tags: #TODO
