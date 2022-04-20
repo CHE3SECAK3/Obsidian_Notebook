@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "742b842011005a09",
+        "id": "d7a4159321e62eef",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Electrical Source.md",
-            "mode": "source",
+            "file": "Notes/Kirchoff's Current Law.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Electrical Source.md",
+                "file": "Notes/Kirchoff's Current Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Electrical Source.md",
+                "file": "Notes/Kirchoff's Current Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,19 +114,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "742b842011005a09",
+  "active": "d7a4159321e62eef",
   "lastOpenFiles": [
+    "Notes/Kirchoff's Current Law.md",
+    "Notes/Node.md",
+    "Sketches/Node.md",
+    "Notes/Power.md",
     "Notes/Electrical Source.md",
     "Sketches/Independent Current Source.md",
+    "Notes/Matrix.md",
     "Sketches/Dependent Current Source.md",
     "Notes/Passive Sign Convention.md",
-    "Notes/Right Hand Rule.md",
-    "Sketches/Passive Sign Convention.md",
-    "Notes/Resistor.md",
-    "Notes/Resistance.md",
-    "Notes/Ohm's Law.md",
-    "Notes/P-Series Test.md"
+    "Notes/Right Hand Rule.md"
   ]
 }
