@@ -10,5 +10,5 @@
 	- $I$ : Current ($A$)
 
 ---
-tags: #TODO - #Circuits 
+tags: #Circuits 
 links: [[Current]] - [[Voltage]] - [[Ohm's Law]]

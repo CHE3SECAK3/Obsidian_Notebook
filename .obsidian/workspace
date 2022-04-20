@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Passive Sign Convention.md",
-            "mode": "preview",
+            "file": "Notes/Resistor.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Passive Sign Convention.md",
+                "file": "Notes/Resistor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Passive Sign Convention.md",
+                "file": "Notes/Resistor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +118,15 @@
   },
   "active": "e731f84201e9d640",
   "lastOpenFiles": [
+    "Notes/Resistor.md",
+    "Notes/Resistance.md",
+    "Notes/Ohm's Law.md",
     "Notes/Passive Sign Convention.md",
     "Notes/P-Series Test.md",
     "Notes/Current.md",
     "Sketches/Passive Sign Convention.md",
     "Notes/Charge.md",
     "Notes/Coulomb.md",
-    "Notes/Power Series.md",
-    "Notes/Taylor Series.md",
-    "Notes/Insulator.md",
-    "Notes/Power.md"
+    "Notes/Power Series.md"
   ]
 }

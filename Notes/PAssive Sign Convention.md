@@ -18,7 +18,7 @@
 		- $+ \rightarrow_{i} -$
 
 > [!question] Why?
-> - Early circuit analysts assumed that current flowed from the positive to the negative terminal (without the knowledge of the electron)
+> - Early circuit analysts assumed that current flowed from the positive to the negative terminal (without the knowledge of electrons)
 > 
 > - The convention is kept since the mathematics behind circuit analysis (Ohm's Law) is consistent regardless of what is considered "positive" and "negative"
 
