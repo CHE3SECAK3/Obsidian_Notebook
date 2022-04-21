@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Nodal and Mesh Analysis Example.md"
+            "file": "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md"
           }
         }
       }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kirchoff",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Nodal and Mesh Analysis Example.md",
+                "file": "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,44 +87,34 @@
             }
           },
           {
-            "id": "68375f0769ebda88",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "fef3e365dd2c3968",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Nodal and Mesh Analysis Example.md",
+                "file": "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "2815db7ac5d070d4",
   "lastOpenFiles": [
-    "Sketches/Nodal and Mesh Analysis Example.md",
+    "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md",
     "Notes/Motion of a Dipole.md",
-    "Notes/Motion of a Charged Particle.md",
-    "Sketches/Electric Field vs Gravity.md",
-    "Notes/Electric Field.md",
-    "Notes/Power Series.md",
-    "Notes/Kirchoff's Laws.md",
-    "Notes/Kirchoff's Voltage Law.md",
-    "Sketches/Drawing 2022-04-20 11.04.24.excalidraw.md",
-    "Notes/Untitled.md"
+    "Notes/Current.md",
+    "Notes/Charge Distribution.md",
+    "Notes/Alternating Series Test.md",
+    "Notes/Charge Conservation.md",
+    "Notes/Charge.md",
+    "Notes/Conductor.md",
+    "Notes/Coulomb.md",
+    "Notes/Electric Charges and Forces.md"
   ]
 }
