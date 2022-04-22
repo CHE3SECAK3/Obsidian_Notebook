@@ -7,9 +7,12 @@
         "id": "2815db7ac5d070d4",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md"
+            "file": "Notes/Motion of a Charged Particle.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md",
+                "file": "Notes/Motion of a Charged Particle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md",
+                "file": "Notes/Motion of a Charged Particle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +110,7 @@
   },
   "active": "2815db7ac5d070d4",
   "lastOpenFiles": [
+    "Notes/Motion of a Charged Particle.md",
     "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md",
     "Notes/Motion of a Dipole.md",
     "Notes/Current.md",
@@ -115,7 +119,6 @@
     "Notes/Charge Conservation.md",
     "Notes/Charge.md",
     "Notes/Conductor.md",
-    "Notes/Coulomb.md",
-    "Notes/Electric Charges and Forces.md"
+    "Notes/Coulomb.md"
   ]
 }
