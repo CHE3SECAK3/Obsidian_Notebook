@@ -7,12 +7,9 @@
         "id": "2815db7ac5d070d4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Motion of a Charged Particle.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Parallel-Plate Capacitor.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Motion of a Charged Particle.md",
+                "file": "Sketches/Parallel-Plate Capacitor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Motion of a Charged Particle.md",
+                "file": "Sketches/Parallel-Plate Capacitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +107,15 @@
   },
   "active": "2815db7ac5d070d4",
   "lastOpenFiles": [
+    "Sketches/Parallel-Plate Capacitor.md",
+    "Sketches/Nodal and Mesh Analysis Example.md",
+    "Sketches/Multi-Step Req Problem.md",
+    "Notes/Electric Field of a Parallel-Plate Capacitor.md",
     "Notes/Motion of a Charged Particle.md",
     "Sketches/Electric Field vs Gravity.md",
     "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md",
     "Notes/Motion of a Dipole.md",
     "Notes/Current.md",
-    "Notes/Charge Distribution.md",
-    "Notes/Alternating Series Test.md",
-    "Notes/Charge Conservation.md",
-    "Notes/Charge.md",
-    "Notes/Conductor.md"
+    "Notes/Charge Distribution.md"
   ]
 }
