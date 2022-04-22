@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Notes/Motion of a Charged Particle.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -111,6 +111,7 @@
   "active": "2815db7ac5d070d4",
   "lastOpenFiles": [
     "Notes/Motion of a Charged Particle.md",
+    "Sketches/Electric Field vs Gravity.md",
     "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md",
     "Notes/Motion of a Dipole.md",
     "Notes/Current.md",
@@ -118,7 +119,6 @@
     "Notes/Alternating Series Test.md",
     "Notes/Charge Conservation.md",
     "Notes/Charge.md",
-    "Notes/Conductor.md",
-    "Notes/Coulomb.md"
+    "Notes/Conductor.md"
   ]
 }
