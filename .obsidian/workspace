@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2815db7ac5d070d4",
+        "id": "afb3bd3808f6b064",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Parallel-Plate Capacitor.md"
+            "file": "Sketches/Drawing 2022-04-20 11.04.24.excalidraw.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Parallel-Plate Capacitor.md",
+                "file": "Sketches/Drawing 2022-04-20 11.04.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Parallel-Plate Capacitor.md",
+                "file": "Sketches/Drawing 2022-04-20 11.04.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2815db7ac5d070d4",
+  "active": "afb3bd3808f6b064",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-04-20 11.04.24.excalidraw.md",
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+    "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md",
+    "Sketches/Drawing 2022-04-24 11.49.04.excalidraw.md",
+    "Sketches/Node.md",
+    "Notes/Motion of a Dipole.md",
     "Sketches/Parallel-Plate Capacitor.md",
     "Sketches/Nodal and Mesh Analysis Example.md",
     "Sketches/Multi-Step Req Problem.md",
-    "Notes/Electric Field of a Parallel-Plate Capacitor.md",
-    "Notes/Motion of a Charged Particle.md",
-    "Sketches/Electric Field vs Gravity.md",
-    "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md",
-    "Notes/Motion of a Dipole.md",
-    "Notes/Current.md",
-    "Notes/Charge Distribution.md"
+    "Notes/Electric Field of a Parallel-Plate Capacitor.md"
   ]
 }

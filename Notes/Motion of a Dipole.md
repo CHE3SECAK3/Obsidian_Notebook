@@ -6,6 +6,8 @@
 - However, a dipole may have a rotational force (or torque) acting on it
 
 $$\vec{\tau} = \vec{p} \times \vec{E}$$
+$$\vec{\tau} = p E\sin{\theta}$$
+
 where:
 
 - $\vec{\tau}$ : Torque
