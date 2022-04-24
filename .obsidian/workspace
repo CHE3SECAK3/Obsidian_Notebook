@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "afb3bd3808f6b064",
+        "id": "4adf15952dff6feb",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-04-20 11.04.24.excalidraw.md"
+            "file": "Notes/Vector.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-04-20 11.04.24.excalidraw.md",
+                "file": "Notes/Vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-04-20 11.04.24.excalidraw.md",
+                "file": "Notes/Vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "afb3bd3808f6b064",
+  "active": "4adf15952dff6feb",
   "lastOpenFiles": [
-    "Sketches/Drawing 2022-04-20 11.04.24.excalidraw.md",
+    "Notes/Vector.md",
+    "Notes/Untitled.md",
+    "Sketches/Charging Conductors by Induction.md",
+    "Sketches/Charging Insulators by Induction.md",
+    "Sketches/ckt notes refactor.md",
+    "Sketches/Coulomb's Law Example.md",
+    "Sketches/Cross Product Proof.md",
+    "Sketches/Dependent Voltage Source.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Sketches/Drawing 2022-04-21 10.13.57.excalidraw.md",
-    "Sketches/Drawing 2022-04-24 11.49.04.excalidraw.md",
-    "Sketches/Node.md",
-    "Notes/Motion of a Dipole.md",
-    "Sketches/Parallel-Plate Capacitor.md",
-    "Sketches/Nodal and Mesh Analysis Example.md",
-    "Sketches/Multi-Step Req Problem.md",
-    "Notes/Electric Field of a Parallel-Plate Capacitor.md"
+    "Sketches/Drawing 2022-04-20 11.04.24.excalidraw.md"
   ]
 }

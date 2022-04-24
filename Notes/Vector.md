@@ -9,8 +9,8 @@ $$\vec{F} = \left| \vec{F} \right| \left[
 \end{pmatrix}
 
 \begin{pmatrix}
-\sin\Theta \\
-\cos\Theta
+\sin\theta \\
+\cos\theta
 \end{pmatrix}
 (\hat i) +
 
@@ -20,8 +20,8 @@ $$\vec{F} = \left| \vec{F} \right| \left[
 \end{pmatrix}
 
 \begin{pmatrix}
-\cos\Theta \\
-\sin\Theta
+\cos\theta \\
+\sin\theta
 \end{pmatrix}
 (\hat j)
 \right] $$
