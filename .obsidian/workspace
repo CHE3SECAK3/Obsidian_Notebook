@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4adf15952dff6feb",
+        "id": "338f3b4ef5f488e6",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md"
+            "file": "Notes/Electric Potential Energy.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+                "file": "Notes/Electric Potential Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+                "file": "Notes/Electric Potential Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,8 +108,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4adf15952dff6feb",
+  "active": "338f3b4ef5f488e6",
   "lastOpenFiles": [
+    "Notes/Electric Potential Energy.md",
+    "Notes/Motion of a Dipole.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Sketches/Dependent Voltage Source.md",
     "Sketches/Electric Field of a Disk.md",
@@ -114,8 +119,6 @@
     "Sketches/Electric Field of a Rod.md",
     "Sketches/Electric Field of Point Charge.md",
     "Notes/Vector.md",
-    "Notes/Untitled.md",
-    "Sketches/Charging Conductors by Induction.md",
-    "Sketches/Charging Insulators by Induction.md"
+    "Sketches/Charging Conductors by Induction.md"
   ]
 }

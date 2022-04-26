@@ -8,11 +8,17 @@
 $$\vec{\tau} = \vec{p} \times \vec{E}$$
 $$\vec{\tau} = p E\sin{\theta}$$
 
-where:
+- where:
+	
+	- $\vec{\tau}$ : Torque
+	- $\vec{p}$ : Dipole moment
 
-- $\vec{\tau}$ : Torque
-- $\vec{p}$ : Dipole moment
+- $\vec{\tau}_{\text{max}}$ is when the dipole moment is perpendicular to the electric field
+	- when $\sin{\theta}$ is max ($\sin 90 = 1$)
+- $\vec{\tau} = 0$ when the dipole moment is parallel to the electric field
+	- Stable equilibrium when $\theta = 0^\circ$
+	- Unstable equilibrium when $\theta = 180^\circ$
 
 ---
 tags: #TODO - #Physics/Electromagnetism 
-links: [[Dipole]] - [[Motion of a Charged Particle]] - [[Torque]]
+links: [[Dipole]] - [[Motion of a Charged Particle]] - [[Torque]] - [[Stable Equilibrium]]
