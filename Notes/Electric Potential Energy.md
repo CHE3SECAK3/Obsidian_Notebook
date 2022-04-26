@@ -21,7 +21,11 @@
 > 
 
 - In a constant electric field the force on a point charge is $F = qE$
-- Potential energy is negative work 
+- $U = qEs$ where:
+	- $U$ : Electric potential energy
+	- $q$ : Point charge
+	- $E$ : Electric field strength
+	- $s$ : Distance 
 
 ---
 tags: #TODO - #Physics/Electromagnetism 
