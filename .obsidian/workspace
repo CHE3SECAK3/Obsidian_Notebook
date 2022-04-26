@@ -7,12 +7,9 @@
         "id": "a5480f8cd5856bad",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Electric Potential Energy.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Drawing 2022-04-26 15.10.52.excalidraw.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Electric Potential Energy.md",
+                "file": "Sketches/Drawing 2022-04-26 15.10.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Electric Potential Energy.md",
+                "file": "Sketches/Drawing 2022-04-26 15.10.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +107,7 @@
   },
   "active": "a5480f8cd5856bad",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-04-26 15.10.52.excalidraw.md",
     "Notes/Electric Potential Energy.md",
     "Notes/Motion of a Dipole.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
@@ -118,7 +116,6 @@
     "Sketches/Electric Field of a Ring.md",
     "Sketches/Electric Field of a Rod.md",
     "Sketches/Electric Field of Point Charge.md",
-    "Notes/Vector.md",
-    "Sketches/Charging Conductors by Induction.md"
+    "Notes/Vector.md"
   ]
 }
