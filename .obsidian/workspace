@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "338f3b4ef5f488e6",
+        "id": "a5480f8cd5856bad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Notes/Electric Potential Energy.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -108,7 +108,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "338f3b4ef5f488e6",
+  "active": "a5480f8cd5856bad",
   "lastOpenFiles": [
     "Notes/Electric Potential Energy.md",
     "Notes/Motion of a Dipole.md",
