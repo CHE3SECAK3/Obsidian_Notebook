@@ -7,12 +7,9 @@
         "id": "4adf15952dff6feb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Vector.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Vector.md",
+                "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Vector.md",
+                "file": "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +107,15 @@
   },
   "active": "4adf15952dff6feb",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
+    "Sketches/Dependent Voltage Source.md",
+    "Sketches/Electric Field of a Disk.md",
+    "Sketches/Electric Field of a Ring.md",
+    "Sketches/Electric Field of a Rod.md",
+    "Sketches/Electric Field of Point Charge.md",
     "Notes/Vector.md",
     "Notes/Untitled.md",
     "Sketches/Charging Conductors by Induction.md",
-    "Sketches/Charging Insulators by Induction.md",
-    "Sketches/ckt notes refactor.md",
-    "Sketches/Coulomb's Law Example.md",
-    "Sketches/Cross Product Proof.md",
-    "Sketches/Dependent Voltage Source.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Sketches/Drawing 2022-04-20 11.04.24.excalidraw.md"
+    "Sketches/Charging Insulators by Induction.md"
   ]
 }
