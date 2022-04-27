@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Electric Potential Energy of Point Charges.md",
-            "mode": "preview",
+            "file": "Notes/Electric Potential Energy of a Dipole.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Electric Potential Energy of Point Charges.md",
+                "file": "Notes/Electric Potential Energy of a Dipole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Electric Potential Energy of Point Charges.md",
+                "file": "Notes/Electric Potential Energy of a Dipole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +110,7 @@
   },
   "active": "4f2be91ee6a5aef8",
   "lastOpenFiles": [
+    "Notes/Electric Potential Energy of a Dipole.md",
     "Notes/Electric Potential Energy of Point Charges.md",
     "Notes/Untitled.md",
     "Notes/Electric Field of a Rod.md",
@@ -118,7 +119,6 @@
     "Sketches/Drawing 2022-04-26 15.10.52.excalidraw.md",
     "Notes/Motion of a Dipole.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Sketches/Dependent Voltage Source.md",
-    "Sketches/Electric Field of a Disk.md"
+    "Sketches/Dependent Voltage Source.md"
   ]
 }
