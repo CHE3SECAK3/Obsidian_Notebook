@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Notes/Electric Potential.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -41,16 +41,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
+                "query": "coulomb's constant",
+                "matchingCase": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,6 +112,7 @@
   "active": "870a349e4af395b0",
   "lastOpenFiles": [
     "Notes/Electric Potential.md",
+    "Notes/Coulomb's Law.md",
     "Notes/Electric Field.md",
     "Notes/Electric Field of a Ring.md",
     "Notes/Electric Field of a Disk.md",
@@ -118,7 +120,6 @@
     "Notes/Electric Field of a Parallel-Plate Capacitor.md",
     "Notes/Electric Potential Energy.md",
     "Notes/Voltage.md",
-    "Notes/Electric Potential Energy of a Dipole.md",
-    "Sketches/Electric Potential Energy of a Dipole.md"
+    "Notes/Electric Potential Energy of a Dipole.md"
   ]
 }

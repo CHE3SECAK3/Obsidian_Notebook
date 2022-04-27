@@ -15,7 +15,12 @@
 > - Both are determined using a *source charge* that affects the space around it
 
 ## Formula
-- $$V$$
+- $V = K \large\frac{q}{r}\quad$ where:
+
+	- $V$ : Electric potential
+	- $K$ : Coulomb's constant
+	- $q$ : Source charge
+	- $r$ : An arbitrary distance from $q$
 
 ---
 tags: #TODO
