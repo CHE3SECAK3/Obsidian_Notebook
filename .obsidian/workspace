@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Notes/Electric Potential Energy of Point Charges.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -111,6 +111,7 @@
   "active": "4f2be91ee6a5aef8",
   "lastOpenFiles": [
     "Notes/Electric Potential Energy of Point Charges.md",
+    "Notes/Untitled.md",
     "Notes/Electric Field of a Rod.md",
     "Sketches/Electric Potential Energy of Two Point Charge System.md",
     "Notes/Electric Potential Energy.md",
@@ -118,7 +119,6 @@
     "Notes/Motion of a Dipole.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Sketches/Dependent Voltage Source.md",
-    "Sketches/Electric Field of a Disk.md",
-    "Sketches/Electric Field of a Ring.md"
+    "Sketches/Electric Field of a Disk.md"
   ]
 }
