@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "870a349e4af395b0",
+        "id": "70159e7a79e311a2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Electric Potential.md",
-            "mode": "preview",
+            "file": "Notes/Electric Potential of a Parallel-Plate Capacitor.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coulomb's constant",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Electric Potential.md",
+                "file": "Notes/Electric Potential of a Parallel-Plate Capacitor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Electric Potential.md",
+                "file": "Notes/Electric Potential of a Parallel-Plate Capacitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "870a349e4af395b0",
+  "active": "70159e7a79e311a2",
   "lastOpenFiles": [
+    "Notes/Electric Potential of a Parallel-Plate Capacitor.md",
     "Notes/Electric Potential.md",
-    "Notes/Coulomb's Law.md",
-    "Notes/Electric Field.md",
-    "Notes/Electric Field of a Ring.md",
-    "Notes/Electric Field of a Disk.md",
-    "Notes/Electric Field of a Plane.md",
-    "Notes/Electric Field of a Parallel-Plate Capacitor.md",
     "Notes/Electric Potential Energy.md",
-    "Notes/Voltage.md",
-    "Notes/Electric Potential Energy of a Dipole.md"
+    "Notes/Electric Potential Energy of a Dipole.md",
+    "Sketches/Electric Potential Energy of Two Point Charge System.md",
+    "Sketches/Electric Potential Energy of a Dipole.md",
+    "Sketches/Electric Field of Point Charge.md",
+    "Sketches/Electric Field vs Gravity.md",
+    "Notes/Electric Potential Energy of Point Charges.md",
+    "Notes/Coulomb's Law.md"
   ]
 }

@@ -1,0 +1,1 @@
+# Electric Potential of a Parallel-Plate Capacitor
