@@ -7,9 +7,12 @@
         "id": "4f2be91ee6a5aef8",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-04-26 19.50.49.excalidraw.md"
+            "file": "Notes/Electric Potential Energy of Point Charges.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-04-26 19.50.49.excalidraw.md",
+                "file": "Notes/Electric Potential Energy of Point Charges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-04-26 19.50.49.excalidraw.md",
+                "file": "Notes/Electric Potential Energy of Point Charges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,15 +110,15 @@
   },
   "active": "4f2be91ee6a5aef8",
   "lastOpenFiles": [
-    "Sketches/Drawing 2022-04-26 19.50.49.excalidraw.md",
     "Notes/Electric Potential Energy of Point Charges.md",
+    "Notes/Electric Field of a Rod.md",
+    "Sketches/Electric Potential Energy of Two Point Charge System.md",
     "Notes/Electric Potential Energy.md",
     "Sketches/Drawing 2022-04-26 15.10.52.excalidraw.md",
     "Notes/Motion of a Dipole.md",
     "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Sketches/Dependent Voltage Source.md",
     "Sketches/Electric Field of a Disk.md",
-    "Sketches/Electric Field of a Ring.md",
-    "Sketches/Electric Field of a Rod.md"
+    "Sketches/Electric Field of a Ring.md"
   ]
 }
