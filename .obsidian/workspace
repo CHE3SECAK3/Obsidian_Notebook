@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Notes/Electric Potential.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -112,13 +112,13 @@
   "lastOpenFiles": [
     "Notes/Electric Potential.md",
     "Notes/Electric Field.md",
+    "Notes/Electric Field of a Ring.md",
+    "Notes/Electric Field of a Disk.md",
+    "Notes/Electric Field of a Plane.md",
+    "Notes/Electric Field of a Parallel-Plate Capacitor.md",
     "Notes/Electric Potential Energy.md",
     "Notes/Voltage.md",
     "Notes/Electric Potential Energy of a Dipole.md",
-    "Sketches/Electric Potential Energy of a Dipole.md",
-    "Sketches/Electric Potential Energy of Two Point Charge System.md",
-    "Notes/Electric Potential Energy of Point Charges.md",
-    "Notes/Motion of a Dipole.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md"
+    "Sketches/Electric Potential Energy of a Dipole.md"
   ]
 }
