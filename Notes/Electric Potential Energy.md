@@ -23,7 +23,11 @@
 > 	- $qE = F$ : Electric force on the object by an electric field
 > 
 > - Electric systems have electric potential energy (instead of gravitational) that can be converted to kinetic energy!
-> 	- If $s = 0$, then all the potential energy is converted to kinetic 
+> 	- If $s = 0$, then all the potential energy is converted to kinetic
+> 
+> > [!warning] Negative Charge
+> > - If a charge is positive, potential energy *decreases* in the direction of the electric field
+> > - If a charge is negative, potiential energy *increases* in the direction of the electric field
 
 
 ---
