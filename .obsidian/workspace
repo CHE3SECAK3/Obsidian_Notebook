@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Electric Potential Energy of a Dipole.md",
-            "mode": "source",
+            "file": "Notes/Electric Potential.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Electric Potential Energy of a Dipole.md",
+                "file": "Notes/Electric Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Electric Potential Energy of a Dipole.md",
+                "file": "Notes/Electric Potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "870a349e4af395b0",
   "lastOpenFiles": [
+    "Notes/Electric Potential.md",
+    "Notes/Electric Field.md",
+    "Notes/Electric Potential Energy.md",
+    "Notes/Voltage.md",
     "Notes/Electric Potential Energy of a Dipole.md",
     "Sketches/Electric Potential Energy of a Dipole.md",
     "Sketches/Electric Potential Energy of Two Point Charge System.md",
     "Notes/Electric Potential Energy of Point Charges.md",
     "Notes/Motion of a Dipole.md",
-    "Notes/Electric Potential Energy.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Sketches/Drawing 2022-04-26 15.10.52.excalidraw.md",
-    "Sketches/Electric Field of a Dipole.md",
-    "Notes/Untitled.md"
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md"
   ]
 }

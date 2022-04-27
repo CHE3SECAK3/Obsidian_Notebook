@@ -1,5 +1,5 @@
 # Electric Field
-- *The electric vector influencer*
+- *The electric force influence of a charge*
 
 - An electric force can be modeled by:
 

@@ -12,4 +12,4 @@
 
 ---
 tags: #Circuits
-links: [[Work]] - [[Charge]] - [[Potential Energy]]
+links: [[Work]] - [[Charge]] - [[Electric Potential Energy]]
