@@ -11,7 +11,6 @@
 > - [[Alternating Series Test]]
 > - [[Ratio Test]]
 > - [[Root Test]]
->   
 
 ---
 tags: #Calculus/Sequences_and_Series

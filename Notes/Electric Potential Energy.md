@@ -31,5 +31,5 @@
 
 
 ---
-tags: #TODO - #Physics/Electromagnetism 
+tags: #Physics/Electromagnetism 
 links: [[Law of Conservation of Energy]] - [[Motion of a Charged Particle]]

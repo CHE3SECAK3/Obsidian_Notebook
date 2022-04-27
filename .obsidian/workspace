@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Electric Potential of a Parallel-Plate Capacitor.md",
-            "mode": "source",
+            "file": "Notes/Electric Field.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Electric Potential of a Parallel-Plate Capacitor.md",
+                "file": "Notes/Electric Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Electric Potential of a Parallel-Plate Capacitor.md",
+                "file": "Notes/Electric Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "70159e7a79e311a2",
   "lastOpenFiles": [
+    "Notes/Electric Field.md",
     "Notes/Electric Potential of a Parallel-Plate Capacitor.md",
-    "Notes/Electric Potential.md",
-    "Notes/Electric Potential Energy.md",
-    "Notes/Electric Potential Energy of a Dipole.md",
-    "Sketches/Electric Potential Energy of Two Point Charge System.md",
-    "Sketches/Electric Potential Energy of a Dipole.md",
-    "Sketches/Electric Field of Point Charge.md",
-    "Sketches/Electric Field vs Gravity.md",
+    "Notes/Electric Potential of a Point Charge.md",
     "Notes/Electric Potential Energy of Point Charges.md",
-    "Notes/Coulomb's Law.md"
+    "Notes/Electric Potential.md",
+    "Notes/Divergence and Convergence Tests.md",
+    "Notes/Electrical Source.md",
+    "Notes/Electric Potential Energy.md",
+    "Notes/Taylor Series.md",
+    "Notes/Equipotential Voltage Field.md"
   ]
 }

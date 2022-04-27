@@ -28,17 +28,6 @@
 >
 > - Negative charges have the opposite effect
 
-
-
-## Formula
-- $V = K \large\frac{q}{r}\quad$ where:
-
-	- $V$ : Electric potential
-	- $K$ : Coulomb's constant
-	- $q$ : Source charge
-	- $r$ : An arbitrary distance from $q$
-
-
 ---
-tags: #TODO - #Physics/Electromagnetism 
+tags: #Physics/Electromagnetism 
 links: [[Law of Conservation of Energy]] - [[Electric Field]] - [[Voltage]]
