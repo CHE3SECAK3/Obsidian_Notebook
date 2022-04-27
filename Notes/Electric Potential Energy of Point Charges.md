@@ -12,4 +12,6 @@ $$U_\text{elec} = K \frac{q_{1}q_{2}}{r} $$
 
 ## $U_\text{elec}$ of Multiple Point-Charge System
 
-- 
+$$U_\text{sys} = \sum\limits U_i$$
+- where:
+	- $i$ : Point charge pair
