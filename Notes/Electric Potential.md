@@ -11,8 +11,10 @@
 
 > [!seealso] Electric Potential and Electric Field
 > - $\vec{E}$ determines $F_\text{elec}$ on any charge in the vector field
+> 	- $F = q\vec{E}$
 >
 > - $V$ determines $U_\text{elec}$ on any charge in the *scalar* field
+> 	- $U = qV$
 > 
 > - Both are determined using a *source charge* that affects the space around it
 
