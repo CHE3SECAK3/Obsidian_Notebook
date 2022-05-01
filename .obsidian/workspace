@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Electric Field.md",
+            "file": "Notes/Electric Field of a Rod.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Electric Field.md",
+                "file": "Notes/Electric Field of a Rod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Electric Field.md",
+                "file": "Notes/Electric Field of a Rod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "70159e7a79e311a2",
   "lastOpenFiles": [
+    "Notes/Electric Field of a Rod.md",
+    "Notes/Electric Field of a Ring.md",
+    "Notes/Electric Field of a Disk.md",
     "Notes/Electric Field.md",
     "Notes/Electric Potential of a Parallel-Plate Capacitor.md",
     "Notes/Electric Potential of a Point Charge.md",
     "Notes/Electric Potential Energy of Point Charges.md",
     "Notes/Electric Potential.md",
     "Notes/Divergence and Convergence Tests.md",
-    "Notes/Electrical Source.md",
-    "Notes/Electric Potential Energy.md",
-    "Notes/Taylor Series.md",
-    "Notes/Equipotential Voltage Field.md"
+    "Notes/Electrical Source.md"
   ]
 }
