@@ -9,3 +9,21 @@
 	- $q$ : An arbitrary point charge of interest
 		- *Does not affect the potential of a space*
 
+![[Sketches/Electric Potential of a Point Charge]]
+
+> [!note] $V$, $\vec{E}$, and $r$
+> - $\vec{E} \propto \Large\frac{1}{r^{2}}$
+> 	- Electric field if proportional to the *inverse square* of distance
+>
+> - $V \propto \Large\frac{1}{r}$
+> 	- Electric potential is proportional to the *linear inverse* of distance
+
+
+## Multiple Source Point Charges
+$$V_\text{total} = \sum\limits V_{i}$$ where:
+- $V_{i}$ : Potential from each individual point charge
+
+
+---
+tags: #Physics/Electromagnetism 
+links:

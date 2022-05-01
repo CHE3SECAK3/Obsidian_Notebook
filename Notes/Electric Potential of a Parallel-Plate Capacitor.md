@@ -7,7 +7,7 @@
 	- $E$ : Electric field strength inside capacitor
 	- $s$ : Distance from the negative plate
 
-- $E$ can easily be measured by $\frac{\Delta V_{C}}{d}$, where:
+- $\vec{E}$ can be calculated with voltage and distance between the capacitor's electrodes: $\frac{\Delta V_{C}}{d}$, where:
 	- $\Delta V_{C}$ : Potential difference between the electrodes of a capacitor
 	- $d$ : Distance between electrodes ($s_\text{max}$)
 	- Units of electric field: $E = \large{\frac{N}{C}} = \large{\frac{V}{m}}$
@@ -16,6 +16,9 @@
 
 - $\vec{E}$ is in the direction (positive to negative plate) of a voltage drop
 	- $\Delta V_{C} = V_{f} - V_{i} = qE(s_{0}) - qE(s_{max}) = -qEd$
+
+![[Electric Potential of Parallel-Plate Capacitors]]
+- Capacitors have equipotential lines parallel to the plates since potential does't change if a charge is to the left or right ($V = qEs$)
 
 ---
 tags: #Physics/Electromagnetism 
