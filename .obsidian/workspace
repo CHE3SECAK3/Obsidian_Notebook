@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba18c9240983fe8a",
+        "id": "28afa44405897195",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Elementary Row Operations.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linear combination",
+                "query": "permittivity",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -50,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Elementary Row Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Elementary Row Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba18c9240983fe8a",
+  "active": "28afa44405897195",
   "lastOpenFiles": [
-    "Notes/Elementary Row Operations.md",
-    "Notes/Matrix Multiplication.md",
-    "Notes/First-Order Linear Differential Equation.md",
-    "Notes/Span.md",
-    "Notes/Linear Independence.md",
+    "Notes/Equipotential Voltage Field.md",
+    "Sketches/Equipotential Lines.md",
+    "Notes/Electric Potential Energy.md",
+    "Notes/Electric Potential.md",
+    "Notes/Electric Field.md",
     "Notes/Electric Potential Energy of Point Charges.md",
+    "Notes/Electric Potential Energy of a Dipole.md",
     "Notes/Electric Potential of a Point Charge.md",
-    "Sketches/Electric Potential of a Point Charge.md",
-    "Notes/Electric Potential of a Parallel-Plate Capacitor.md",
-    "Sketches/Electric Potential of Parallel-Plate Capacitors.md"
+    "Notes/Passive Sign Convention.md",
+    "Notes/Power.md"
   ]
 }

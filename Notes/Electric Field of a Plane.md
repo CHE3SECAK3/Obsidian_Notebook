@@ -1,8 +1,8 @@
 # Electric Field of a Plane
-$$\vec{E}_{\text{plane}} = \frac{\eta}{2\epsilon_{0}}$$
-
-where:
-- $\eta$ : Surface charge density
+> [!note] Electric Field Equation 
+> $$\vec{E}_{\text{plane}} = \frac{\eta}{2\epsilon_{0}}$$ where:
+> - $\eta$ : Surface charge density
+> - $\epsilon_{0}$ : Permittivity of free space
 
 > [!info] Strength of Electric Field
 > - For an infinite plane of charge, the strength of the electric field is *independent* of the distance between the point of interest and the plane.
@@ -17,6 +17,6 @@ where:
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Electric Field of a Disk]]
+links: [[Electric Field of a Disk]] - [[Charge Density]] - [[Permittivity of Free Space]]
 
 

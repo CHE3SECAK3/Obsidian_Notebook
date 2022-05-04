@@ -6,7 +6,22 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#Calculus/Sequences_and_Series",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -2,
@@ -17,6 +32,6 @@
   "repelStrength": 12.2029914529915,
   "linkStrength": 0.596581196581197,
   "linkDistance": 500,
-  "scale": 0.14873405003075418,
+  "scale": 0.20128186312384677,
   "close": false
 }

@@ -1,4 +1,4 @@
-# Charge Conservation
+# Law of Conservation of Charge
 - *Charges cannot be created or destroyed*
 	- In an electrically isolated system:
 		- Number of protons and electrons cannot change 
@@ -8,4 +8,4 @@
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Charge]]
+links: [[Charge]] - [[Law of Conservation of Energy]]

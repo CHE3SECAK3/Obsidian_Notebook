@@ -3,10 +3,12 @@
 - Symbol: $G$
 - Units: Siemen ($S$)
 
-- $G = \large\frac{1}{R}$
-	- $G$ : Conductance ($S$)
-	- $R$ : Resistance ($\Omega$)
-	- $\therefore 1S = \large \frac{1}{\Omega} = \frac{1}{\frac{V}{A}} = \frac{A}{V}$
+> [!note] Conductane and Resistance
+> - Conductance and resistance are *inversely* related.
+> $$\begin{align*}
+G &= \frac{1}{R}\\\\
+S &= \frac{1}{\Omega} = \frac{A}{V}
+\end{align*}$$
 
 
 ---

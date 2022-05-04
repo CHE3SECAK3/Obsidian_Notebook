@@ -3,7 +3,10 @@
 
 - An electrode is a charged surface approximated by an infinite plane
 
-$$\vec{E}_{C}= \begin{cases}\frac{\eta}{\epsilon_{0}}, &\text{inside} \\ 0, &\text{outside}\end{cases}$$
+> [!note] Electric Field Equation
+> $$\vec{E}_{C}= \begin{cases}\frac{\eta}{\epsilon_{0}}, &\text{inside} \\ 0, &\text{outside}\end{cases}$$ where:
+> - $\eta$ : Surface charge density
+> - $\epsilon_{0}$ : Permittivity of free space
 
 > [!success] Electric Field Proof
 > ![[Parallel-Plate Capacitor]]
@@ -17,4 +20,4 @@ $$\vec{E}_{C}= \begin{cases}\frac{\eta}{\epsilon_{0}}, &\text{inside} \\ 0, &\te
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Electric Field of a Plane]]
+links: [[Electric Field of a Plane]] - [[Charge Density]] - [[Permittivity of Free Space]]

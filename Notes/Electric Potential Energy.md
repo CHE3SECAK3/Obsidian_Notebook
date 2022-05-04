@@ -1,5 +1,6 @@
 # Electric Potential Energy
 - *Internal electric energy*
+
 - Electric energy also follows the law of energy conservation.
 	- $E_\text{mech} = U_\text{elec} + K$
 

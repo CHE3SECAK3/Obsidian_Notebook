@@ -1,13 +1,17 @@
 # Electric Field
 - *The electric force influence of a charge*
 
-- An electric force can be modeled by:
+- Symbol : $\vec{E}$
 
-$$\vec{F}_{\textit{on q}} = q \vec{E}\quad \text{where:}$$
-- q: Point charge -> Property of the object
+- Units : $\frac{N}{C}$
 
-- $\vec{E}$: Electric Field of a *source charge* -> Property of the location
-	- Units: $\frac{N}{C}$ or $\frac{V}{m}$, where $V= \frac{J}{C}$
+> [!note] Electric Field Equation
+> - An electric force can be modeled by: $$\vec{F}_{\textit{on q}} = q \vec{E}$$ where:
+> 	- $q$ : Point charge -> Property of the object
+>
+> 	- $\vec{E}$ : Electric Field of a *source charge* -> Property of the location
+
+
 
 > [!question]- Force Properties
 > - The force on an object is dependent on:
