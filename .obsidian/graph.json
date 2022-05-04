@@ -1,7 +1,7 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -11,14 +11,21 @@
       "query": "tag:#Calculus/Sequences_and_Series",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5404128
       }
     },
     {
-      "query": "",
+      "query": "tag:#Physics/Electromagnetism",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 6938706
+      }
+    },
+    {
+      "query": "tag:#Circuits",
+      "color": {
+        "a": 1,
+        "rgb": 16077137
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 12.2029914529915,
   "linkStrength": 0.596581196581197,
   "linkDistance": 500,
-  "scale": 0.20128186312384677,
+  "scale": 0.0686735029854758,
   "close": false
 }
