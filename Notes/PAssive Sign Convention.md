@@ -20,9 +20,11 @@
 - A positive current in passive sign convention means the current is flowing in the direction of the current arrow
 
 > [!question] Why?
-> - Early circuit analysts assumed that current flowed from the positive to the negative terminal (without the knowledge of electrons)
+> - Early circuit analysts assumed that current was the flow of positive charges from the positive to the negative terminal (without the knowledge of electrons)
 > 
-> - The convention is kept since the mathematics behind circuit analysis (Ohm's Law) is consistent with passive convention
+> - The convention is kept since the mathematics behind circuit analysis is consistent with passive convention
+
+![[Direction of Current | 500]]
 
 ## Power
 - In passive convention, the power dissipated by a circuit component would be positive ($P = IV$)

@@ -21,8 +21,21 @@ i_{e} &= n_{e} \cdot A  \cdot v_{d}\Delta t
 > - $\Delta x$ : Distance of wire section
 > - $v_{d}$ : Drift velocity -> The speed of a moving electron in a wire
 
-> [!note] Drift Speed 
+> [!note] Drift Velocity
+> - Drift velocity is very slow (~ $10^{-4} \frac{m}{s}$) 
+>
+> 	- *So how do circuit components get charge fast enough to work?*
+>
+> - Because electrons travel in large quantities, its slow speed is offset by the total amount of charge a sea of electrons carry
+
+> [!warning] Current vs Electron Current
+> - Current ($I$) and electron current ($i_e$) are different but related
+>
+> - $i_{e} = \large \frac{N_{e}}{s}$, or the number of electrons per second
+> - $I = \large \frac{C}{s}$, or the amount of *positive* charge per second
+> 
+> - Since an electron has a fundamental charge of $-e$, $I = \large{\frac{N_{e} e}{s}} = ei_{e}$ 
 
 ---
-tags: #TODO - #Physics/Electromagnetism 
+tags: #Physics/Electromagnetism 
 links: [[Current]]
