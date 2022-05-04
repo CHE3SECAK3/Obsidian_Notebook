@@ -3,3 +3,11 @@
 
 - Symbol : $i_{e}$
 
+> [!note] Electron Current Equation
+> $$\begin{align*}
+
+\end{align*}$$
+
+---
+tags: #TODO
+links:
