@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Resistor.md",
-            "mode": "preview",
+            "file": "Notes/Electron Current.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Resistor.md",
+                "file": "Notes/Electron Current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Resistor.md",
+                "file": "Notes/Electron Current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +110,8 @@
   },
   "active": "28afa44405897195",
   "lastOpenFiles": [
+    "Notes/Electron Current.md",
+    "Notes/Current.md",
     "Notes/Resistor.md",
     "Notes/Resistivity.md",
     "Notes/Capacitance.md",
@@ -117,8 +119,6 @@
     "Notes/Inverse Matrix.md",
     "Notes/Limit Comparison Test.md",
     "Notes/Kirchoff's Laws.md",
-    "Notes/Equipotential Voltage Field.md",
-    "Sketches/Equipotential Lines.md",
-    "Notes/Electric Potential Energy.md"
+    "Notes/Equipotential Voltage Field.md"
   ]
 }
