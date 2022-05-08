@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "28afa44405897195",
+        "id": "055f5c1652864e74",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Current Density.md",
+            "file": "Notes/Kirchoff's Laws.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Current Density.md",
+                "file": "Notes/Kirchoff's Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Current Density.md",
+                "file": "Notes/Kirchoff's Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "28afa44405897195",
+  "active": "055f5c1652864e74",
   "lastOpenFiles": [
+    "Notes/Kirchoff's Laws.md",
+    "Notes/Charge Conservation.md",
     "Notes/Current Density.md",
+    "Notes/Electron Current.md",
     "Notes/Absolute Convergence.md",
     "Notes/Capacitance.md",
-    "Notes/Electron Current.md",
     "Notes/Electric Field-Vector and Field-Line Diagrams.md",
     "Notes/Passive Sign Convention.md",
     "Notes/Current.md",
-    "Notes/Electrical Source.md",
-    "Sketches/Direction of Current.md",
-    "Sketches/Passive Sign Convention.md"
+    "Notes/Electrical Source.md"
   ]
 }

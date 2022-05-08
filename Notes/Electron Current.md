@@ -3,12 +3,14 @@
 
 - Symbol : $i_{e}$
 
+- Units: $\frac{\text{electrons}}{s}$, $\text{Hz}$
+
 > [!note] Electron Current Equation
 > $$\begin{align*}
-i_{e} &= \frac{N_{e}}{\Delta t}\\ \\
-N_{e} &= n_{e} \cdot V = n_{e} \cdot A \Delta x\\ \\
-\Delta x &= v_{d} \cdot \Delta t \\\\
-i_{e} &= n_{e} \cdot A  \cdot v_{d}\Delta t
+i_{e} &= \frac{N_{e}}{\Delta t} = \frac{n_{e}A \Delta x }{\Delta t}\\ \\
+&&N_{e} &= n_{e}V, \quad \text{where} \quad V = A \Delta x \\ \\
+&&\frac{\Delta x}{\Delta t} &= v_{d} \\\\
+i_{e} &= n_{e}Av_{d}
 \end{align*}$$ 
 > 
 > where:
@@ -16,7 +18,7 @@ i_{e} &= n_{e} \cdot A  \cdot v_{d}\Delta t
 >
 > - $N_{e}$ : Number of electrons that pass through a section of wire
 > - $n_{e}$ : Electron density (property of wire material)
-> - $V$ : Volume of the section of wire
+> - $V$ : Volume of wire section
 > - $A$ : Cross-sectional area of wire
 > - $\Delta x$ : Distance of wire section
 > - $v_{d}$ : Drift velocity -> The speed of a moving electron in a wire

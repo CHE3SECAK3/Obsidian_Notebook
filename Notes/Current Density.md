@@ -9,11 +9,15 @@
 
 > [!note] Current Density and Electron Current
 > $$\begin{align*}
-&&J &= \frac{I}{A} \quad \rightarrow\quad\frac{\text{current}}{\text{area}} \\\\
-I &= ei_{e} \\\\
-i_{e} &= n_{e}v_{d}A \\\\
-&&J &= e n_{e} v_{d}
+J &= \frac{I}{\text{A}} \\\\
+&&I &= ei_{e} \\\\
+&&i_{e} &= n_{e}Av_{d} \\\\
+J &= e n_{e} v_{d}
 \end{align*}$$
+> - where:
+> 	- $I$ : current ($\text{Amps}$)
+> 	- $A$ : cross-sectional area of wire ($m^{2}$)
+> 	- $i_{e}$ : Electron current
 
 
 ---
