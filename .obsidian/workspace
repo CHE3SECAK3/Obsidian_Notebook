@@ -7,12 +7,9 @@
         "id": "055f5c1652864e74",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Voltage.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Capacitor Circuit Diagram.md"
           }
         }
       }
@@ -50,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Voltage.md",
+                "file": "Sketches/Capacitor Circuit Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Voltage.md",
+                "file": "Sketches/Capacitor Circuit Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +107,15 @@
   },
   "active": "055f5c1652864e74",
   "lastOpenFiles": [
+    "Sketches/Capacitor Circuit Diagram.md",
+    "Sketches/Resistor Circuit Diagram.md",
+    "Sketches/Drawing 2022-05-08 14.00.56.excalidraw.md",
+    "Sketches/Direction of Current.md",
+    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
     "Notes/Voltage.md",
     "Notes/Equipotential Voltage Field.md",
     "Notes/Electric Potential.md",
     "Notes/Current.md",
-    "Notes/Coulomb's Law.md",
-    "Notes/Ohm's Law.md",
-    "Notes/Resistivity.md",
-    "Notes/Resistance.md",
-    "Notes/Absolute Convergence.md",
-    "Notes/Alternating Series.md"
+    "Notes/Coulomb's Law.md"
   ]
 }
