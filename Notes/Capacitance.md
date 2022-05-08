@@ -10,7 +10,7 @@
 	- $V$ : Voltage
 
 > [!note] Capacitance Equations
-> $$\begin{align*} C &= \frac{Q}{V_C} \\\\ E_C &= \frac{\eta}{\epsilon_{0}} = \frac{Q}{\epsilon_{0}A}\\\\ V_C &= Ed \\\\ C &= \frac{Q}{\frac{Q}{\epsilon_{0}A} d} \\\\ C &= \epsilon_{0} \frac{A}{d}\end{align*}$$ where:
+> $$\begin{align*} C &= \frac{Q}{V_C} \\\\ &&E_C &= \frac{\eta}{\epsilon_{0}} = \frac{Q}{\epsilon_{0}A}\\\\ &&V_C &= Ed = \frac{Q}{\epsilon_{0}A}d \\\\ &&C &= \frac{Q}{\frac{Q}{\epsilon_{0}A} d} \\\\ C &= \epsilon_{0} \frac{A}{d}\end{align*}$$ where:
 > 
 > - $C$ : Capacitance
 >

@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "055f5c1652864e74",
+        "id": "128c9ee2fe467006",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Capacitor Circuit Diagram.md"
+            "file": "Notes/Capacitor.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Capacitor Circuit Diagram.md",
+                "file": "Notes/Capacitor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Capacitor Circuit Diagram.md",
+                "file": "Notes/Capacitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "055f5c1652864e74",
+  "active": "128c9ee2fe467006",
   "lastOpenFiles": [
-    "Sketches/Capacitor Circuit Diagram.md",
-    "Sketches/Resistor Circuit Diagram.md",
-    "Sketches/Drawing 2022-05-08 14.00.56.excalidraw.md",
-    "Sketches/Direction of Current.md",
-    "Sketches/Drawing 2022-04-05 09.46.48.excalidraw.md",
-    "Notes/Voltage.md",
-    "Notes/Equipotential Voltage Field.md",
-    "Notes/Electric Potential.md",
-    "Notes/Current.md",
-    "Notes/Coulomb's Law.md"
+    "Notes/Capacitor.md",
+    "Sketches/Types of Resistors.md",
+    "Sketches/Capacitors in Series.md",
+    "Sketches/Capacitors in Parallel.md",
+    "Notes/Capacitance.md",
+    "Notes/Conductance.md",
+    "Notes/Conductivity.md",
+    "Notes/Conductor.md",
+    "Notes/Temperature Coefficient of Resistance.md",
+    "Notes/Resistor.md"
   ]
 }
