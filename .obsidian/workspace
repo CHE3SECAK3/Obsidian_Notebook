@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Kirchoff's Laws.md",
+            "file": "Notes/Voltage.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Kirchoff's Laws.md",
+                "file": "Notes/Voltage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Kirchoff's Laws.md",
+                "file": "Notes/Voltage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "055f5c1652864e74",
   "lastOpenFiles": [
-    "Notes/Kirchoff's Laws.md",
-    "Notes/Charge Conservation.md",
-    "Notes/Current Density.md",
-    "Notes/Electron Current.md",
+    "Notes/Voltage.md",
+    "Notes/Resistivity.md",
+    "Notes/Resistance.md",
     "Notes/Absolute Convergence.md",
+    "Notes/Alternating Series.md",
+    "Notes/Alternating Series Test.md",
+    "Notes/Charge Conservation.md",
+    "Notes/Charge.md",
     "Notes/Capacitance.md",
-    "Notes/Electric Field-Vector and Field-Line Diagrams.md",
-    "Notes/Passive Sign Convention.md",
-    "Notes/Current.md",
-    "Notes/Electrical Source.md"
+    "Notes/Kirchoff's Laws.md"
   ]
 }
