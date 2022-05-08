@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Voltage.md",
+            "file": "Notes/Current.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Voltage.md",
+                "file": "Notes/Current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Voltage.md",
+                "file": "Notes/Current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "055f5c1652864e74",
   "lastOpenFiles": [
+    "Notes/Current.md",
+    "Notes/Coulomb's Law.md",
+    "Notes/Ohm's Law.md",
     "Notes/Voltage.md",
     "Notes/Resistivity.md",
     "Notes/Resistance.md",
     "Notes/Absolute Convergence.md",
     "Notes/Alternating Series.md",
     "Notes/Alternating Series Test.md",
-    "Notes/Charge Conservation.md",
-    "Notes/Charge.md",
-    "Notes/Capacitance.md",
-    "Notes/Kirchoff's Laws.md"
+    "Notes/Charge Conservation.md"
   ]
 }
