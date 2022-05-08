@@ -37,5 +37,5 @@ R_T &= \left(\frac{1}{R_{1}} + \frac{1}{R_{2}} + ... + \frac{1}{R_{n}}\right)^{-
 
 
 ---
-tags: #TODO - #Circuits
+tags: #Circuits
 links: [[Series and Parallel]] - [[Resistance]]

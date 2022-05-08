@@ -21,5 +21,5 @@ J &= e n_{e} v_{d}
 
 
 ---
-tags: #TODO - #Physics/Electromagnetism 
+tags: #Physics/Electromagnetism 
 links: [[Current]] - [[Electron Current]]

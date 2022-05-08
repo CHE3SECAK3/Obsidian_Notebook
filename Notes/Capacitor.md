@@ -43,5 +43,5 @@ C_T &= \left(\frac{1}{C_{1}} + \frac{1}{C_{2}} + ... + \frac{1}{C_{n}}\right)^{-
 
 
 ---
-tags: #TODO - #Circuits 
+tags: #Circuits 
 links: [[Series and Parallel]] - [[Capacitance]]
