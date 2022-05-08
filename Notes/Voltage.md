@@ -8,8 +8,8 @@
 	- $W$ = work or $\Delta PE$ ($J$)
 	- $Q$ = charge ($C$)
 
-- Voltage is the electric potential energy per unit charge between 2 points
+- Also known as the change in electric potential
 
 ---
 tags: #Circuits
-links: [[Work]] - [[Charge]] - [[Electric Potential Energy]]
+links: [[Work]] - [[Charge]] - [[Electric Potential]]
