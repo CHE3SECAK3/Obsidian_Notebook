@@ -9,6 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Notes/Resistor.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "da89bb2e57169cb3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Notes/Capacitor.md",
             "mode": "preview",
             "backlinks": false,
@@ -41,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "potential",
+                "query": "tag:#Circuits",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "128c9ee2fe467006",
+  "active": "da89bb2e57169cb3",
   "lastOpenFiles": [
     "Notes/Capacitor.md",
+    "Notes/Resistor.md",
+    "Notes/Series and Parallel.md",
+    "Notes/Capacitance.md",
+    "Sketches/ckt notes refactor.md",
+    "Sketches/Series and Parallel.md",
     "Sketches/Types of Resistors.md",
     "Sketches/Capacitors in Series.md",
     "Sketches/Capacitors in Parallel.md",
-    "Notes/Capacitance.md",
-    "Notes/Conductance.md",
-    "Notes/Conductivity.md",
-    "Notes/Conductor.md",
-    "Notes/Temperature Coefficient of Resistance.md",
-    "Notes/Resistor.md"
+    "Notes/Conductance.md"
   ]
 }
