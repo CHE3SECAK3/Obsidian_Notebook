@@ -5,6 +5,10 @@
 	- $I$ : Current
 	- $R$ : Resistance
 
+> [!note] $I = \frac{\Delta V}{R}$
+> 
+
+
 > [!question] Proof?
 > For now, take Ohm's Law to be the Circuit Bible®.
 

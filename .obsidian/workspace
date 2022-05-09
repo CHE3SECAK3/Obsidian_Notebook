@@ -7,8 +7,13 @@
         "id": "d8b13c1f479e96ed",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Ohm's Law.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Ohm's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Ohm's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +110,7 @@
   },
   "active": "d8b13c1f479e96ed",
   "lastOpenFiles": [
+    "Notes/Ohm's Law.md",
     "Notes/Conductance.md",
     "Notes/Conductivity.md",
     "Notes/Capacitor.md",
@@ -111,7 +119,6 @@
     "Notes/Series and Parallel.md",
     "Notes/Capacitance.md",
     "Sketches/ckt notes refactor.md",
-    "Sketches/Series and Parallel.md",
-    "Sketches/Types of Resistors.md"
+    "Sketches/Series and Parallel.md"
   ]
 }
