@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Ohm's Law.md",
+            "file": "Notes/Capacitance.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Ohm's Law.md",
+                "file": "Notes/Capacitance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Ohm's Law.md",
+                "file": "Notes/Capacitance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +110,7 @@
   },
   "active": "d8b13c1f479e96ed",
   "lastOpenFiles": [
+    "Notes/Capacitance.md",
     "Notes/Ohm's Law.md",
     "Notes/Conductance.md",
     "Notes/Conductivity.md",
@@ -117,7 +118,6 @@
     "Notes/Current Density.md",
     "Notes/Resistor.md",
     "Notes/Series and Parallel.md",
-    "Notes/Capacitance.md",
     "Sketches/ckt notes refactor.md",
     "Sketches/Series and Parallel.md"
   ]
