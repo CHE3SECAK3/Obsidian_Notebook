@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Capacitance.md",
-            "mode": "preview",
+            "file": "Notes/EE TODO.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Capacitance.md",
+                "file": "Notes/EE TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Capacitance.md",
+                "file": "Notes/EE TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +110,8 @@
   },
   "active": "d8b13c1f479e96ed",
   "lastOpenFiles": [
+    "Notes/EE TODO.md",
+    "Sketches/Drawing 2022-05-10 10.45.01.excalidraw.md",
     "Notes/Capacitance.md",
     "Notes/Ohm's Law.md",
     "Notes/Conductance.md",
@@ -117,8 +119,6 @@
     "Notes/Capacitor.md",
     "Notes/Current Density.md",
     "Notes/Resistor.md",
-    "Notes/Series and Parallel.md",
-    "Sketches/ckt notes refactor.md",
-    "Sketches/Series and Parallel.md"
+    "Notes/Series and Parallel.md"
   ]
 }
