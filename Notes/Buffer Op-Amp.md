@@ -8,6 +8,7 @@
 > [!question] Why?
 > - *What is the point of a buffer op-amp?*
 > - Buffer op-amps negate the *load effect*
+> ![[Load Effect|1000]]
 
 
 ---
