@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Drawing 2022-05-10 21.28.00.excalidraw.md"
+            "file": "Sketches/Inverting and Non-Inverting Operational Amplifier.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-05-10 21.28.00.excalidraw.md",
+                "file": "Sketches/Inverting and Non-Inverting Operational Amplifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-05-10 21.28.00.excalidraw.md",
+                "file": "Sketches/Inverting and Non-Inverting Operational Amplifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
   },
   "active": "d8b13c1f479e96ed",
   "lastOpenFiles": [
-    "Sketches/Drawing 2022-05-10 21.28.00.excalidraw.md",
+    "Sketches/Inverting and Non-Inverting Operational Amplifier.md",
     "Notes/EE TODO.md",
     "Sketches/Drawing 2022-05-10 10.45.01.excalidraw.md",
     "Notes/Capacitance.md",
