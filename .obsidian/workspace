@@ -7,12 +7,9 @@
         "id": "2a4dd61cde2ceeb7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Inverting Op-Amp.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Load Effect.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inverting Op-Amp.md",
+                "file": "Sketches/Load Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inverting Op-Amp.md",
+                "file": "Sketches/Load Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +107,15 @@
   },
   "active": "2a4dd61cde2ceeb7",
   "lastOpenFiles": [
-    "Notes/Inverting Op-Amp.md",
+    "Sketches/Load Effect.md",
+    "Sketches/Drawing 2022-05-10 10.45.01.excalidraw.md",
     "Notes/Buffer Op-Amp.md",
+    "Notes/Inverting Op-Amp.md",
     "Sketches/Buffer Op-Amp.md",
     "Sketches/Inverting Op-Amp.md",
     "Notes/Non-Inverting Op-Amp.md",
     "Notes/Gaussian Elimination.md",
     "Sketches/Non-Inverting Op-Amp.md",
-    "Notes/Operational Amplifier.md",
-    "Notes/EE TODO.md",
-    "Sketches/Nodal and Mesh Analysis Example.md"
+    "Notes/Operational Amplifier.md"
   ]
 }

@@ -7,7 +7,7 @@
 
 > [!question] Why?
 > - *What is the point of a buffer op-amp?*
-> - Buffer op-amps negate *load resistance*
+> - Buffer op-amps negate the *load effect*
 
 
 ---
