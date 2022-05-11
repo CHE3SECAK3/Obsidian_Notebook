@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6a5f72b98add9e31",
+        "id": "4545a332916e0134",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md"
+            "file": "Sketches/Thevenin and Norton Equivalence Example.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
+                "file": "Sketches/Thevenin and Norton Equivalence Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
+                "file": "Sketches/Thevenin and Norton Equivalence Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a5f72b98add9e31",
+  "active": "4545a332916e0134",
   "lastOpenFiles": [
+    "Sketches/Thevenin and Norton Equivalence Example.md",
     "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
+    "Sketches/Drawing 2022-05-10 10.45.01.excalidraw.md",
     "Notes/Operational Amplifier Circuit Diagram.md",
     "Notes/Operational Amplifier.md",
     "Sketches/Inverting Op-Amp.md",
     "Notes/Inverting Op-Amp.md",
     "Notes/Buffer Op-Amp.md",
     "Sketches/Load Effect.md",
-    "Sketches/Drawing 2022-05-10 10.45.01.excalidraw.md",
-    "Sketches/Buffer Op-Amp.md",
-    "Notes/Non-Inverting Op-Amp.md"
+    "Sketches/Buffer Op-Amp.md"
   ]
 }
