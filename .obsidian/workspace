@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d8b13c1f479e96ed",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Sketches/Inverting and Non-Inverting Operational Amplifier.md"
-          }
-        }
-      },
-      {
-        "id": "7834bdcafecb0e40",
+        "id": "2a4dd61cde2ceeb7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/EE TODO.md",
+            "file": "Notes/Inverting Op-Amp.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -80,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Inverting and Non-Inverting Operational Amplifier.md",
+                "file": "Notes/Inverting Op-Amp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Inverting and Non-Inverting Operational Amplifier.md",
+                "file": "Notes/Inverting Op-Amp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8b13c1f479e96ed",
+  "active": "2a4dd61cde2ceeb7",
   "lastOpenFiles": [
-    "Sketches/Inverting and Non-Inverting Operational Amplifier.md",
+    "Notes/Inverting Op-Amp.md",
+    "Notes/Buffer Op-Amp.md",
+    "Sketches/Buffer Op-Amp.md",
+    "Sketches/Inverting Op-Amp.md",
+    "Notes/Non-Inverting Op-Amp.md",
+    "Notes/Gaussian Elimination.md",
+    "Sketches/Non-Inverting Op-Amp.md",
+    "Notes/Operational Amplifier.md",
     "Notes/EE TODO.md",
-    "Sketches/Drawing 2022-05-10 10.45.01.excalidraw.md",
-    "Notes/Capacitance.md",
-    "Notes/Ohm's Law.md",
-    "Notes/Conductance.md",
-    "Notes/Conductivity.md",
-    "Notes/Capacitor.md",
-    "Notes/Current Density.md",
-    "Notes/Resistor.md"
+    "Sketches/Nodal and Mesh Analysis Example.md"
   ]
 }
