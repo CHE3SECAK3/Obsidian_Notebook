@@ -5,16 +5,6 @@
 - Human skin contact resistance: 1k - 100k $\ohm$
 - 16mA : Minimum can't let go
 
-shorts and opens
-thevenin and norton
-op amp
-	inverting and non inverting
-		recognize and find gain
-
-Vac = Vrms = Veff
-Vpeak
-Vpp
-
 omega = 2 pi f
 
 theta jc
