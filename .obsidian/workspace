@@ -108,6 +108,7 @@
   "active": "4545a332916e0134",
   "lastOpenFiles": [
     "Sketches/Thevenin and Norton Equivalence Example.md",
+    "Sketches/Types of Resistors.md",
     "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
     "Sketches/Drawing 2022-05-10 10.45.01.excalidraw.md",
     "Notes/Operational Amplifier Circuit Diagram.md",
@@ -115,7 +116,6 @@
     "Sketches/Inverting Op-Amp.md",
     "Notes/Inverting Op-Amp.md",
     "Notes/Buffer Op-Amp.md",
-    "Sketches/Load Effect.md",
-    "Sketches/Buffer Op-Amp.md"
+    "Sketches/Load Effect.md"
   ]
 }
