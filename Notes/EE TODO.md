@@ -5,15 +5,3 @@
 - Human skin contact resistance: 1k - 100k $\ohm$
 - 16mA : Minimum can't let go
 
-omega = 2 pi f
-
-theta jc
- 
-
-Rth:
-remove lead resistor
-voltage source short
-current source open
-
-Vth:
-
