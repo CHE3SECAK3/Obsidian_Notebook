@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md"
+            "file": "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
+                "file": "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
+                "file": "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +107,7 @@
   },
   "active": "4545a332916e0134",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md",
     "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
     "Notes/EE TODO.md",
     "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
@@ -115,7 +116,6 @@
     "Sketches/Types of Resistors.md",
     "Sketches/Drawing 2022-05-10 10.45.01.excalidraw.md",
     "Notes/Operational Amplifier Circuit Diagram.md",
-    "Notes/Operational Amplifier.md",
-    "Sketches/Inverting Op-Amp.md"
+    "Notes/Operational Amplifier.md"
   ]
 }
