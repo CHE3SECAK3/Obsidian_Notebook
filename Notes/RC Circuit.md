@@ -9,10 +9,24 @@
 
 
 > [!example] Series RC Circuit Example
-> ![[Sketches/RC Circuit]]
+> ![[Sketches/RC Circuit|1000]]
+> 
+> *Intuitions*:
 > - Time $t = 0$ is defined when the switch is closed
-> - Before $t = 0$, capactior $C$ has an initial charge $Q_{0}= C{\Delta V}_{0}$
-
+>
+> - Before $t = 0$ (switch is open):
+> 	- No current flow since circuit is broken $\rightarrow I = 0$
+> 	- Capacitor has no initial charge $\rightarrow Q = 0$
+>
+> - At $t = 0$ (immediately when switch closes):
+> 	- Capacitors $C$ will act like an ideal wire:
+> 		- Build-up of positive charges on on end of the capacitor repels positive charges on the other
+> 	- $V_{R} = \epsilon$
+>
+> - After a certain amount of time $t$:
+> 	- Capactior $C$ will act like an open wire
+> 		- Fully-charged capactior means no move moving charges
+> 			- $I = 0$
 
 
 ---

@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Notes/RC Circuit.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -112,13 +112,13 @@
   "lastOpenFiles": [
     "Notes/RC Circuit.md",
     "Sketches/RC Circuit.md",
+    "Sketches/Ratio Test Example.md",
     "Notes/Ratio Test.md",
     "Notes/Electric Field of a Point Charge.md",
     "Notes/Coulomb.md",
     "Law of Conservation of Energy.md",
     "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md",
     "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
-    "Notes/EE TODO.md",
-    "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md"
+    "Notes/EE TODO.md"
   ]
 }
