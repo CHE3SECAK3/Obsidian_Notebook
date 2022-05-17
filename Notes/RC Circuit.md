@@ -19,16 +19,19 @@
 > 	- Capacitor has no initial charge $\rightarrow Q = 0$
 >
 > - At $t = 0$ (immediately when switch closes):
-> 	- Capacitors $C$ will act like an ideal wire:
-> 		- Build-up of positive charges on on end of the capacitor repels positive charges on the other
-> 	- $V_{R} = \epsilon$
+> 	- Since $C$ has no charge, $V_{C}= 0$
+> 	- According to Kirchoff's Voltage Law:
+> 	$$\begin{align*} V_\text{battery} &= V_{R} + \cancelto{0}{V_{C}}\\ \epsilon &= I_{0}R\\ I_{0} &= \frac{\epsilon}{R} \end{align*} $$
+> 
 >
-> - After a certain amount of time $t$:
-> 	- Capactior $C$ will act like an open wire
-> 		- Fully-charged capactior means no move moving charges
-> 			- $I = 0$
+> - After a certain amount of time $t = \infty$:
+> 	- Capactior $C$ is fully charged, which means charges cannot move around the circuit anymore
+> 	$$\begin{align*} V_\text{battery} &= V_{R} + V_C\\ \epsilon &= \cancelto{0}{I}R + \frac{Q}{C}\\ Q &= C \epsilon \end{align*} $$
+> 
+> - *What happens in between the time extremes?*
+> 	- As charge builds up in $C$, $V_C$ increases and $V_R$ decreases, which means $I$ also decreases. This happens at every instantaneous moment, which requires calculus to solve!
 
 
 ---
 tags: #TODO - #Circuits - #Physics/Electromagnetism 
-links: [[Resistor]] - [[Capacitor]]
+links: [[Resistor]] - [[Capacitor]] - [[Kirchoff's Laws]]
