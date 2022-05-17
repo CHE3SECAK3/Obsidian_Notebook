@@ -7,9 +7,12 @@
         "id": "4545a332916e0134",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/RC Circuit.md"
+            "file": "Notes/RC Circuit.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/RC Circuit.md",
+                "file": "Notes/RC Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/RC Circuit.md",
+                "file": "Notes/RC Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,8 +110,8 @@
   },
   "active": "4545a332916e0134",
   "lastOpenFiles": [
-    "Sketches/RC Circuit.md",
     "Notes/RC Circuit.md",
+    "Sketches/RC Circuit.md",
     "Notes/Ratio Test.md",
     "Notes/Electric Field of a Point Charge.md",
     "Notes/Coulomb.md",
