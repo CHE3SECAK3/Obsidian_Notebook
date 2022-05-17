@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Electric Field of a Point Charge.md",
-            "mode": "preview",
+            "file": "Notes/RC Circuit.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Electric Field of a Point Charge.md",
+                "file": "Notes/RC Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Electric Field of a Point Charge.md",
+                "file": "Notes/RC Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "4545a332916e0134",
   "lastOpenFiles": [
+    "Notes/RC Circuit.md",
+    "Notes/Ratio Test.md",
+    "Sketches/RC Circuit.md",
     "Notes/Electric Field of a Point Charge.md",
     "Notes/Coulomb.md",
     "Law of Conservation of Energy.md",
     "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md",
     "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
     "Notes/EE TODO.md",
-    "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
-    "Sketches/Load Effect.md",
-    "Sketches/Thevenin and Norton Equivalence Example.md",
-    "Sketches/Types of Resistors.md"
+    "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md"
   ]
 }
