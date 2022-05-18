@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Magnetic Field.md",
-            "mode": "source",
+            "file": "Notes/Voltage.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Magnetic Field.md",
+                "file": "Notes/Voltage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Magnetic Field.md",
+                "file": "Notes/Voltage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "e225d8360818db0f",
   "lastOpenFiles": [
-    "Notes/Magnetic Field.md",
+    "Notes/Voltage.md",
+    "Notes/RC Circuit.md",
     "Sketches/RC Circuit.md",
+    "Notes/Magnetic Field.md",
     "Sketches/RC 2.md",
     "Notes/Right Hand Rule.md",
     "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md",
     "Sketches/Electric Potential Energy of Two Point Charge System.md",
     "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
-    "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
-    "Notes/RC Circuit.md",
-    "Notes/First-Order Linear Differential Equation.md"
+    "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md"
   ]
 }
