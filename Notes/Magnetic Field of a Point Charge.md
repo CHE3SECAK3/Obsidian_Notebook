@@ -16,6 +16,8 @@
 
 - The magnetic field vector is proportional to the *cross-product* between a moving charge and the distance from the source to a point of interest
 
+![[Sketches/Magnetic Field of a Point Charge|1000]]
+
 > [!note] $\vec{B}$ and $\vec{v}$
 > - Only a *moving* charge has a magnetic field. A stationary field has no magnetic field
 

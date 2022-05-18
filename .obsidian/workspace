@@ -7,9 +7,12 @@
         "id": "e6cec20fe75345ea",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-05-18 10.13.01.excalidraw.md"
+            "file": "Notes/Magnetic Field of a Point Charge.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-05-18 10.13.01.excalidraw.md",
+                "file": "Notes/Magnetic Field of a Point Charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-05-18 10.13.01.excalidraw.md",
+                "file": "Notes/Magnetic Field of a Point Charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,8 +110,8 @@
   },
   "active": "e6cec20fe75345ea",
   "lastOpenFiles": [
-    "Sketches/Drawing 2022-05-18 10.13.01.excalidraw.md",
     "Notes/Magnetic Field of a Point Charge.md",
+    "Sketches/Magnetic Field of a Point Charge.md",
     "Notes/Magnetic Field of a Wire.md",
     "Notes/Electric Field of a Point Charge.md",
     "Notes/Electric Field of a Parallel-Plate Capacitor.md",
