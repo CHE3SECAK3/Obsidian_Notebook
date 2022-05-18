@@ -7,9 +7,12 @@
         "id": "e225d8360818db0f",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/RC Circuit.md"
+            "file": "Notes/Magnetic Field.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/RC Circuit.md",
+                "file": "Notes/Magnetic Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/RC Circuit.md",
+                "file": "Notes/Magnetic Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,15 +110,15 @@
   },
   "active": "e225d8360818db0f",
   "lastOpenFiles": [
+    "Notes/Magnetic Field.md",
     "Sketches/RC Circuit.md",
-    "Sketches/Drawing 2022-05-17 15.43.04.excalidraw.md",
+    "Sketches/RC 2.md",
+    "Notes/Right Hand Rule.md",
     "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md",
+    "Sketches/Electric Potential Energy of Two Point Charge System.md",
     "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
     "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
     "Notes/RC Circuit.md",
-    "Notes/First-Order Linear Differential Equation.md",
-    "Notes/Resistance.md",
-    "Sketches/Ratio Test Example.md",
-    "Notes/Ratio Test.md"
+    "Notes/First-Order Linear Differential Equation.md"
   ]
 }
