@@ -7,12 +7,9 @@
         "id": "e225d8360818db0f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Magnetic Field.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Passive Sign Convention.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Magnetic Field.md",
+                "file": "Sketches/Passive Sign Convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Magnetic Field.md",
+                "file": "Sketches/Passive Sign Convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +107,15 @@
   },
   "active": "e225d8360818db0f",
   "lastOpenFiles": [
-    "Notes/Magnetic Field.md",
-    "Sketches/RC 2.md",
-    "Notes/RC Circuit.md",
-    "Notes/Voltage.md",
-    "Sketches/RC Circuit.md",
-    "Notes/Right Hand Rule.md",
-    "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md",
-    "Sketches/Electric Potential Energy of Two Point Charge System.md",
-    "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
-    "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md"
+    "Sketches/Passive Sign Convention.md",
+    "Sketches/Parallel-Plate Capacitor.md",
+    "Sketches/Non-Inverting Op-Amp.md",
+    "Sketches/Node.md",
+    "Sketches/Nodal and Mesh Analysis Example.md",
+    "Sketches/Multi-Step Req Problem.md",
+    "Sketches/Load Effect.md",
+    "Sketches/Equipotential Lines.md",
+    "Sketches/Inverting Op-Amp.md",
+    "Sketches/Independent Voltage Source.md"
   ]
 }
