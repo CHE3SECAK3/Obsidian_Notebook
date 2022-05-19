@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e6cec20fe75345ea",
+        "id": "28b7b9f5f99cc58c",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Drawing 2022-05-19 11.08.24.excalidraw.md"
+            "file": "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-05-19 11.08.24.excalidraw.md",
+                "file": "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-05-19 11.08.24.excalidraw.md",
+                "file": "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,16 +105,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e6cec20fe75345ea",
+  "active": "28b7b9f5f99cc58c",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
+    "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
     "Sketches/Drawing 2022-05-19 11.08.24.excalidraw.md",
+    "Sketches/Drawing 2022-05-18 15.09.53.excalidraw.md",
+    "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md",
     "Notes/RC Circuit.md",
     "Sketches/RC CIrcuit Graphs.md",
     "Sketches/Charging and Discharging Capacitor.md",
-    "Sketches/Drawing 2022-05-18 15.09.53.excalidraw.md",
-    "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md",
-    "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
-    "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
     "Notes/Magnetic Field of a Wire.md",
     "Notes/Magnetic Field of a Point Charge.md"
   ]
