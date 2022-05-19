@@ -31,6 +31,12 @@
 > - *What happens in between the time extremes?*
 > 	- As charge builds up in $C$, $V_C$ increases and $V_R$ decreases, which means $I$ also decreases. This happens at every instantaneous moment, which requires calculus to solve!
 
+> [!example] Charging and Discharging RC Circuit
+> ![[Charging and Discharging Capacitor|1000]]
+
+> [!example] RC Circuit Graphs
+> ![[RC CIrcuit Graphs]]
+
 
 ---
 tags: #Circuits - #Physics/Electromagnetism 

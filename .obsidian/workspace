@@ -7,9 +7,12 @@
         "id": "e6cec20fe75345ea",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-05-18 13.24.11.excalidraw.md"
+            "file": "Notes/RC Circuit.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-05-18 13.24.11.excalidraw.md",
+                "file": "Notes/RC Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-05-18 13.24.11.excalidraw.md",
+                "file": "Notes/RC Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,15 +110,15 @@
   },
   "active": "e6cec20fe75345ea",
   "lastOpenFiles": [
-    "Sketches/Drawing 2022-05-18 13.24.11.excalidraw.md",
+    "Notes/RC Circuit.md",
+    "Sketches/RC CIrcuit Graphs.md",
+    "Sketches/Charging and Discharging Capacitor.md",
+    "Sketches/Drawing 2022-05-18 15.09.53.excalidraw.md",
+    "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md",
+    "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
+    "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
     "Notes/Magnetic Field of a Wire.md",
     "Notes/Magnetic Field of a Point Charge.md",
-    "Sketches/Magnetic Field of a Point Charge.md",
-    "Notes/Electric Field of a Point Charge.md",
-    "Notes/Electric Field of a Parallel-Plate Capacitor.md",
-    "Notes/Electric Field.md",
-    "Notes/Electric Field of a Disk.md",
-    "Notes/Magnetic Field.md",
-    "Notes/EE TODO.md"
+    "Sketches/Magnetic Field of a Point Charge.md"
   ]
 }
