@@ -20,7 +20,15 @@
 
 > [!note] $\vec{B}$ and $\vec{v}$
 > - Only a *moving* charge has a magnetic field. A stationary field has no magnetic field
+> - if $\vec{v} = 0$, then $q\vec{v} \times \hat r = \vec{0} \quad \text{(the zero vector)}$
 
+
+> [!note] $\vec{B}$ and $\vec{E}$
+> - Both the magnetic field and the electric field are proportional to the inverse square of distance
+> $$\begin{align*}
+\vec{E} \propto \frac{1}{r^{2}} \\
+\vec{B} \propto \frac{1}{r^{2}}
+\end{align*}$$
 
 
 ---

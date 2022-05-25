@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Drawing 2022-05-24 11.47.37.excalidraw.md"
+            "file": "Sketches/Drawing 2022-05-24 22.36.14.excalidraw.md"
           }
         }
       }
@@ -51,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.0007801055908
   },
   "right": {
     "id": "f1c1673af42dcc9d",
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-05-24 11.47.37.excalidraw.md",
+                "file": "Sketches/Drawing 2022-05-24 22.36.14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-05-24 11.47.37.excalidraw.md",
+                "file": "Sketches/Drawing 2022-05-24 22.36.14.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,15 +107,15 @@
   },
   "active": "28b7b9f5f99cc58c",
   "lastOpenFiles": [
-    "Sketches/Drawing 2022-05-24 11.47.37.excalidraw.md",
-    "Sketches/Drawing 2022-05-24 11.20.18.excalidraw.md",
-    "Sketches/Drawing 2022-05-11 15.28.23.excalidraw.md",
-    "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
-    "Sketches/Drawing 2022-05-19 11.08.24.excalidraw.md",
-    "Sketches/Drawing 2022-05-18 15.09.53.excalidraw.md",
-    "Sketches/Drawing 2022-05-12 23.13.17.excalidraw.md",
-    "Notes/RC Circuit.md",
-    "Sketches/RC CIrcuit Graphs.md",
-    "Sketches/Charging and Discharging Capacitor.md"
+    "Sketches/Drawing 2022-05-24 22.36.14.excalidraw.md",
+    "Notes/Magnetic Field of a Wire.md",
+    "Notes/Magnetic Field of a Point Charge.md",
+    "Notes/Magnetic Field.md",
+    "Notes/Electric Field.md",
+    "Sketches/Magnetic Field of a Point Charge.md",
+    "Notes/Sequence.md",
+    "Notes/Series.md",
+    "Sketches/2x2 Determinant Proof.md",
+    "Notes/Inverting Op-Amp.md"
   ]
 }

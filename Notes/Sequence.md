@@ -11,7 +11,7 @@ Therefore, *formulas* are used to be more explicit.
 > [!example]  Sequence Formula
 > 
 > Example 1:
-> $a_n = \frac{1}{n} $
+> $a_n = \frac{1}{n}$
 > 
 > $
 > a_1 = 1, \qquad 
