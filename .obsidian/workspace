@@ -7,9 +7,12 @@
         "id": "28b7b9f5f99cc58c",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-05-24 22.36.14.excalidraw.md"
+            "file": "Notes/Operational Amplifier.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-05-24 22.36.14.excalidraw.md",
+                "file": "Notes/Operational Amplifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-05-24 22.36.14.excalidraw.md",
+                "file": "Notes/Operational Amplifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,15 +110,15 @@
   },
   "active": "28b7b9f5f99cc58c",
   "lastOpenFiles": [
+    "Notes/Operational Amplifier.md",
+    "Sketches/Operational Amplifier Circuit Diagram.md",
+    "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
+    "Sketches/Drawing 2022-05-24 11.20.18.excalidraw.md",
+    "Sketches/Drawing 2022-05-24 11.47.37.excalidraw.md",
     "Sketches/Drawing 2022-05-24 22.36.14.excalidraw.md",
     "Notes/Magnetic Field of a Wire.md",
     "Notes/Magnetic Field of a Point Charge.md",
     "Notes/Magnetic Field.md",
-    "Notes/Electric Field.md",
-    "Sketches/Magnetic Field of a Point Charge.md",
-    "Notes/Sequence.md",
-    "Notes/Series.md",
-    "Sketches/2x2 Determinant Proof.md",
-    "Notes/Inverting Op-Amp.md"
+    "Notes/Electric Field.md"
   ]
 }
