@@ -30,6 +30,10 @@
 \vec{B} \propto \frac{1}{r^{2}}
 \end{align*}$$
 
+## Multiple Point Charges
+- If there are multiple moving source charges, the magnetic field at a point of interest is the sum of all magnetic fields
+$$\vec{B}_\text{net} = \sum\limits_{n} \vec{B}_n$$
+
 
 ---
 tags: #TODO - #Physics/Electromagnetism 
