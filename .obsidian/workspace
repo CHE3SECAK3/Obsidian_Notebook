@@ -7,9 +7,12 @@
         "id": "28b7b9f5f99cc58c",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-06-03 14.28.00.excalidraw.md"
+            "file": "Notes/Magnetic Field of a Loop of Wire.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-06-03 14.28.00.excalidraw.md",
+                "file": "Notes/Magnetic Field of a Loop of Wire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-06-03 14.28.00.excalidraw.md",
+                "file": "Notes/Magnetic Field of a Loop of Wire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,15 +110,15 @@
   },
   "active": "28b7b9f5f99cc58c",
   "lastOpenFiles": [
-    "Sketches/Drawing 2022-06-03 14.28.00.excalidraw.md",
+    "Notes/Magnetic Field of a Loop of Wire.md",
+    "Notes/Magnetic Field of a Wire.md",
+    "Sketches/Magnetic Field of a Wire Proof.md",
     "Sketches/Untitled.md",
     "Sketches/Drawing 2022-05-24 11.47.37.excalidraw.md",
     "Sketches/Drawing 2022-05-24 22.36.14.excalidraw.md",
-    "Notes/Magnetic Field of a Wire.md",
     "Notes/Electric Field of a Rod.md",
     "Notes/Magnetic Field of a Point Charge.md",
     "Notes/Electric Field of Multiple Point Charges.md",
-    "Notes/Electric Field of a Point Charge.md",
-    "Notes/Magnetic Field.md"
+    "Notes/Electric Field of a Point Charge.md"
   ]
 }
