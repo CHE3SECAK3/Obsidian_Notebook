@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "50f906d383654bac",
+        "id": "8ca3c58e045ac5c7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Notes/Magnetic Field of a Loop of Wire.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "50f906d383654bac",
+  "active": "8ca3c58e045ac5c7",
   "lastOpenFiles": [
     "Notes/Magnetic Field of a Loop of Wire.md",
+    "Sketches/Magnetic Dipole Moment.md",
+    "Sketches/Magnetic Field of a Loop Proof.md",
     "Notes/Dipole.md",
     "Notes/Magnetic Field of a Wire.md",
     "Notes/Magnetic Field of a Point Charge.md",
     "Notes/Magnetic Field.md",
     "Notes/Linear Independence.md",
     "Notes/Matrix.md",
-    "Sketches/Magnetic Field of a Loop Proof.md",
-    "Sketches/Magnetic Field of a Point Charge.md",
-    "Sketches/Direction of Current.md"
+    "Sketches/Magnetic Field of a Point Charge.md"
   ]
 }
