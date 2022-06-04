@@ -8,7 +8,7 @@
 > - For an infinite wire, $r$ is just the height of the point of interest from the wire (which is noted as $y$ in the proof)
 
 > [!done] Magnetic Field of a Wire Proof
-> ![[Magnetic Field of a Wire Proof]]
+> ![[Magnetic Field of a Wire Proof|1000]]
 
 
 ---
