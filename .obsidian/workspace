@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "28b7b9f5f99cc58c",
+        "id": "50f906d383654bac",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Magnetic Field of a Wire Proof.md"
+            "file": "Sketches/Direction of Current.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Magnetic Field of a Wire Proof.md",
+                "file": "Sketches/Direction of Current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Magnetic Field of a Wire Proof.md",
+                "file": "Sketches/Direction of Current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "28b7b9f5f99cc58c",
+  "active": "50f906d383654bac",
   "lastOpenFiles": [
-    "Sketches/Magnetic Field of a Wire Proof.md",
+    "Sketches/Direction of Current.md",
+    "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
+    "Sketches/Drawing 2022-05-24 11.20.18.excalidraw.md",
+    "Sketches/Drawing 2022-05-24 11.47.37.excalidraw.md",
     "Sketches/Drawing 2022-05-24 22.36.14.excalidraw.md",
+    "Sketches/Magnetic Field of a Wire Proof.md",
     "Notes/Magnetic Field of a Loop of Wire.md",
     "Notes/Magnetic Field of a Wire.md",
     "Sketches/Untitled.md",
-    "Sketches/Drawing 2022-05-24 11.47.37.excalidraw.md",
-    "Notes/Electric Field of a Rod.md",
-    "Notes/Magnetic Field of a Point Charge.md",
-    "Notes/Electric Field of Multiple Point Charges.md",
-    "Notes/Electric Field of a Point Charge.md"
+    "Notes/Electric Field of a Rod.md"
   ]
 }
