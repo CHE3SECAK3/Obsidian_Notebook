@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Sketches/Direction of Current.md"
+            "file": "Sketches/Drawing 2022-06-03 18.44.16.excalidraw.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Direction of Current.md",
+                "file": "Sketches/Drawing 2022-06-03 18.44.16.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Direction of Current.md",
+                "file": "Sketches/Drawing 2022-06-03 18.44.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +107,7 @@
   },
   "active": "50f906d383654bac",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-06-03 18.44.16.excalidraw.md",
     "Sketches/Direction of Current.md",
     "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
     "Sketches/Drawing 2022-05-24 11.20.18.excalidraw.md",
@@ -115,7 +116,6 @@
     "Sketches/Magnetic Field of a Wire Proof.md",
     "Notes/Magnetic Field of a Loop of Wire.md",
     "Notes/Magnetic Field of a Wire.md",
-    "Sketches/Untitled.md",
-    "Notes/Electric Field of a Rod.md"
+    "Sketches/Untitled.md"
   ]
 }
