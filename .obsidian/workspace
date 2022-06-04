@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ca3c58e045ac5c7",
+        "id": "ee8e350f35a7b474",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Root Test.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Root Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Root Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8ca3c58e045ac5c7",
+  "active": "ee8e350f35a7b474",
   "lastOpenFiles": [
-    "Notes/Current.md",
-    "Sketches/Electric Potential of Parallel-Plate Capacitors.md",
-    "Notes/Electric Field.md",
-    "Notes/Electric Dipole.md",
-    "Notes/Magnetic Field of a Loop of Wire.md",
-    "Notes/Magnetic Field.md",
-    "Notes/Magnetic Field of a Point Charge.md",
-    "Sketches/Magnetic Field Lines Through a Loop.md",
-    "Notes/Magnetic Field of a Wire.md",
-    "Sketches/Magnetic Field of a Wire.md"
+    "Notes/Root Test.md",
+    "Sketches/Types of Resistors.md",
+    "Sketches/Thevenin and Norton Equivalence Example.md",
+    "Sketches/Load Effect.md",
+    "Notes/RC Circuit.md",
+    "Notes/Series Convergence.md",
+    "Sketches/ckt notes refactor.md",
+    "Sketches/Inverting Op-Amp.md",
+    "Sketches/Untitled.md",
+    "Notes/Current.md"
   ]
 }
