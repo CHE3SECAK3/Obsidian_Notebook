@@ -16,6 +16,8 @@
 
 - The magnetic field vector is proportional to the *cross-product* between a moving charge and the distance from the source to a point of interest
 
+- Like an electric field, every point in space has a magnetic field due to a source charge, but not all are drawn for simplicity
+
 ![[Sketches/Magnetic Field of a Point Charge|1000]]
 
 > [!note] $\vec{B}$ and $\vec{v}$

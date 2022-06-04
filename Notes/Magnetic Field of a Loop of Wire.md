@@ -40,6 +40,10 @@
 > [!success] Magnetic Field Equation Proof
 > ![[Magnetic Field of a Loop Proof|1000]]
 
+- The points and outside of the loop and its central axis also have magnetic fields
+
+![[Magnetic Field Lines Through a Loop|1000]]
+
 ---
 tags: #Physics/Electromagnetism 
 links: [[Magnetic Field of a Point Charge]]
