@@ -10,5 +10,5 @@
 
 
 ---
-tags: #Circuits
+tags: #Circuits - #Physics/Electromagnetism 
 links: [[Charge]]

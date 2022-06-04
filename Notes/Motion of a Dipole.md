@@ -21,4 +21,4 @@ $$\vec{\tau} = p E\sin{\theta}$$
 
 ---
 tags: #TODO - #Physics/Electromagnetism 
-links: [[Dipole]] - [[Motion of a Charged Particle]] - [[Torque]] - [[Stable Equilibrium]]
+links: [[Electric Dipole]] - [[Motion of a Charged Particle]] - [[Torque]] - [[Stable Equilibrium]]
