@@ -7,3 +7,14 @@
 
 > [!success] Magnetic Field Equation Proof
 > ![[Magnetic Field of a Loop Proof|1000]]
+
+
+### Magnetic Dipole Moment
+- $\vec{\mu} = IA$ where:
+	- $\vec{\mu}$ : Dipole moment in the direction of south to north pole
+	- $I$ : magnitude of current
+	- $A$ : Area of current loop
+
+---
+tags: #Physics/Electromagnetism 
+links: [[Magnetic Field of a Point Charge]]

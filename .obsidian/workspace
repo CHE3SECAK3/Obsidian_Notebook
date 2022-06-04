@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Magnetic Field of a Wire.md",
-            "mode": "preview",
+            "file": "Notes/Magnetic Field of a Loop of Wire.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Circuits",
+                "query": "dipole moment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Magnetic Field of a Wire.md",
+                "file": "Notes/Magnetic Field of a Loop of Wire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Magnetic Field of a Wire.md",
+                "file": "Notes/Magnetic Field of a Loop of Wire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "50f906d383654bac",
   "lastOpenFiles": [
-    "Notes/Magnetic Field of a Wire.md",
     "Notes/Magnetic Field of a Loop of Wire.md",
+    "Notes/Dipole.md",
+    "Notes/Magnetic Field of a Wire.md",
+    "Notes/Magnetic Field of a Point Charge.md",
+    "Notes/Magnetic Field.md",
+    "Notes/Linear Independence.md",
+    "Notes/Matrix.md",
     "Sketches/Magnetic Field of a Loop Proof.md",
     "Sketches/Magnetic Field of a Point Charge.md",
-    "Sketches/Direction of Current.md",
-    "Sketches/Drawing 2022-05-12 11.35.42.excalidraw.md",
-    "Sketches/Drawing 2022-05-24 11.20.18.excalidraw.md",
-    "Sketches/Drawing 2022-05-24 11.47.37.excalidraw.md",
-    "Sketches/Drawing 2022-05-24 22.36.14.excalidraw.md",
-    "Sketches/Magnetic Field of a Wire Proof.md"
+    "Sketches/Direction of Current.md"
   ]
 }

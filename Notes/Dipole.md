@@ -1,4 +1,4 @@
-# Dipole
+# Electric Dipole
 - *Two equal and opposite charges separated by a distance*
 
 |                | Permanent Dipole                                                  | Induced Dipole                                                   |
@@ -6,11 +6,11 @@
 | **Definition** | Charges are separated regardless of external fields               | Charge separation is influenced by external fields               |
 | **Example**    | Electrons in water molecules spend more time near the oxygen atom | Charging objects by induction creates temporary shifts in charge |
 
-## Dipole Moment
+## Electric Dipole Moment
 - A vector that describes the direction and the electric field strength of a dipole
 
 - $\vec{p} = qs$ where:
-	- $\vec{p}$ : Dipole moment
+	- $\vec{p}$ : Dipole moment in the direction of $-q$ to $+q$
 	- $q$ : magnitude of charge
 	- $s$ : distance of separation
 
