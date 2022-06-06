@@ -103,6 +103,7 @@
   },
   "active": "ee8e350f35a7b474",
   "lastOpenFiles": [
+    "Notes/Divergence and Convergence Tests.md",
     "Sketches/Inverting Op-Amp.md",
     "Notes/Electric Field of a Point Charge.md",
     "Notes/Electric Field of a Ring.md",
@@ -111,7 +112,6 @@
     "Notes/Electric Field of a Rod.md",
     "Notes/Ampere's Law.md",
     "Notes/Gauss' Law.md",
-    "Notes/Magnetic Field of a Wire.md",
-    "Notes/Magnetic Field of a Solenoid.md"
+    "Notes/Magnetic Field of a Wire.md"
   ]
 }
