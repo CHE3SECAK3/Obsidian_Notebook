@@ -12,4 +12,4 @@
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Electric Field]] - [[Charge]] - [[Permittivity of Free Space]]
+links: [[Electric Field of a Point Charge]] - [[Charge]] - [[Permittivity of Free Space]]
