@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ee8e350f35a7b474",
+        "id": "c9a65299dca0eab8",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-06-06 14.26.06.excalidraw.md"
+            "file": "Notes/Magnetic Field of a Loop of Wire.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-06-06 14.26.06.excalidraw.md",
+                "file": "Notes/Magnetic Field of a Loop of Wire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-06-06 14.26.06.excalidraw.md",
+                "file": "Notes/Magnetic Field of a Loop of Wire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee8e350f35a7b474",
+  "active": "c9a65299dca0eab8",
   "lastOpenFiles": [
-    "Sketches/Drawing 2022-06-06 14.26.06.excalidraw.md",
+    "Notes/Magnetic Field of a Loop of Wire.md",
+    "Sketches/Magnetic Field Lines Through a Loop.md",
     "Notes/Magnetic Force on a Magnetic Dipole.md",
+    "Sketches/Current Loop in a Magnetic Field.md",
     "Notes/Magnetic Force on a Current-Carrying Wire.md",
+    "Notes/Magnetic Dipole Moment.md",
     "Notes/Electric Torque on an Electric Dipole.md",
     "Sketches/Magnetic Forces of Two Wires.md",
     "Notes/Magnetic Field of a Wire.md",
-    "Sketches/Magnetic Force on a Wire Proof.md",
-    "Notes/Magnetic Force on a Point Charge.md",
-    "Sketches/Direction of Current.md",
-    "Sketches/Cyclotron Motion.md"
+    "Sketches/Magnetic Force on a Wire Proof.md"
   ]
 }

@@ -31,7 +31,7 @@
 > 
 > - With $\vec{\mu}$, the $\vec{B}_\text{axis}$ approximation equation can be used to calculate the magnetic field of *any* current loop of *any* shape, as long as the current and the area of the loop is known
 > 
-> ![[Magnetic Dipole Moment|500]]
+> ![[Sketches/Magnetic Dipole Moment|500]]
 > 
 > > [!warning] $\mu_{0}$ vs. $\vec{\mu}$
 > > - $\mu_{0}$, the permeability of free space is completely different from $\vec{\mu}$, the magnetic dipole moment 
@@ -43,6 +43,8 @@
 - The points and outside of the loop and its central axis also have magnetic fields
 
 ![[Magnetic Field Lines Through a Loop|1000]]
+
+- The magnetic lines look very similar to a bar magnet, which emphasizes that a loop of current-carrying wire is an *electromagnet* with an induced north and south pole indicated by $\vec{\mu}$
 
 ---
 tags: #Physics/Electromagnetism 
