@@ -1,4 +1,4 @@
-# Magnetic Force
+# Magnetic Force on a Point Charge
 - A moving charge creates a magnetic field, but does not interact with its own field (just like how it cannot interact with its own *electric* field)
 
 - A moving charge however is infleunced by *external* magnetic fields
@@ -16,5 +16,11 @@
 > - With a uniform magnetic field completely perpendicular to velocity, a charge travels in circular motion
 > $$\begin{align*}
 F &= qv \times B = qvB\sin(90) = qvB\\\\
-F_\text{radial} &= \frac{mv^{2}}{R}
+F_\text{radial} &= \frac{mv^{2}}{R}\\\\
+R &= \frac{mv}{qB}
 \end{align*}$$
+
+
+---
+tags: #TODO - #Physics/Electromagnetism 
+links: [[Magnetic Field]] - [[Cross Product]]

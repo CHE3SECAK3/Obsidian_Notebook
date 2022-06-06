@@ -1,5 +1,5 @@
-# Motion of a Dipole
-- In a constant electric field, $\vec{F}_{\text{net}} = 0$
+# Torque on an Electric Dipole
+- In a constant electric field, $\vec{F}_{\text{net}} = 0$ on an electric dipole
 
 	- This is becase the poles (2 point charges) have an equal and opposite force acting on them
 
