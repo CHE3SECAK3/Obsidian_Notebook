@@ -9,8 +9,8 @@
 > - $L$ : Length of solenoid
 
 
-- A solenoid is many loop of wire that form a cylinder of loops. Each loop has the same amount of current through it. 
+- A *solenoid* is many loops of wire that form a cylinder. Each loop has the same amount of current through it. 
 
 ![[Solenoid|200]]
 
-- Every point in the solenoid has a uniform magnetic field
+- The magnetic field at any point inside the solenoid is $\vec{B} = \sum\limits_{n} \vec{B}_n$, or the sum of the fields from each loop.
