@@ -23,7 +23,10 @@
 > > [!note] Solenoids and Parallel-Plate Capacitors
 > > - Solenoids are analogous to parallel-plate capacitors and their manipulation of the *electric field*
 
+> [!success] Magnetic Field Equation Proof
+> 
+
 
 ---
 tags: #TODO - #Physics/Electromagnetism 
-links: [[Magnetic Field of a Loop of Wire]] - [[Electric Field of a Parallel-Plate Capacitor]]
+links: [[Magnetic Field of a Loop of Wire]] - [[Electric Field of a Parallel-Plate Capacitor]] - [[Ampere's Law]]

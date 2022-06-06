@@ -7,8 +7,10 @@
         "id": "ee8e350f35a7b474",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "excalidraw",
+          "state": {
+            "file": "Sketches/Magnetic Field of a Loop Proof.md"
+          }
         }
       }
     ],
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sketches/Magnetic Field of a Loop Proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sketches/Magnetic Field of a Loop Proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +107,15 @@
   },
   "active": "ee8e350f35a7b474",
   "lastOpenFiles": [
+    "Sketches/Magnetic Field of a Loop Proof.md",
+    "Sketches/Magnetic Field Lines Through a Loop.md",
+    "Notes/Magnetic Force.md",
+    "Notes/Magnetic Field of a Point Charge.md",
+    "Notes/Magnetic Field.md",
+    "Notes/Magnetic Field of a Solenoid.md",
     "Notes/Divergence and Convergence Tests.md",
     "Sketches/Inverting Op-Amp.md",
     "Notes/Electric Field of a Point Charge.md",
-    "Notes/Electric Field of a Ring.md",
-    "Notes/Electric Field of a Disk.md",
-    "Notes/Electric Field of a Plane.md",
-    "Notes/Electric Field of a Rod.md",
-    "Notes/Ampere's Law.md",
-    "Notes/Gauss' Law.md",
-    "Notes/Magnetic Field of a Wire.md"
+    "Notes/Electric Field of a Ring.md"
   ]
 }
