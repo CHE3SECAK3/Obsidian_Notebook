@@ -7,12 +7,9 @@
         "id": "c9a65299dca0eab8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Electric Potential.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Electric Potential.md",
+                "file": "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Electric Potential.md",
+                "file": "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +107,7 @@
   },
   "active": "c9a65299dca0eab8",
   "lastOpenFiles": [
+    "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
     "Notes/Electric Potential.md",
     "Notes/Electric Dipole.md",
     "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
@@ -118,7 +116,6 @@
     "Notes/Magnetic Force on a Magnetic Dipole.md",
     "Sketches/Current Loop in a Magnetic Field.md",
     "Notes/Magnetic Force on a Current-Carrying Wire.md",
-    "Notes/Magnetic Field of a Loop of Wire.md",
-    "Sketches/Magnetic Field Lines Through a Loop.md"
+    "Notes/Magnetic Field of a Loop of Wire.md"
   ]
 }
