@@ -26,7 +26,7 @@
 > [!seealso] $V$, $U$, $F$ and $E$
 > - If a positive charge $\downarrow U$ along $\vec{E}$ :
 > 
-> 	- $\downarrow U = q (\downarrow V) \quad\therefore \quad \uparrow K \quad\therefore\quad \frac{1}{2} m (\uparrow v)^2$
+> 	- $\downarrow U = q (\downarrow V) \quad\therefore \quad \uparrow KE \quad\therefore\quad \frac{1}{2} m (\uparrow v)^2$
 >
 > 	- Positive charges speed up through a *drop* in potential ($-\Delta V$)
 >
