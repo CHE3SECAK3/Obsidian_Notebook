@@ -7,9 +7,12 @@
         "id": "c9a65299dca0eab8",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md"
+            "file": "Notes/Electric Dipole.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
+                "file": "Notes/Electric Dipole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
+                "file": "Notes/Electric Dipole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +110,7 @@
   },
   "active": "c9a65299dca0eab8",
   "lastOpenFiles": [
+    "Notes/Electric Dipole.md",
     "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
     "Notes/First-Order Linear Differential Equation.md",
     "Notes/Motion of a Charged Particle.md",
@@ -115,7 +119,6 @@
     "Notes/Magnetic Force on a Current-Carrying Wire.md",
     "Notes/Magnetic Field of a Loop of Wire.md",
     "Sketches/Magnetic Field Lines Through a Loop.md",
-    "Notes/Magnetic Dipole Moment.md",
-    "Notes/Electric Torque on an Electric Dipole.md"
+    "Notes/Magnetic Dipole Moment.md"
   ]
 }

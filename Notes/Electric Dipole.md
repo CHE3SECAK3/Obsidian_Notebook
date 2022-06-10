@@ -23,8 +23,8 @@
 > $$\vec{E}_{BP} \approx -\frac{1}{4\pi\epsilon_{0}} \frac{\vec{p}}{r^{3}}$$
 > - This is on the bisecting plane (x-axis and z-axis on the diagram)
 > > [!note] $\vec{p}$ and $\vec{E}$
-> > - $\vec{p}$ is in the direction of $\vec{E}$ on the axis of symmetry
-> > - $\vec{p}$ is in the *opposite direction* of $\vec{E}$ on the bisecting axis
+> > - $\vec{E}$ is in the direction of $\vec{p}$ on the axis of symmetry
+> > - $\vec{E}$ is in the *opposite direction* of $\vec{p}$ on the bisecting axis
 
 
 ---
