@@ -7,9 +7,12 @@
         "id": "c9a65299dca0eab8",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md"
+            "file": "Notes/Magnetic Field of a Wire.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
+                "file": "Notes/Magnetic Field of a Wire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
+                "file": "Notes/Magnetic Field of a Wire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,15 +110,15 @@
   },
   "active": "c9a65299dca0eab8",
   "lastOpenFiles": [
-    "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
-    "Notes/Electric Potential.md",
-    "Notes/Electric Dipole.md",
-    "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
-    "Notes/First-Order Linear Differential Equation.md",
-    "Notes/Motion of a Charged Particle.md",
-    "Notes/Magnetic Force on a Magnetic Dipole.md",
-    "Sketches/Current Loop in a Magnetic Field.md",
+    "Notes/Magnetic Field of a Wire.md",
+    "Notes/Magnetic Force on a Point Charge.md",
+    "Notes/Magnetic Field of a Loop of Wire.md",
     "Notes/Magnetic Force on a Current-Carrying Wire.md",
-    "Notes/Magnetic Field of a Loop of Wire.md"
+    "Notes/Magnetic Field of a Point Charge.md",
+    "Notes/RC Circuit.md",
+    "Notes/Capacitance.md",
+    "Notes/Capacitor.md",
+    "Notes/Electric Potential.md",
+    "Notes/Electric Potential of a Parallel-Plate Capacitor.md"
   ]
 }
