@@ -25,7 +25,6 @@ C_{T} &= \frac{C_{1}V_{T}}{V_{T}} + \frac{C_{2}V_{T}}{V_{T}} + ... + \frac{C_{n}
 > [!info] Capactiors in Series
 > - Series capacitors have the same amount of charge in each
 >
-> - Capacitors in series have an equivalence capacitance of the inverse of the sum of the inverses of the capacitors
 > $$C_{T}= \left( \frac{1}{C_{1}} + \frac{1}{C_{2}} + ... + \frac{1}{C_{n}}  \right)^{-1}$$
 > 
 > > [!success]- Proof
