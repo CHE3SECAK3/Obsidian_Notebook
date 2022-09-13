@@ -7,8 +7,13 @@
         "id": "f99a576455263d4f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Untitled.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +110,7 @@
   },
   "active": "f99a576455263d4f",
   "lastOpenFiles": [
+    "Notes/Absolute Convergence.md",
     "Notes/Power.md",
     "Notes/Geometric Series.md",
     "Notes/Electric Torque on an Electric Dipole.md",
@@ -111,7 +119,6 @@
     "Notes/Current.md",
     "Notes/Coulomb's Law.md",
     "Notes/Coulomb.md",
-    "Notes/Convergence.md",
-    "Notes/Conductor.md"
+    "Notes/Convergence.md"
   ]
 }
