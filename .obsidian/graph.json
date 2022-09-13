@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 3311404
       }
+    },
+    {
+      "query": "tag:#Digital_Design",
+      "color": {
+        "a": 1,
+        "rgb": 1991218
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 14.8909952606635,
   "linkStrength": 0.501895734597156,
   "linkDistance": 264,
-  "scale": 0.17665213228038593,
+  "scale": 0.14527036713268118,
   "close": false
 }
