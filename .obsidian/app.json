@@ -1,8 +1,8 @@
 {
   "legacyEditor": false,
   "livePreview": false,
-  "foldHeading": false,
-  "foldIndent": false,
+  "foldHeading": true,
+  "foldIndent": true,
   "showLineNumber": false,
   "newFileLocation": "current",
   "communityThemeSortOrder": "download",
@@ -15,5 +15,6 @@
   },
   "attachmentFolderPath": "Attachments",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "strictLineBreaks": false
 }

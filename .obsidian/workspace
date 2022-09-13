@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2aefaa4a57b522c7",
+        "id": "990bcd19bab837d0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Timing Diagram.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Example Black Box Diagram.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Timing Diagram.md",
+                "file": "Sketches/Example Black Box Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,30 +92,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Timing Diagram.md",
+                "file": "Sketches/Example Black Box Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "2aefaa4a57b522c7",
+  "active": "990bcd19bab837d0",
   "lastOpenFiles": [
-    "Sketches/Example Timing Diagram.md",
-    "Notes/Timing Diagram.md",
-    "Sketches/Example Black Box Diagram.md",
-    "Notes/Voltage.md",
-    "Notes/Black Box Diagram.md",
-    "Notes/Digital Design MOC.md",
-    "Notes/Capacitance.md",
-    "Notes/Buffer Op-Amp.md",
-    "Notes/Capacitor.md",
-    "Notes/Electric Field.md"
+    "Notes/Number System Conversions.md",
+    "Notes/Number System.md",
+    "Notes/Magnetic Force on a Current-Carrying Wire.md",
+    "Notes/Magnetic Field of a Wire.md",
+    "Notes/Magnetic Field.md",
+    "Notes/Matrix Multiplication.md",
+    "Notes/Magnetic Force on a Point Charge.md",
+    "Notes/Limit Comparison Test.md",
+    "Notes/Identity Matrix.md",
+    "Notes/Guess and Check.md"
   ]
 }
