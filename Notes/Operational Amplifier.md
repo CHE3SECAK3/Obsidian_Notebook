@@ -1,5 +1,5 @@
 # Operational Amplifier
-- *Circuit element that amplifies voltage*
+- *Circuit element that amplifies [[voltage]]*
 
 ![[Operational Amplifier Circuit Diagram]]
 
@@ -14,10 +14,10 @@
 
  
 ## 2 Golden Rules of Op-Amps
-1. Current does not go through an op-amp
+1. Current does not go through nor come out of an op-amp $$i_{\text{in}} = i_{\text{out}} = 0$$
 	- Ideally, op-amps have infinite input impedence
 
-2. Op-amps output a voltage so that the 2 input voltages equalize
+2. Op-amps output a voltage so that the 2 input voltages equalize $$v^{-} = v^{+}$$
 
 
 ---

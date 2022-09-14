@@ -1,5 +1,5 @@
 # Resistor
-- *Circuit elements that creates a difference in potential*
+- *Circuit elements that creates a difference in [[Electric Potential|potential]], or [[voltage]]*
 
 ![[Resistor Circuit Diagram]]
 > [!info] Resistors in Series

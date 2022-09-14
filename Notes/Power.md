@@ -11,8 +11,8 @@
 
 - $P = \frac{dW}{dt} = \left( \frac{dW}{\cancel{dQ}} \right) \left( \frac{\cancel{dQ}}{dt} \right) = VI$, where:
 	- $P$ = Power ($W$)
-	- $V$ = Voltage ($V$)
-	- $I$ = Current ($A$)
+	- $V$ = [[Voltage]] ($V$)
+	- $I$ = [[Current]] ($A$)
 
 - If $P = VI$ and $V = IR$, then:
 	-  $P = I^2R$
@@ -20,4 +20,4 @@
 
 ---
 tags: #Circuits 
-links: [[Work]] - [[Voltage]] - [[Current]]
+links: [[Work]]

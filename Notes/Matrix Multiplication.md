@@ -1,5 +1,5 @@
 # Matrix Multiplication
-- Given two matrices $A$ and $B$ where the $j_A = i_B$:
+- Given two [[Matrix|matrices]] $A$ and $B$ where the $j_A = i_B$:
 	- The number of columns in $A$ is equal to the number of rows in $B$
 
 - $AB$ is a new matrix $C$ where:

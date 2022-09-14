@@ -1,5 +1,5 @@
 # Magnetic Force on a Point Charge
-- A moving charge creates a magnetic field, but does not interact with its own field (just like how it cannot interact with its own *electric* field)
+- A moving charge creates a [[magnetic field]], but does not interact with its own field (just like how it cannot interact with its own *electric* field)
 
 - A moving charge however is infleunced by *external* magnetic fields
 
@@ -23,4 +23,4 @@ R &= \frac{mv}{qB}
 
 ---
 tags: #TODO - #Physics/Electromagnetism 
-links: [[Magnetic Field]] - [[Cross Product]]
+links: [[Cross Product]]

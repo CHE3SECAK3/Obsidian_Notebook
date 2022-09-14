@@ -1,5 +1,5 @@
 # Matrix Addition
-- Given two matrices $A$ and $B$ both with $i$ rows and $j$ columns:
+- Given two [[Matrix|matrices]] $A$ and $B$ both with $i$ rows and $j$ columns:
 
 	- $A + B$ is a new matrix $C$ where:
 	- $C$ has $i$ rows and $j$ columns

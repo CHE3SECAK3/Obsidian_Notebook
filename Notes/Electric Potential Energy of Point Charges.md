@@ -2,7 +2,7 @@
 > [!note] Electric Potential Energy Equation 
 > $$U_\text{elec} = K \frac{q_{1}q_{2}}{r} $$
 
-> [!note] $U$ vs $F$
+> [!note] $U$ vs $F_{\text{elec}}$
 > - Coulombic force is inversely proprtional to $r^2$ whereas electric potential energy is inversely proportional to $r$   
 
 > [!success] Electric Potential Proof
@@ -16,3 +16,8 @@
 $$U_\text{sys} = \sum\limits U_i$$
 - where:
 	- $i$ : Point charge pair
+
+
+---
+tags: #TODO - #Physics/Electromagnetism 
+links: [[Electric Potential Energy]]

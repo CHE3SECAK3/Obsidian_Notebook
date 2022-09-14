@@ -26,4 +26,4 @@ $$V_\text{total} = \sum\limits V_{i}$$ where:
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Electric Potential]]
+links: [[Electric Potential]] - [[Electric Field-Vector and Field-Line Diagrams]]

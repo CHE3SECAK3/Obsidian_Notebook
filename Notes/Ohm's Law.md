@@ -1,9 +1,9 @@
 # Ohm's Law
 - $V = IR$, where:
 
-	- $V$ : Voltage
-	- $I$ : Current
-	- $R$ : Resistance
+	- $V$ : [[Voltage]]
+	- $I$ : [[Current]]
+	- $R$ : [[Resistance]]
 
 > [!note] $I = \frac{\Delta V}{R}$
 > 
@@ -20,5 +20,4 @@
 
 
 ---
-tags: #Physics/Electromagnetism - #Circuits 
-links: [[Voltage]] - [[Current]] - [[Resistance]]
+tags: #Physics/Electromagnetism - #Circuits

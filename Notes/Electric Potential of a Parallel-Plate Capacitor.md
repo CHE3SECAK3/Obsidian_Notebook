@@ -1,6 +1,6 @@
 # Electric Potential of a Parallel-Plate Capacitor
 
-- Parallel-plate capacitors have a constant electric field $\vec{E} = \large \frac{\eta}{\epsilon_{0}}$ 
+- [[Parallel-Plate Capacitor|Parallel-Plate Capacitors]] have a constant electric field $\vec{E} = \large \frac{\eta}{\epsilon_{0}}$ 
 
 - Charges in a capacitor have a potential energy $U = qEs$ and $U = qV$ so $$V_\text{C} = Es$$ where:
 	- $V_\text{C}$ : Voltage at a point in capacitor
@@ -22,4 +22,4 @@
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Electric Field of a Parallel-Plate Capacitor]] - [[Electric Potential Energy]] [[Electric Potential]]
+links: [[Electric Field of a Parallel-Plate Capacitor]] - [[Electric Potential Energy]] - [[Electric Potential]] - [[Electric Field-Vector and Field-Line Diagrams]]

@@ -2,7 +2,7 @@
 ![[Sketches/Passive Sign Convention]]
 
 ## Electron Flow
-- A voltage source (like a battery) creates *electric pressure* that pushes electrons from the negative side of the battery to the attractive positive side through a wire path
+- A [[Electrical Source|voltage source]] (like a battery) creates *electric pressure* that pushes electrons from the negative side of the battery to the attractive positive side through a wire path
 
 - This means that:
 	- Electrons flow from a negative to a positive voltage

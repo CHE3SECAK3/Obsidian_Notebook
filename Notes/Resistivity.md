@@ -1,5 +1,5 @@
 # Resistivity
-- *The measure of a material's ability to resist current*
+- *The measure of a material's ability to resist [[current]]*
 
 - Symbol: $\rho$
 

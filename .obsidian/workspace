@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "990bcd19bab837d0",
+        "id": "a8cb41ad8b65cfb9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Electric Potential.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Physics/Electromagnetism",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Electric Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Electric Potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "990bcd19bab837d0",
+  "active": "a8cb41ad8b65cfb9",
   "lastOpenFiles": [
-    "Notes/Electric Potential of a Parallel-Plate Capacitor.md",
-    "Notes/Electric Potential of a Point Charge.md",
-    "Notes/Charge Distribution.md",
-    "Notes/Charge Conservation.md",
-    "Notes/Charge Density.md",
-    "Notes/Charge.md",
-    "Notes/Capacitor.md",
-    "Notes/Capacitance.md",
-    "Notes/Buffer Op-Amp.md",
-    "Notes/Ampere's Law.md"
+    "Notes/Passive Sign Convention.md",
+    "Notes/Power.md",
+    "Notes/Power Series.md",
+    "Notes/Ratio Test.md",
+    "Notes/RC Circuit.md",
+    "Notes/Resistance.md",
+    "Notes/Resistivity.md",
+    "Notes/Resistor.md",
+    "Notes/Right Hand Rule.md",
+    "Notes/Root Test.md"
   ]
 }

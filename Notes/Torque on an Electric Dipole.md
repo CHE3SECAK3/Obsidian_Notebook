@@ -1,5 +1,5 @@
 # Torque on an Electric Dipole
-- In a constant electric field, $\vec{F}_{\text{net}} = 0$ on an electric dipole
+- In a constant [[electric field]], $\vec{F}_{\text{net}} = 0$ on an [[electric dipole]]
 
 	- This is becase the poles (2 point charges) have an equal and opposite force acting on them
 
@@ -21,4 +21,4 @@ $$\vec{\tau} = p E\sin{\theta}$$
 
 ---
 tags: #TODO - #Physics/Electromagnetism 
-links: [[Electric Dipole]] - [[Motion of a Charged Particle]] - [[Torque]] - [[Stable Equilibrium]]
+links: [[Motion of a Charged Particle]] - [[Torque]] - [[Stable Equilibrium]]

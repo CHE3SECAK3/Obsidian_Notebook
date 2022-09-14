@@ -1,5 +1,5 @@
 # Inverse Matrix
-- *Matrix division*
+- *[[Matrix]] division*
 
 - Given an $n \times n$ matrix $A$:
 

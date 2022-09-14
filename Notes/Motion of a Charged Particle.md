@@ -7,7 +7,7 @@
 >   
 > - $\vec{a}_{\text{q}}= \frac{q}{m}\vec{E}$
 
-- If the electric field is constant (in a capacitor for example), then the acceleration is constant.
+- If the [[electric field]] is constant (in a capacitor for example), then the acceleration is constant.
 
 - This means that charged particles behave very similar to large-scale objects affected by an external force. 
 

@@ -1,9 +1,9 @@
 # RC Circuit
-- *Circuits with resistors and capacitors*
+- *Circuits with [[Resistor|resistors]] and [[Capacitor|capacitors]]*
 
 - Unlike resistor-only or capactior-only circuits, RC circuits are *time-dependent*
 
-- Ohm's Law and capacitance equations are still still applicable but values change based on time
+- [[Ohm's Law]] and [[capacitance]] equations are still still applicable but values change based on time
   
 	- Solving RC circuits require setting up a *differential equation*
 
@@ -40,4 +40,4 @@
 
 ---
 tags: #Circuits - #Physics/Electromagnetism 
-links: [[Resistor]] - [[Capacitor]] - [[Kirchoff's Laws]] - [[First-Order Linear Differential Equation]]
+links: [[Kirchoff's Laws]] - [[First-Order Linear Differential Equation]]

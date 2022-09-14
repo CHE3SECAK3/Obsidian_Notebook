@@ -8,4 +8,4 @@
 
 ---
 tags: #Circuits 
-links:
+links: [[Resistor Circuit Diagram]] - [[Capacitor Circuit Diagram]]

@@ -1,5 +1,5 @@
 # Identity Matrix
-- *Unit square matrix*
+- *Unit square [[matrix]]*
 - $I_n$ is an $n \times n$ matrix with a $1$ on the *diagonal* of the matrix and $0$ elsewhere
 
 

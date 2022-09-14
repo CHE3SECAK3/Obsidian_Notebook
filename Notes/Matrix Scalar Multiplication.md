@@ -1,5 +1,5 @@
 # Matrix Scalar Multiplication
-- Given matrix $A$ and a constant $k$:
+- Given [[matrix]] $A$ and a constant $k$:
 	- $k \cdot A$ is a new matrix $B$  where:
 
 		- $B$ has $i$ rows and $j$ columns
