@@ -1,5 +1,5 @@
 # Charge Distribution
-- *What is the total charge $Q$ of an object?*
+- *What is the total [[charge]] $Q$ of an object?*
 
 ## Rod
 - A rod of charge can be thought of as a row of point charges
@@ -10,7 +10,7 @@ $$Q = \int\limits_{0}^{L} dQ$$
 
 - But integrating charge with bounds of length makes no sense
 - How is $Q$ related to $L$ ?
-	- Linear Charge Density 
+	- Linear [[Charge Density]] 
 
 	- $Q = \lambda L$ where:
 		- $\lambda$ : Linear charge density ($\frac{C}{m}$)
@@ -25,4 +25,4 @@ ___
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Charge]] - [[Integral]] - [[Charge Density]]
+links: [[Integral]]

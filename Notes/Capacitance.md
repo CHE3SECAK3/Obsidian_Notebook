@@ -1,5 +1,5 @@
 # Capacitance
-- *Property of a capacitor to store charge*
+- *Property of a [[capacitor]] to store charge*
 
 - Symbol : $C$
 
@@ -26,4 +26,4 @@
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Capacitor]] - [[Electric Potential of Parallel-Plate Capacitors]] - [[Electric Field of a Parallel-Plate Capacitor]]
+links: [[Electric Potential of Parallel-Plate Capacitors]] - [[Electric Field of a Parallel-Plate Capacitor]]

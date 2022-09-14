@@ -1,5 +1,5 @@
 # Capacitor
-- *Circuit element that holds charge*
+- *Circuit element that holds [[charge]]*
 
 ![[Capacitor Circuit Diagram]]
 

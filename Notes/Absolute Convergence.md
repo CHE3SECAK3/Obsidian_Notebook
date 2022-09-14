@@ -9,7 +9,7 @@ A series *conditionally* converges if the $\sum_{n=0}^{\infty} a_n$ converges, b
 > $$ \sum_{n=1}^{\infty} \frac{(-1)^{n+1}}{n} $$
 > 1. Check for conditional convergence:
 > 
-> - Alternating Series Test: $\lim\limits_{n \to \infty} |a_n| = \lim\limits_{n \to \infty} \frac{1}{n} = 0$
+> - [[Alternating Series Test]]: $\lim\limits_{n \to \infty} |a_n| = \lim\limits_{n \to \infty} \frac{1}{n} = 0$
 >
 > 	- The alternating harmonic series *converges*.
 > 
@@ -21,4 +21,4 @@ A series *conditionally* converges if the $\sum_{n=0}^{\infty} a_n$ converges, b
 
 ---
 tags: #Calculus/Sequences_and_Series 
-links: [[Series Convergence]] - [[Alternating Series]] - [[Alternating Series Test]]
+links: [[Series Convergence]] - [[Alternating Series]]

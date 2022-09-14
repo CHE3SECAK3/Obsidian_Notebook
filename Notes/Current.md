@@ -1,5 +1,5 @@
 # Current
-- *The flow of charge*
+- *The flow of [[charge]]*
 
 - Units: *Ampere* (or *Amp*) -> $A$
 
@@ -11,4 +11,4 @@
 
 ---
 tags: #Circuits - #Physics/Electromagnetism 
-links: [[Charge]]
+links:

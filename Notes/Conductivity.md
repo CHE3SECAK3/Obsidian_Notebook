@@ -1,5 +1,5 @@
 # Conductivity
-- *The measure of a material's ability to direct current*
+- *The measure of a material's ability to direct [[current]]*
 
 - Symbol : $\sigma$
 
@@ -7,4 +7,4 @@
 
 ---
 tags: #TODO - #Circuits
-links: [[Current]] - [[Resistivity]] - [[Conductance]]
+links: [[Resistivity]] - [[Conductance]]

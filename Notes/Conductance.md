@@ -4,7 +4,7 @@
 - Units: Siemen ($S$)
 
 > [!note] Conductane and Resistance
-> - Conductance and resistance are *inversely* related.
+> - Conductance and [[resistance]] are *inversely* related.
 > $$\begin{align*}
 G &= \frac{1}{R}\\\\
 S &= \frac{1}{\Omega} = \frac{A}{V}
@@ -12,5 +12,4 @@ S &= \frac{1}{\Omega} = \frac{A}{V}
 
 
 ---
-tags: #TODO - #Circuits 
-links: [[Resistance]]
+tags: #TODO - #Circuits

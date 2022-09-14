@@ -1,5 +1,5 @@
 # Electric Field of a Parallel-Plate Capacitor
-- *Two electrodes a distance apart with equal and opposite charge*
+- Parallel-Plate Capacitor: Two electrodes a distance apart with equal and opposite charge
 
 - An electrode is a charged surface approximated by an infinite plane
 

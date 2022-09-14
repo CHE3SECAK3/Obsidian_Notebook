@@ -15,7 +15,7 @@
 > - $\hat r$ : Unit vector of the distance between the source charge and any arbitrary point
 
 > [!note] Coulomb's Law
-> - Notice the similarities between Coulomb's Law and the Electric Field equation.
+> - Notice the similarities between [[Coulomb's Law]] and the Electric Field equation.
 >   
 > 	- $\vec{E}$ only needs one *source charge*
 > 	- Coulomb's Law uses a pair of charges
@@ -23,4 +23,4 @@
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Coulomb's Law]] - [[Electric Field]]
+links: [[Electric Field]]

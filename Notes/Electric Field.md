@@ -1,5 +1,5 @@
 # Electric Field
-- *The electric force influence of a charge*
+- *The electric force influence of a [[charge]]*
 
 - Symbol : $\vec{E}$
 
@@ -43,4 +43,4 @@
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Charge]] - [[Coulomb's Law]]
+links: [[Coulomb's Law]]

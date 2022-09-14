@@ -1,5 +1,5 @@
 # Charge Density
-- *The amount of charge per unit space*
+- *The amount of [[charge]] per unit space*
 
 - $\lambda$ : Linear charge density $\rightarrow$ one-dinemsional space
 	- $\lambda = \frac{Q}{L} \quad\left[\frac{C}{m}\right]$
@@ -12,4 +12,4 @@
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Charge]]
+links:

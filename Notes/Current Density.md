@@ -1,5 +1,5 @@
 # Current Density
-- *The amount of current per area of wire*
+- *The amount of [[current]] per area of wire*
 
 - Symbol : $J$
 
@@ -22,4 +22,4 @@ J &= e n_{e} v_{d}
 
 ---
 tags: #Physics/Electromagnetism 
-links: [[Current]] - [[Electron Current]]
+links: [[Electron Current]]

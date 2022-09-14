@@ -1,5 +1,5 @@
 # Law of Conservation of Charge
-- *Charges cannot be created or destroyed*
+- *[[Charge|Charges]] cannot be created or destroyed*
 	- In an electrically isolated system:
 		- Number of protons and electrons cannot change 
 		$\therefore$ Net charge stays constant -> $\sum\text{Q}_{SYS} = 0$
@@ -9,4 +9,4 @@
 
 ---
 tags: #Physics/Electromagnetism - #TODO 
-links: [[Charge]] - [[Law of Conservation of Energy]] - [[Current]]
+links: [[Law of Conservation of Energy]] - [[Current]]

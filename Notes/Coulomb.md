@@ -3,8 +3,8 @@
 
 - Symbol: $C$
 
-- $1C$ represents the charge of $6.24 * 10^{18}$ electrons
+- $1C$ represents the [[charge]] of $6.24 * 10^{18}$ electrons
 
 ---
 tags: #Physics/Electromagnetism - #Circuits
-links: [[Charge]] - [[Current]]
+links: [[Current]]
