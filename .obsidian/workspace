@@ -99,20 +99,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "a8cb41ad8b65cfb9",
   "lastOpenFiles": [
-    "Notes/Passive Sign Convention.md",
-    "Notes/Power.md",
-    "Notes/Power Series.md",
-    "Notes/Ratio Test.md",
-    "Notes/RC Circuit.md",
-    "Notes/Resistance.md",
-    "Notes/Resistivity.md",
-    "Notes/Resistor.md",
-    "Notes/Right Hand Rule.md",
-    "Notes/Root Test.md"
+    "Notes/DeMorgan's Law.md",
+    "Sketches/DeMorgan's Law Gates.md",
+    "Notes/Logic Gates.md",
+    "Sketches/Compound Logic Gates.md",
+    "Sketches/AND Gate.md",
+    "Sketches/XNOR Gate.md",
+    "Sketches/XOR Gate.md",
+    "Sketches/NOR Gate.md",
+    "Sketches/NAND Gate.md",
+    "Sketches/NOT Gate.md"
   ]
 }

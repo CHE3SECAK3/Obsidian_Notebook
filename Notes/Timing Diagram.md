@@ -3,6 +3,7 @@
 
 ![[Sketches/Example Timing Diagram]]
 
+
 ---
 tags: #TODO - #Digital_Design 
 links:
