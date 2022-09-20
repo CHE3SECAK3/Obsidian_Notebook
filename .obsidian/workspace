@@ -17,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Truth Tables.md",
+            "file": "Notes/Logic.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.0007801055908
+    "width": 300
   },
   "right": {
     "id": "f1c1673af42dcc9d",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Truth Tables.md",
+                "file": "Notes/Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Truth Tables.md",
+                "file": "Notes/Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +131,9 @@
   },
   "active": "e1fce35ee9a059fa",
   "lastOpenFiles": [
+    "Notes/Truth Tables.md",
     "Notes/Logic.md",
     "Notes/Logic Gates.md",
-    "Notes/Truth Tables.md",
     "Sketches/Compound Logic Gates.md",
     "Notes/DeMorgan's Law.md",
     "Notes/Alternating Series.md",

@@ -53,6 +53,11 @@ $$p \implies q$$ where:
 
 ## Tautology and Contradiction
 
+## Converse
+
+## Contrapositive
+
+## Inverse
 
 
 ---
