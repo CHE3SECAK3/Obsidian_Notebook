@@ -7,8 +7,13 @@
         "id": "a8cb41ad8b65cfb9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/DeMorgan's Law.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/DeMorgan's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/DeMorgan's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
