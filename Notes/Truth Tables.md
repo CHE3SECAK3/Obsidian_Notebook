@@ -37,7 +37,6 @@
 - Logical negation $\neg$
 - NOT gate ![[NOT Gate|50]]
 - Boolean $!$
-- Set **??**
 - Unary operator: Affects 1 entity
 
 |  A  |  NOT A  |
@@ -49,6 +48,34 @@
 - Logical operator exclusive or
 - XOR gate ![[XOR Gate|50]]
 - Boolean $\oplus$
+
+|  A  |  B  | A OR B |
+|:---:|:---:|:------:|
+|  T  |  T  |   F    |
+|  T  |  F  |   T    |
+|  F  |  T  |   T    |
+|  F  |  F  |   F    |
+
+## Conditional
+
+|  A  |  B  | A $\implies$ B |
+|:---:|:---:|:------:|
+|  T  |  T  |   T    |
+|  T  |  F  |   F    |
+|  F  |  T  |   T    |
+|  F  |  F  |   T    |
+
+## Biconditional
+- Logical operator $\iff$
+- XNOR gate
+- 
+
+|  A  |  B  | A $\iff$ B |
+|:---:|:---:|:------:|
+|  T  |  T  |   T    |
+|  T  |  F  |   F    |
+|  F  |  T  |   F    |
+|  F  |  F  |   T    |
 
 ---
 tags: #TODO - #Digital_Design - #Discrete_Math 
