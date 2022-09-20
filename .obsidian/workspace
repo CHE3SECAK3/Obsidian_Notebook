@@ -12,6 +12,19 @@
         }
       },
       {
+        "id": "e1fce35ee9a059fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Truth Tables.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
         "id": "ccad81563c4b25ce",
         "type": "leaf",
         "state": {
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Logic.md",
+                "file": "Notes/Truth Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Logic.md",
+                "file": "Notes/Truth Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,11 +129,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a8cb41ad8b65cfb9",
+  "active": "e1fce35ee9a059fa",
   "lastOpenFiles": [
+    "Notes/Logic.md",
     "Notes/Logic Gates.md",
     "Notes/Truth Tables.md",
-    "Notes/Logic.md",
     "Sketches/Compound Logic Gates.md",
     "Notes/DeMorgan's Law.md",
     "Notes/Alternating Series.md",

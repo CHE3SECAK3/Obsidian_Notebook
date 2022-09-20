@@ -68,7 +68,6 @@
 ## Biconditional
 - Logical operator $\iff$
 - XNOR gate
-- 
 
 |  A  |  B  | A $\iff$ B |
 |:---:|:---:|:------:|
