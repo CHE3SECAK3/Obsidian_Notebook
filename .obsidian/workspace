@@ -17,8 +17,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Logic.md",
-            "mode": "source",
+            "file": "Notes/Simple Harmonic Motion.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Logic.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Logic.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,12 +127,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "e1fce35ee9a059fa",
   "lastOpenFiles": [
-    "Notes/Truth Tables.md",
     "Notes/Logic.md",
+    "Notes/Truth Tables.md",
     "Notes/Logic Gates.md",
     "Sketches/Compound Logic Gates.md",
     "Notes/DeMorgan's Law.md",
