@@ -17,4 +17,4 @@
 
 ---
 tags: #TODO - #Digital_Design 
-links:
+links: [[Truth Tables]]
