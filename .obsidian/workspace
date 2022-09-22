@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2df788d9b4983e24",
+        "id": "c5973a790edd86b6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Notes/Logic.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Physics/Electromagnetism",
+                "query": "tag:#Digital_Design",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,17 +108,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2df788d9b4983e24",
+  "active": "c5973a790edd86b6",
   "lastOpenFiles": [
+    "Notes/Logic Gates.md",
     "Notes/Logic.md",
+    "Sketches/Drawing 2022-09-21 22.14.37.excalidraw.md",
+    "Notes/DeMorgan's Law.md",
     "Notes/Truth Tables.md",
     "Notes/Boolean Algebra.md",
     "Notes/Simple Harmonic Motion.md",
-    "Notes/Logic Gates.md",
     "Sketches/Compound Logic Gates.md",
-    "Notes/DeMorgan's Law.md",
     "Notes/Alternating Series.md",
-    "Sketches/DeMorgan's Law Gates.md",
-    "Sketches/AND Gate.md"
+    "Sketches/DeMorgan's Law Gates.md"
   ]
 }

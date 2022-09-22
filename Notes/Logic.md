@@ -49,7 +49,8 @@ $$ \text{if } p \text{, then } q$$
 $$p \implies q$$ where:
 - $p$ : Hypothesis
 - $q$ : Conclusion
-- If the hypothesis $p$ is false, $p \implies q$ is always true, because the conclusion doesn't imply the hypothesis
+
+- If the hypothesis $p$ is false, $p \implies q$ is always true
 
 >[!example] Conditional Example
 > - $p : \text{Sally is drunk.}$
@@ -79,12 +80,60 @@ $$p \implies q$$ where:
 > Based on the truth table:
 > - Conditional and contrapositive propositions are equivalent
 > - Inverse and converse propositions are equivalent
- 
+
+- $p \implies q$ could be rewritten as $\neg p \lor q$ since both have the same truth value
+
+- Therefore $p \implies q$ and $\neg p \lor q$ are logically equivalent
+	- $p \implies q \equiv \neg p \lor q$
 
 ## Tautology and Contradiction
+- Tautologies are propositions that always evaluate to *True*
+- Contradictions always evaluate to *False*
+
+>[!example] Tautology and Contradiction
+> - Tautology example: $p \lor \neg p$
+> 	- Either side is going to be true or false, which makes the disjunction always true
+>
+> - Contradiction example: $p \land \neg p$
+> 	- Both sides cannot be true at the same time, so the conjuction will always evaluate to false
 
 
+## Biconditional Proposition
+$$p \text{ if and only if } q \text{\quad \bf OR \quad} \text{ if } p \text{ then } q \text{, and vice versa}$$
+$$p \iff q$$
 
+- $p \iff q$ asserts that $p$ can only be true if $q$ is true
+- If $q$ is false, $p$ has to be false for $p \iff q$ to be true
+
+- Biconditional propositions therefore are truth value equivalence checkers
+
+
+# Predicate
+- *A statement whose truth value is dependent on one or more variables*
+
+- Predicates turn into propositions if the variables are given values, since a truth value can then be evaluated
+
+- Variables have a domain, which is a set of all possible inputs. Unless implied, the domain needs to be defined
+
+>[!example] Predicate Example
+> - $P(x) : x + 1 = 5$
+>
+> - $Q(x, y) : x^{2}+ y^{2}= 1$
+> 
+> - The store has no milk, where the "store" is a variable with the domain being all grocery stores in the Pacific Northwest
+> 
+> - If all variables in a predicate are assigned a value 
+>   ($x = 3, y = 4, \text{store } = \text{ Safeway}$), then the predicate becomes a proposition
+>
+> ---
+>
+> - $x + 1 > x \text{, for all positive values of } x$ 
+> 
+> - The statement will always be true for any given $x$
+> 	  - However, the statement remains a predicate until a value is assigned to $x$
+
+# Quantifier
+$\exists$ $\forall$
 
 ---
 tags: #TODO - #Discrete_Math
