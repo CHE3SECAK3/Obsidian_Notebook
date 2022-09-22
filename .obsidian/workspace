@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ee49c1c8bd65ce30",
+        "id": "f8743a85247f8b71",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Truth Tables.md",
+            "file": "Notes/Logic.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Truth Tables.md",
+                "file": "Notes/Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Truth Tables.md",
+                "file": "Notes/Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,12 +109,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee49c1c8bd65ce30",
+  "active": "f8743a85247f8b71",
   "lastOpenFiles": [
-    "Notes/Boolean Algebra.md",
     "Notes/Logic.md",
-    "Notes/Simple Harmonic Motion.md",
     "Notes/Truth Tables.md",
+    "Notes/Boolean Algebra.md",
+    "Notes/Simple Harmonic Motion.md",
     "Notes/Logic Gates.md",
     "Sketches/Compound Logic Gates.md",
     "Notes/DeMorgan's Law.md",

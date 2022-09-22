@@ -49,15 +49,26 @@ $$ \text{if } p \text{, then } q$$
 $$p \implies q$$ where:
 - $p$ : Hypothesis
 - $q$ : Conclusion
+- If the hypothesis $p$ is false, $p \implies q$ is always true, because the conclusion doesn't imply the hypothesis
 
+>[!example] Conditional Example
+> - $p : \text{Sally is drunk.}$
+> - $q: \text{Sally will not drive.}$
+> - $p \implies q: \text{If Sally is drunk, Sally will not drive.}$
+> ---
+> - If Sally is drunk ($p = \text{True}$), $p \implies q$ can only be true if Sally also will not drive ($q = \text{True}$)
+> 
+> - However, if Sally isn't drunk ($p = \text{False}$), she *might* or *might not* drive. Therefore, $q$ only needs to be true if $p$ is also true in order for $p \implies q$ to be false.
+
+> [!note] Special Conditionals
+> - Given that $p \implies q$ :
+> - The **converse** states that $q \implies p$
+> - The **contrapositive** states that $\neg q \implies \neg p$
+> - The **inverse** states tjat $\neg p \implies \neg q$
 
 ## Tautology and Contradiction
 
-## Converse
 
-## Contrapositive
-
-## Inverse
 
 
 ---
