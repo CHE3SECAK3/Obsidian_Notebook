@@ -176,19 +176,28 @@ $$p \iff q$$
 
 - A quantified statement $\forall x P(x)$ is said to have a *bound variable* $x$
 
-- If a statement contains at least free variable, then it is considered a predicate.
+- If a statement contains at least one free variable, then it is considered a predicate.
 
 - If a statement contains all bound variables, then it is considered a proposition
 
 - Nested quantifiers are statement that contain multiple quantifiers that bound different variables
+	- They are evaluated left to right, so order matters
 
-> [!example] Free and Bound Variables
-> - $\exists x P(x)\quad$ has one bound variable
-> 	- There exists an $x$ such that $P(x)$ is true
-> - $\forall x \exists y (x = y)\quad$ has 2 bound variables
-> 	- For every $x$, there exists a $y$ such that $x = y$
-> - $\exists x \forall y (xy = z)\quad$ has 2 bound variables and one free variable
-> 	- There exists an $x$ for all $y$ such that $xy = z$
+> [!example] Nested Qualifiers
+> - $(x,y) \in \mathbb{R}^{2}$
+> - $\forall x \forall y (x \cdot y \in \mathbb{R})$
+> 	- For all $x$ and $y$, $x \cdot y$ is a real number
+>
+> - $\exists x \exists y (x + y = 0)$
+> 	- There exists an $x$ and $y$ such that $x + y = 0$
+>
+> - $\exists x \forall y (x + y = 0)$
+> 	- There exists an $x$ for all $y$ such that $x + y = 0$
+> 	- This statement is false because $x$ is chosen first which will make the statement false for every $y$ except one $y$
+>
+> - $\forall x \exists y (x + y = 0)$
+> 	- For every $x$ there exists a $y$ such that $x + y = 0$
+> 	- This statement is true because any $y$ can be chosen for every $x$ 
 
 ---
 tags: #TODO - #Discrete_Math
