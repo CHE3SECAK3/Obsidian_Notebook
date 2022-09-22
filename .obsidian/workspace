@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cb5c4abb5f38a267",
+        "id": "ff2e8f6318639210",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -108,13 +108,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cb5c4abb5f38a267",
+  "active": "ff2e8f6318639210",
   "lastOpenFiles": [
+    "Notes/Logic.md",
     "Sketches/DeMorgan's Law for Quantifiers.md",
     "Sketches/Drawing 2022-09-14 12.06.00.excalidraw.md",
     "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
     "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
-    "Notes/Logic.md",
     "Notes/Magnetic Force on a Current-Carrying Wire.md",
     "Notes/Series Convergence.md",
     "Sketches/DeMorgan's Law Gates.md",

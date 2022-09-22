@@ -183,11 +183,12 @@ $$p \iff q$$
 - Nested quantifiers are statement that contain multiple quantifiers that bound different variables
 
 > [!example] Free and Bound Variables
-> - $\exists x$
-
-$\exists x (P(x)\land Q(x))$
-$\exists x (P(x)\land \neg Q(x))$
-$\neg \exists x (P(x)\land Q(x))$
+> - $\exists x P(x)\quad$ has one bound variable
+> 	- There exists an $x$ such that $P(x)$ is true
+> - $\forall x \exists y (x = y)\quad$ has 2 bound variables
+> 	- For every $x$, there exists a $y$ such that $x = y$
+> - $\exists x \forall y (xy = z)\quad$ has 2 bound variables and one free variable
+> 	- There exists an $x$ for all $y$ such that $xy = z$
 
 ---
 tags: #TODO - #Discrete_Math
