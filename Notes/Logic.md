@@ -56,9 +56,11 @@ $$p \implies q$$ where:
 > - $q: \text{Sally will not drive.}$
 > - $p \implies q: \text{If Sally is drunk, Sally will not drive.}$
 > ---
-> - If Sally is drunk ($p = \text{True}$), $p \implies q$ can only be true if Sally also will not drive ($q = \text{True}$)
+> - If Sally is drunk ($p = \text{True}$), Sally **must not** drive in order for the implication $p \implies q$ to be true
 > 
-> - However, if Sally isn't drunk ($p = \text{False}$), she *might* or *might not* drive. Therefore, $q$ only needs to be true if $p$ is also true in order for $p \implies q$ to be false.
+> - However, let's say Sally isn't drunk ($p = \text{False}$)
+> - In this case, she *might* or *might not* drive
+> - Regardless, Sally being sober does not contradict the implication that she will not drive if she is drunk. Therefore, $p \implies q$ still holds true
 
 > [!note] Special Conditionals
 > Given that $p \implies q$ :
