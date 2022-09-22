@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Logic.md",
-            "mode": "source",
+            "file": "Notes/Series Convergence.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Logic.md",
+                "file": "Notes/Series Convergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Logic.md",
+                "file": "Notes/Series Convergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "c5973a790edd86b6",
   "lastOpenFiles": [
-    "Notes/Logic Gates.md",
-    "Notes/Logic.md",
+    "Sketches/DeMorgan's Law Gates.md",
+    "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
+    "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
     "Sketches/Drawing 2022-09-21 22.14.37.excalidraw.md",
+    "Notes/Divergence and Convergence Tests.md",
+    "Notes/Current.md",
+    "Notes/Logic.md",
+    "Notes/Logic Gates.md",
     "Notes/DeMorgan's Law.md",
-    "Notes/Truth Tables.md",
-    "Notes/Boolean Algebra.md",
-    "Notes/Simple Harmonic Motion.md",
-    "Sketches/Compound Logic Gates.md",
-    "Notes/Alternating Series.md",
-    "Sketches/DeMorgan's Law Gates.md"
+    "Notes/Truth Tables.md"
   ]
 }
