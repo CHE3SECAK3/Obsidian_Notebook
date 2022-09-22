@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c5973a790edd86b6",
+        "id": "cb5c4abb5f38a267",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Series Convergence.md",
+            "file": "Notes/Logic.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Series Convergence.md",
+                "file": "Notes/Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Series Convergence.md",
+                "file": "Notes/Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,17 +108,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c5973a790edd86b6",
+  "active": "cb5c4abb5f38a267",
   "lastOpenFiles": [
-    "Sketches/DeMorgan's Law Gates.md",
+    "Sketches/DeMorgan's Law for Quantifiers.md",
+    "Sketches/Drawing 2022-09-14 12.06.00.excalidraw.md",
     "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
     "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
-    "Sketches/Drawing 2022-09-21 22.14.37.excalidraw.md",
-    "Notes/Divergence and Convergence Tests.md",
-    "Notes/Current.md",
     "Notes/Logic.md",
-    "Notes/Logic Gates.md",
-    "Notes/DeMorgan's Law.md",
-    "Notes/Truth Tables.md"
+    "Notes/Magnetic Force on a Current-Carrying Wire.md",
+    "Notes/Series Convergence.md",
+    "Sketches/DeMorgan's Law Gates.md",
+    "Notes/Divergence and Convergence Tests.md",
+    "Notes/Current.md"
   ]
 }

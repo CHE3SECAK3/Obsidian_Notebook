@@ -1,15 +1,18 @@
 # Logic
 - *The language of reasoning*
 
-## Logical Operators
-| Operator      |   Symbol   |
-|:------------- |:----------:|
-| Negation      |   $\neg$   |
-| Exclusive OR  |  $\oplus$  |
-| Conjunction   |  $\land$   |
-| Disjunction   |   $\lor$   |
-| Conditional   | $\implies$ |
-| Biconditional |   $\iff$   |
+## Logical Operators in Precedence Order
+| Operator               |   Symbol   |
+|:---------------------- |:----------:|
+| Universal Quantifier   | $\forall$  |
+| Existential Quantifier | $\exists$  |
+| Uniqueness Quantifier  | $\exists!$ |
+| Negation               |   $\neg$   |
+| Exclusive OR           |  $\oplus$  |
+| Conjunction            |  $\land$   |
+| Disjunction            |   $\lor$   |
+| Conditional            | $\implies$ |
+| Biconditional          |   $\iff$   |
 
 
 # Proposition
@@ -133,7 +136,58 @@ $$p \iff q$$
 > 	  - However, the statement remains a predicate until a value is assigned to $x$
 
 # Quantifier
-$\exists$ $\forall$
+- Quantifiers also turn predicates into propositions
+
+## Universal Quantifier
+
+- $\forall x P(x)$ asserts that $P(x)$ is true for *every* $x$ in its domain
+
+- In other words, for the set of all possible inputs $\{x_{1}, x_{2}, ... , x_{n}\}$, $\forall x P(x) \equiv P(x_{1}) \land P(x_{2}) \land \ldots \land P(x_{n})$
+
+## Existential Quanitifer
+
+- $\exists x P(x)$ asserts that $P(x)$ is true for *at least* one $x$ in its domain
+
+- In other words, for the set of all possible inputs $\{x_{1}, x_{2}, ... , x_{n}\}$, $\exists x P(x) \equiv P(x_{1}) \lor P(x_{2}) \lor \ldots \lor P(x_{n})$
+
+## Uniqueness Quantifier
+- $\exists! x P(x)$ asserts that $P(x)$ is true for *only* one $x$ in its domain
+
+- In other words, for the set of all possible inputs $\{x_{1}, x_{2}, ... , x_{n}\}$, $\exists! x P(x) \equiv P(x_{1}) \oplus P(x_{2}) \oplus \ldots \oplus P(x_{n})$
+
+
+>[!note] Proving Quanitifers
+> 
+> - $\forall x P(x)$ requires all values of $x$ to be true, so finding one $x$ that makes $P(x)$ false means $\forall x P(x)$ is also false
+> 	- This is a **counterexample**
+>
+> - $\exists x P(x)$ requires just one value of $x$ to be true, so finding one $x$ that makes $P(x)$ true means $\exists x P(x)$ is also true
+> 	- This is an **example**
+>
+> - $\exists! x P(x)$ requires that only one value of $x$ can be true, so finding two values of $x$ that makes $P(x)$ true means $\exists! x P(x)$ is false
+
+>[!note] DeMorgan's Law for Quantifiers
+> ![[DeMorgan's Law for Quantifiers]]
+
+
+## Nested Quantifiers
+
+- A predicate $P(x)$ is said to have a *free variable* $x$
+
+- A quantified statement $\forall x P(x)$ is said to have a *bound variable* $x$
+
+- If a statement contains at least free variable, then it is considered a predicate.
+
+- If a statement contains all bound variables, then it is considered a proposition
+
+- Nested quantifiers are statement that contain multiple quantifiers that bound different variables
+
+> [!example] Free and Bound Variables
+> - $\exists x$
+
+$\exists x (P(x)\land Q(x))$
+$\exists x (P(x)\land \neg Q(x))$
+$\neg \exists x (P(x)\land Q(x))$
 
 ---
 tags: #TODO - #Discrete_Math
