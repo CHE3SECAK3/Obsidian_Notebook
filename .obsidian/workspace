@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f8743a85247f8b71",
+        "id": "2df788d9b4983e24",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Notes/Logic.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -106,10 +106,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f8743a85247f8b71",
+  "active": "2df788d9b4983e24",
   "lastOpenFiles": [
     "Notes/Logic.md",
     "Notes/Truth Tables.md",

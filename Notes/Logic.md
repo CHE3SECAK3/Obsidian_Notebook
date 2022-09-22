@@ -61,10 +61,23 @@ $$p \implies q$$ where:
 > - However, if Sally isn't drunk ($p = \text{False}$), she *might* or *might not* drive. Therefore, $q$ only needs to be true if $p$ is also true in order for $p \implies q$ to be false.
 
 > [!note] Special Conditionals
-> - Given that $p \implies q$ :
-> - The **converse** states that $q \implies p$
+> Given that $p \implies q$ :
+> 
 > - The **contrapositive** states that $\neg q \implies \neg p$
-> - The **inverse** states tjat $\neg p \implies \neg q$
+> - The **converse** states that $q \implies p$
+> - The **inverse** states that $\neg p \implies \neg q$ 
+>
+> | $p$ | $q$ | $p \implies q$ | $\neg q \implies \neg p$ | $q \implies p$ | $\neg p \implies \neg q$ |
+> |:---:|:---:|:--------------:|:--------------:|:------------------------:|:------------------------:|
+> |  T  |  T  |       T        |       T        |            T             |            T             |
+> |  T  |  F  |       F        |       F        |            T             |            T             |
+> |  F  |  T  |       T        |       T        |            F             |            F             |
+> |  F  |  F  |       T        |       T        |            T             |            T             |
+> 
+> Based on the truth table:
+> - Conditional and contrapositive propositions are equivalent
+> - Inverse and converse propositions are equivalent
+ 
 
 ## Tautology and Contradiction
 
@@ -73,4 +86,4 @@ $$p \implies q$$ where:
 
 ---
 tags: #TODO - #Discrete_Math
-links:
+links: [[Truth Tables]]
