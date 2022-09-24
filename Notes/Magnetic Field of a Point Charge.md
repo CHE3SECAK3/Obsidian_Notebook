@@ -38,5 +38,5 @@ $$\vec{B}_\text{net} = \sum\limits_{n} \vec{B}_n$$
 
 
 ---
-tags: #TODO - #Physics/Electromagnetism 
+tags: #Physics/Electromagnetism 
 links: [[Cross Product]]

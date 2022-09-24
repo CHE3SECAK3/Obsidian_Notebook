@@ -7,13 +7,8 @@
         "id": "13ba4a0e90339985",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Logic Gates.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -50,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Logic Gates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Logic Gates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +102,15 @@
   },
   "active": "13ba4a0e90339985",
   "lastOpenFiles": [
-    "Notes/Logic.md",
-    "Notes/Inverting Op-Amp.md",
-    "Notes/Half-Adder.md",
-    "Notes/Full-Adder.md",
-    "Notes/DeMorgan's Law.md",
-    "Notes/Decoder.md",
-    "Notes/Conductivity.md",
-    "Notes/Conductance.md",
-    "Notes/Comparator.md",
-    "Notes/Charge Conservation.md"
+    "Notes/Brute Force Design.md",
+    "Notes/Non-Inverting Op-Amp.md",
+    "Notes/Operational Amplifier.md",
+    "Notes/Predicate.md",
+    "Notes/Proposition.md",
+    "Notes/Quantifier.md",
+    "Notes/Truth Tables.md",
+    "Notes/Magnetic Field of a Solenoid.md",
+    "Notes/Magnetic Field of a Point Charge.md",
+    "Notes/Logic Gates.md"
   ]
 }

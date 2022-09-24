@@ -35,5 +35,5 @@
 > ![[GT_THAN_4 Completed Circuit]]
 
 ---
-tags: #TODO - #Digital_Design 
+tags: #Digital_Design 
 links: 

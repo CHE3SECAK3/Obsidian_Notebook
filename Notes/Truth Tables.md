@@ -77,5 +77,5 @@
 |  F  |  F  |   T    |
 
 ---
-tags: #TODO - #Digital_Design - #Discrete_Math 
+tags: #Digital_Design - #Discrete_Math 
 links:

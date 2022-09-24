@@ -95,5 +95,5 @@ $$p \iff q$$
 
 
 ---
-tags: #TODO - #Discrete_Math 
+tags: #Discrete_Math 
 links: [[Logic]] - [[Truth Tables]]

@@ -63,5 +63,5 @@
 > 	- This statement is true because any $y$ can be chosen for every $x$ 
 
 ---
-tags: #TODO - #Discrete_Math
+tags: #Discrete_Math
 links: [[Predicate]] - [[Logic]]
