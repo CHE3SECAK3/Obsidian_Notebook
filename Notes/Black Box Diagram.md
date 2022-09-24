@@ -6,5 +6,5 @@
 ![[Sketches/Example Black Box Diagram]]
 
 ---
-tags: #TODO - #Digital_Design 
+tags: #Digital_Design 
 links:

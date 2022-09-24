@@ -6,5 +6,5 @@
 - Units : $\large \frac{1}{\ohm m}$
 
 ---
-tags: #TODO - #Circuits
+tags: #Circuits
 links: [[Resistivity]] - [[Conductance]]

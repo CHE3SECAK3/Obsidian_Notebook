@@ -12,4 +12,4 @@ S &= \frac{1}{\Omega} = \frac{A}{V}
 
 
 ---
-tags: #TODO - #Circuits
+tags: #Circuits

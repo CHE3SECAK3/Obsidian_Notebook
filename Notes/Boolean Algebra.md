@@ -16,5 +16,5 @@
 | $0 \cdot 1 = 1 \cdot 0 = 0$ | $0 + 1 = 1 + 0 = 1$ |                    |
 
 ---
-tags: #TODO - #Digital_Design 
+tags: #Digital_Design 
 links: [[Truth Tables]]

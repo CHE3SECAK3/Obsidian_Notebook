@@ -7,5 +7,5 @@
 
 
 ---
-tags: #TODO - #Circuits
+tags: #Circuits
 links:

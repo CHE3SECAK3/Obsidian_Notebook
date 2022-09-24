@@ -12,5 +12,5 @@
 
 
 ---
-tags: #TODO - #Circuits
+tags: #Circuits
 links: [[Operational Amplifier]]

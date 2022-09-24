@@ -26,5 +26,5 @@
 > ![[Compound Logic Gates]]
 
 ---
-tags: #TODO - #Digital_Design 
+tags: #Digital_Design 
 links: [[Truth Tables]]
