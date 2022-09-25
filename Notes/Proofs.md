@@ -1,5 +1,7 @@
 # Proofs
 
+## Proof by Exhaustion
+
 # Theoren
 
 # Axiom
