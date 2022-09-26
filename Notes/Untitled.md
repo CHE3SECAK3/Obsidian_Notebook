@@ -8,17 +8,17 @@
 tags: #TODO - #Physics/Oscillation 
 links: [[Period]]
 
-# Period
-- *One cycle in an oscillation*
-- Symbol: $T$, in seconds
-
----
-tags: #Physics/Oscillation
-links:
 
 # Simple Harmonic Motion (SMH)
 - *Most important oscillation*
 - Sinusoidal oscillation
+
+# Period
+- *One cycle in an oscillation*
+- Symbol: $T$, in seconds
+
+# Amplitude
+# Frequency
 
 
 ---
