@@ -16,4 +16,11 @@ links: [[Period]]
 tags: #Physics/Oscillation
 links:
 
-# Simple Harmonic Motion
+# Simple Harmonic Motion (SMH)
+- *Most important oscillation*
+- Sinusoidal oscillation
+
+
+---
+tags: #TODO - #Physics/Oscillation 
+links:
