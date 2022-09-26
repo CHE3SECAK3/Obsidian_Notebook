@@ -5,6 +5,8 @@
 ## Constructive Proof of Existence
 ## Nonconstructive Proof of Existence
 ## Existential Instantiation
+## Direct Proof
+
 
 # Theoren
 
