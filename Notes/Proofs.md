@@ -4,7 +4,7 @@
 ## Existence Proof
 ## Constructive Proof of Existence
 ## Nonconstructive Proof of Existence
-
+## Existential Instantiation
 
 # Theoren
 
