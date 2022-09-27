@@ -34,6 +34,7 @@ links: [[Period]]
 >	- $t$ : Time variable
 >	- $\phi_{0}$ : Phase constant
 
+
 ![[SHM Graphs]]
 
 
@@ -46,11 +47,11 @@ $$F_{\text{sp}} = -k\vec{x}$$
 	- $k$ : Spring constant $\frac{N}{m}$
 	- $\vec{x}$ : Displacement $m$
 
-- $k$, or the spring constant is an intrinsic property of the spring itself
-	
-	- Determines how much force is required to stretch or compress a spring a unit distance (Newtons of force per meter, or $\frac{N}{m}$)
-		
-		- A tougher spring has a higher $k$, since it requires more force to manipulate it, while a looser spring has a smaller $k$ value
+> [!note] Spring constant $k$
+> - Intrinsic property of the spring itself
+> 	- Determines how much force is required to stretch or compress a spring a unit distance (Newtons of force per meter, or $\frac{N}{m}$)
+> 	
+> 	- A tougher spring has a higher $k$, since it requires more force to manipulate it, while a looser spring has a smaller $k$ value
 
 - The spring applies no force on the object at equilibrium ($x = 0, F_{\text{sp}} = \vec{0}$)
 
