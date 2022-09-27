@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "13ba4a0e90339985",
+        "id": "3f7d21f62acd641b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Untitled.md",
+            "file": "Notes/Simple Harmonic Motion.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Untitled.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Untitled.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,19 +105,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "13ba4a0e90339985",
+  "active": "3f7d21f62acd641b",
   "lastOpenFiles": [
+    "Notes/Simple Harmonic Motion.md",
+    "Notes/Simple Harmonic Motion.md",
+    "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
+    "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
+    "Sketches/SHM Graphs.md",
     "Notes/Absolute Convergence.md",
     "Notes/Buffer Op-Amp.md",
     "Notes/Proofs.md",
     "Notes/Alternating Series Test.md",
-    "Notes/Brute Force Design.md",
-    "Notes/Non-Inverting Op-Amp.md",
-    "Notes/Operational Amplifier.md",
-    "Notes/Predicate.md",
-    "Notes/Proposition.md",
-    "Notes/Quantifier.md"
+    "Notes/Brute Force Design.md"
   ]
 }
