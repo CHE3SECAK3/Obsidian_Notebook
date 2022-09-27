@@ -7,9 +7,12 @@
         "id": "3f7d21f62acd641b",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/SHM Graphs.md"
+            "file": "Notes/Simple Harmonic Motion.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/SHM Graphs.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/SHM Graphs.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,9 +110,9 @@
   },
   "active": "3f7d21f62acd641b",
   "lastOpenFiles": [
+    "Sketches/SHM Graphs.md",
     "Notes/Simple Harmonic Motion.md",
     "Sketches/Hooke's Law.md",
-    "Sketches/SHM Graphs.md",
     "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
     "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
     "Notes/Absolute Convergence.md",

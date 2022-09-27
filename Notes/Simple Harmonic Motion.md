@@ -22,18 +22,17 @@ links: [[Period]]
 - *Most important oscillation*
 - Sinusoidal oscillation
 
-## General Equation
-$$\begin{aligned}
-x(t) &= A\cos(\omega t + \phi_{0}) \\ \\
-v(t) = \frac{dx}{dt} &= -A\omega\sin(\omega t + \phi_{0}) \\ \\
-a(t) = \frac{d^{2}x}{dt^{2}} &= -A\omega^{2}\cos(\omega t + \phi_{0})
+> [!note] General Equation
+> $$\begin{aligned}
+\text{Displacement} &: x(t) & &= A\cos(\omega t + \phi_{0}) \\ \\
+\text{Velocity} &: v(t) = \frac{dx}{dt} & &= -A\omega\sin(\omega t + \phi_{0}) \\ \\
+\text{Acceleration} &: a(t) = \frac{d^{2}x}{dt^{2}} & &= -A\omega^{2}\cos(\omega t + \phi_{0})
 \end{aligned}$$
-
-- where:
-	- $A$ : Amplitude ($m$)
-	- $\omega$ : Angular frequency or angular velocity ($\frac{\text{rad}}{s}$)
-	- $t$ : Time variable
-	- $\phi_{0}$ : Phase 
+> - where:
+>	- $A$ : Amplitude ($m$)
+>	- $\omega$ : Angular frequency or angular velocity ($\frac{\text{rad}}{s}$)
+>	- $t$ : Time variable
+>	- $\phi_{0}$ : Phase constant
 
 ![[SHM Graphs]]
 
