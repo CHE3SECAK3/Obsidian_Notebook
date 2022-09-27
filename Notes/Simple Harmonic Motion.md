@@ -5,6 +5,13 @@
 
 ## Elements of an Oscillation
 
+### Period
+- *One cycle in an oscillation*
+- Symbol: $T$ in seconds
+
+### Amplitude
+
+### Frequency
 
 ---
 tags: #TODO - #Physics/Oscillation 
@@ -15,10 +22,11 @@ links: [[Period]]
 - *Most important oscillation*
 - Sinusoidal oscillation
 
+## General Equation
 $$\begin{aligned}
-x(t) &= A\cos(\omega t + \phi_{0}) \\
-v(t) &= -A\omega\sin(\omega t + \phi_{0}) \\
-a(t) &= -A\omega^{2}\cos(\omega t + \phi_{0})
+x(t) &= A\cos(\omega t + \phi_{0}) \\ \\
+v(t) = \frac{dx}{dt} &= -A\omega\sin(\omega t + \phi_{0}) \\ \\
+a(t) = \frac{d^{2}x}{dt^{2}} &= -A\omega^{2}\cos(\omega t + \phi_{0})
 \end{aligned}$$
 
 - where:
@@ -27,15 +35,32 @@ a(t) &= -A\omega^{2}\cos(\omega t + \phi_{0})
 	- $t$ : Time variable
 	- $\phi_{0}$ : Phase 
 
-# Period
-- *One cycle in an oscillation*
-- Symbol: $T$ in seconds
+![[SHM Graphs]]
 
 
+# Hooke's Law
+- The amount of force needed to compress or stretch a spring is linearly proportional to its displacement
 
-# Amplitude
-# Frequency
+$$F_{\text{sp}} = -k\vec{x}$$
+- where:
+	- $F_{\text{sp}}$ : Restoring force $N$
+	- $k$ : Spring constant $\frac{N}{m}$
+	- $\vec{x}$ : Displacement $m$
 
+- $k$, or the spring constant is an intrinsic property of the spring itself
+	
+	- Determines how much force is required to stretch or compress a spring a unit distance (Newtons of force per meter, or $\frac{N}{m}$)
+		
+		- A tougher spring has a higher $k$, since it requires more force to manipulate it, while a looser spring has a smaller $k$ value
+
+- The spring applies no force on the object at equilibrium ($x = 0, F_{\text{sp}} = \vec{0}$)
+
+> [!question] Why is there a negative sign?
+> - The resoting force is always in the opposite direction of displacement
+> 
+> - When stretching a spring, the spring wants to shrink back to its equilibrium position
+> - When compressing the spring, it wants to spread out to its equilibrium position
+> ![[Hooke's Law]]
 
 ---
 tags: #TODO - #Physics/Oscillation 
