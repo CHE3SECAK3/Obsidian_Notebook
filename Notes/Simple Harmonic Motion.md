@@ -5,22 +5,32 @@
 
 ## Elements of an Oscillation
 
-### Period
-- *One cycle in an oscillation*
-- Symbol: $T$ in seconds
-
 ### Amplitude
+- *Maximum displacement from equilibrium*
+
+- Symbol: $A$ in $m$
+
+### Period
+- *Duration of one cycle in an oscillation*
+
+- Symbol: $T$ in $s$
 
 ### Frequency
+- *Number of cycles per second in an oscillation*
+- Symbol: $f$ in $s^{-1}$ or $Hz$
+
+- The period and frequency are inverses of each other
+$$T = \frac{1}{f} \text{ and } f = \frac{1}{T}$$
 
 ---
 tags: #TODO - #Physics/Oscillation 
 links: [[Period]]
 
 
-# Simple Harmonic Motion (SMH)
+# Simple Harmonic Motion (SHM)
 - *Most important oscillation*
 - Sinusoidal oscillation
+- SHM follows [[Hooke's Law]]
 
 > [!note] General Equation
 > $$\begin{aligned}
@@ -34,6 +44,9 @@ links: [[Period]]
 >	- $t$ : Time variable
 >	- $\phi_{0}$ : Phase constant
 
+> [!note] Angular Frequency
+> - Angular frequency is the speed of cyclical motion
+> - If frequency $f$ is the amount of cycles per second, 
 
 ![[SHM Graphs]]
 
