@@ -7,9 +7,12 @@
         "id": "8b9c2613ccd188e4",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Vertical SHM.md"
+            "file": "Notes/Simple Harmonic Motion.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Vertical SHM.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Vertical SHM.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,8 +110,8 @@
   },
   "active": "8b9c2613ccd188e4",
   "lastOpenFiles": [
-    "Notes/Simple Harmonic Motion.md",
     "Sketches/Vertical SHM.md",
+    "Notes/Simple Harmonic Motion.md",
     "Sketches/SHM Graphs.md",
     "Sketches/Hooke's Law.md",
     "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",

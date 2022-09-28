@@ -124,12 +124,12 @@ f &= \frac{1}{2\pi}\sqrt{\frac{k}{m}}
 
 $$
 \begin{align}
-\sum F_\text{y} = kx_{0} - mg &= 0 \\ \\
-kx_{0} &= mg \\ \\
-x_{0} &= \frac{mg}{k}
+\sum F_\text{y} = ky_{0} - mg &= 0 \\ \\
+ky_{0} &= mg \\ \\
+y_{0} &= \frac{mg}{k}
 \end{align}$$
 
-- At this point, the oscillation would have the same behavior and equation as a horizontal spring with the equilibrium being at $x_{0}$
+- At this point, the oscillation would have the same behavior and equation as a horizontal spring with the equilibrium being at $y_{0}$, with $\Delta L$ being the static stretch
 
 ![[Vertical SHM]]
 
