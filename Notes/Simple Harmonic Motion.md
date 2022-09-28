@@ -129,6 +129,10 @@ kx_{0} &= mg \\ \\
 x_{0} &= \frac{mg}{k}
 \end{align}$$
 
+- At this point, the oscillation would have the same behavior and equation as a horizontal spring with the equilibrium being at $x_{0}$
+
+![[Vertical SHM]]
+
 ---
 tags: #TODO - #Physics/Oscillation 
 links: [[Law of Conservation of Energy]]
