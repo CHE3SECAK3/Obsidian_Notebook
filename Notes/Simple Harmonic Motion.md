@@ -71,11 +71,20 @@ $$F_{\text{sp}} = -k\vec{x}$$
 - The spring applies no force on the object at equilibrium ($x = 0, F_{\text{sp}} = \vec{0}$)
 
 > [!question] Why is there a negative sign?
-> - The resoting force is always in the opposite direction of displacement
+> - The resoting force is always in the opposite direction of displacement and towards equilibrium
 > 
 > - When stretching a spring, the spring wants to shrink back to its equilibrium position
 > - When compressing the spring, it wants to spread out to its equilibrium position
 > ![[Hooke's Law]]
+
+>[!note] Acceleration and Hooke's Law
+>$$ \begin{align*}
+F_{\text{sp}} &= -kx \\\\
+\sum F_{x} &= ma_{x} \\ \\
+\sum F_{x} &= F_{\text{sp}}\\ \\
+ma_{x} &= -kx\\ \\
+a_{x} &= -\frac{k}{m} x
+\end{align*} $$
 
 # SHM Energy
 - The [[Law of Conservation of Energy]] states:
@@ -108,6 +117,17 @@ $$\begin{align*}
 f &= \frac{1}{2\pi}\sqrt{\frac{k}{m}}
 \end{align*}$$
 
+
+# Vertical Oscillation
+- A spring oscillating vertically has a different equilibrium position than its unstretched distance
+	- Because gravity acts downward, equilibrium position $x_{0}$ is where the restoring force balances the gravitational force: 
+
+$$
+\begin{align}
+\sum F_\text{y} = kx_{0} - mg &= 0 \\ \\
+kx_{0} &= mg \\ \\
+x_{0} &= \frac{mg}{k}
+\end{align}$$
 
 ---
 tags: #TODO - #Physics/Oscillation 
