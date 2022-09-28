@@ -49,22 +49,6 @@ links: [[Period]]
 >
 > - If frequency $f$ is the amount of cycles per second, and a full cycle is $2\pi$ radians, then $\frac{\cancel{\text{cycles}}}{s} \cdot \frac{2\pi \text{ rad}}{\cancel{\text{cycle}}} = \omega$
 > $$\therefore \quad \omega = 2\pi f = \frac{2\pi}{T}$$
-> - Based on Hooke's Law:
->   
-> $$\begin{align}
-> F_{sp} &= -kx \\ \\
-> F_{\text{max}} &= -kA \\ \\
-> \end{align}$$
-> - Based on the equation for SHM acceleration:
-> $$\begin{align}
-> a_{\text{max}} &= -\omega^{2}A \\ \\
-> \sum F &= ma = m \cdot -\omega^{2}A \\ \\
-> \cancel{-}k\cancel{A} &= m \cdot \cancel{-}\omega^{2}\cancel{A} \\ \\
-> \omega^{2} &= \frac{k}{m} \\ \\
-> \omega &= \sqrt{\frac{k}{m}} \\ \\
-> f = \frac{\omega}{2\pi} &= \frac{1}{2\pi}\sqrt{\frac{k}{m}} \\ \\
-> T = \frac{1}{f} &= 2\pi \sqrt{\frac{m}{k}}
-> \end{align}$$
 
 ![[SHM Graphs]]
 
@@ -93,6 +77,33 @@ $$F_{\text{sp}} = -k\vec{x}$$
 > - When compressing the spring, it wants to spread out to its equilibrium position
 > ![[Hooke's Law]]
 
+# SHM Energy
+- The [[Law of Conservation of Energy]] states:
+$$E = U + K = \frac{1}{2}kx^{2} + \frac{1}{2}mv^{2}$$
+- where:
+	- $E$ : Total mechanical energy
+	- $U$ : Elastic potential energy
+	- $K$ : Kinetic energy
+	- $k$ : Spring constant
+	- $x$ : Spring displacement
+	- $m$ Mass of object
+	- $v$ : Speed of object
+
+- At max spring displacement $A$ , all the energy is elastic potential
+	- $E = \frac{1}{2}kA^{2} + \cancelto{0}{K}$
+- When there is no displacement, all the energy is kinetic
+	- $E = \cancelto{0}{U} + \frac{1}{2}mv_\text{max} = \frac{1}{2}m(\omega A)^{2}$
+
+- Setting the two extremes equal to each other:
+$$\begin{align}
+\frac{1}{2}kA^{2} &= \frac{1}{2}m(\omega A)^{2} \\ \\
+k &= m \omega^{2} \\ \\
+\omega &= \sqrt{\frac{k}{m}}
+\end{align}$$
+
+- Other equations could be derived 
+
+
 ---
 tags: #TODO - #Physics/Oscillation 
-links:
+links: [[Law of Conservation of Energy]]
