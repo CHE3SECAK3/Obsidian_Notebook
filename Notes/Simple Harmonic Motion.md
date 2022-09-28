@@ -44,9 +44,27 @@ links: [[Period]]
 >	- $t$ : Time variable
 >	- $\phi_{0}$ : Phase constant
 
-> [!note] Angular Frequency
-> - Angular frequency is the speed of cyclical motion
-> - If frequency $f$ is the amount of cycles per second, 
+> [!note] Angular Frequency $\omega$
+> - Angular frequency $\omega$ is the speed of cyclical motion in $\frac{\text{radians}}{\text{second}}$
+>
+> - If frequency $f$ is the amount of cycles per second, and a full cycle is $2\pi$ radians, then $\frac{\cancel{\text{cycles}}}{s} \cdot \frac{2\pi \text{ rad}}{\cancel{\text{cycle}}} = \omega$
+> $$\therefore \quad \omega = 2\pi f = \frac{2\pi}{T}$$
+> - Based on Hooke's Law:
+>   
+> $$\begin{align}
+> F_{sp} &= -kx \\ \\
+> F_{\text{max}} &= -kA \\ \\
+> \end{align}$$
+> - Based on the equation for SHM acceleration:
+> $$\begin{align}
+> a_{\text{max}} &= -\omega^{2}A \\ \\
+> \sum F &= ma = m \cdot -\omega^{2}A \\ \\
+> \cancel{-}k\cancel{A} &= m \cdot \cancel{-}\omega^{2}\cancel{A} \\ \\
+> \omega^{2} &= \frac{k}{m} \\ \\
+> \omega &= \sqrt{\frac{k}{m}} \\ \\
+> f = \frac{\omega}{2\pi} &= \frac{1}{2\pi}\sqrt{\frac{k}{m}} \\ \\
+> T = \frac{1}{f} &= 2\pi \sqrt{\frac{m}{k}}
+> \end{align}$$
 
 ![[SHM Graphs]]
 
