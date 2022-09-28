@@ -101,7 +101,12 @@ k &= m \omega^{2} \\ \\
 \omega &= \sqrt{\frac{k}{m}}
 \end{align}$$
 
-- Other equations could be derived 
+- Other equations could be derived from equation:
+$$\begin{align*}
+\omega &= \sqrt{\frac{k}{m}} \\\\
+\omega &= 2\pi f \\\\
+f &= \frac{1}{2\pi}\sqrt{\frac{k}{m}}
+\end{align*}$$
 
 
 ---
