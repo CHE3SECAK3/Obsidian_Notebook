@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Wave.md",
-            "mode": "preview",
+            "file": "Notes/Truth Tables.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Wave.md",
+                "file": "Notes/Truth Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Wave.md",
+                "file": "Notes/Truth Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,8 +110,8 @@
   },
   "active": "d983a2cf7b04b427",
   "lastOpenFiles": [
-    "Notes/Simple Harmonic Motion.md",
     "Notes/Wave.md",
+    "Notes/Simple Harmonic Motion.md",
     "Sketches/Drawing 2022-10-06 00.11.03.excalidraw.md",
     "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
     "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",

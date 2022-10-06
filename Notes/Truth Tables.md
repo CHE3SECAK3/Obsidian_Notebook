@@ -37,6 +37,7 @@
 - Logical negation $\neg$
 - NOT gate ![[NOT Gate|50]]
 - Boolean $!$
+- Set complement
 - Unary operator: Affects 1 entity
 
 |  A  |  NOT A  |
@@ -48,6 +49,7 @@
 - Logical operator exclusive or
 - XOR gate ![[XOR Gate|50]]
 - Boolean $\oplus$
+- Set symmetric difference
 
 |  A  |  B  | A OR B |
 |:---:|:---:|:------:|
