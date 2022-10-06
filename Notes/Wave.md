@@ -35,7 +35,14 @@ $$v_{s} = \sqrt{\frac{T_{s}}{\mu}}$$ where:
 - A wave can be mathematically represented by deriving an equation that determines the displacement of any point in the medium at any given time.
 
 - Given a sinusoidal wave:
-$$D(x, t_{0})$$
+$$D(x, t = 0) = A\sin(\frac{2\pi}{\lambda}x + \phi_{0})$$
+- where:
+	- $x$ : Any point on the medium
+	- $t = 0$ : A fixed point in time
+	- $\lambda$ : Wavelength
+	- $\phi_{0}$ : Phase constant
+
+- A wave with a speed of $v$ traveling to the right for $t$ seconds would have travelled $vt$ distance. That means for a given $x$, 
 
 # Snapshot Graph
 - *Representation of the whole wave in a fixed time*
