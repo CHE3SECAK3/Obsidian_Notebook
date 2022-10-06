@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Notes/Wave.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -110,15 +110,15 @@
   },
   "active": "d983a2cf7b04b427",
   "lastOpenFiles": [
+    "Notes/Density.md",
+    "Notes/Charge Density.md",
+    "Notes/Wave.md",
+    "Sketches/Types of Waves.md",
     "Notes/Simple Harmonic Motion.md",
     "Sketches/Simple Pendulum Characteristics.md",
     "Sketches/Pendulum Forces.md",
     "Sketches/Vertical SHM.md",
     "Sketches/SHM Graphs.md",
-    "Sketches/Hooke's Law.md",
-    "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
-    "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
-    "Notes/Absolute Convergence.md",
-    "Notes/Buffer Op-Amp.md"
+    "Sketches/Hooke's Law.md"
   ]
 }

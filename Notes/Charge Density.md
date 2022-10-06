@@ -12,4 +12,4 @@
 
 ---
 tags: #Physics/Electromagnetism 
-links:
+links: [[Density]]
