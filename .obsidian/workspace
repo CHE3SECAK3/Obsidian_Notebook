@@ -7,9 +7,12 @@
         "id": "d983a2cf7b04b427",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Sketches/Drawing 2022-10-06 00.11.03.excalidraw.md"
+            "file": "Notes/Wave.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-10-06 00.11.03.excalidraw.md",
+                "file": "Notes/Wave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-10-06 00.11.03.excalidraw.md",
+                "file": "Notes/Wave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,15 +110,15 @@
   },
   "active": "d983a2cf7b04b427",
   "lastOpenFiles": [
+    "Notes/Simple Harmonic Motion.md",
     "Notes/Wave.md",
+    "Sketches/Drawing 2022-10-06 00.11.03.excalidraw.md",
     "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
     "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
     "Sketches/Drawing 2022-10-05 23.32.37.excalidraw.md",
     "Sketches/Operational Amplifier Circuit Diagram.md",
     "Sketches/OR Gate.md",
     "Sketches/Parallel-Plate Capacitor.md",
-    "Sketches/Passive Sign Convention.md",
-    "Sketches/Pendulum Forces.md",
-    "Sketches/Ratio Test Example.md"
+    "Sketches/Passive Sign Convention.md"
   ]
 }
