@@ -50,7 +50,7 @@ links: [[Period]]
 > - If frequency $f$ is the amount of cycles per second, and a full cycle is $2\pi$ radians, then $\frac{\cancel{\text{cycles}}}{s} \cdot \frac{2\pi \text{ rad}}{\cancel{\text{cycle}}} = \omega$
 > $$\therefore \quad \omega = 2\pi f = \frac{2\pi}{T}$$
 
-![[SHM Graphs]]
+![[SHM Graphs|center]]
 
 
 # Hooke's Law
@@ -75,7 +75,7 @@ $$F_{\text{sp}} = -k\vec{x}$$
 > 
 > - When stretching a spring, the spring wants to shrink back to its equilibrium position
 > - When compressing the spring, it wants to spread out to its equilibrium position
-> ![[Hooke's Law]]
+> ![[Hooke's Law|]]
 
 >[!note] Acceleration and Hooke's Law
 >$$ \begin{align*}
@@ -86,7 +86,7 @@ ma_{x} &= -kx\\ \\
 a_{x} &= -\frac{k}{m} x
 \end{align*} $$
 
-# SHM Energy
+# Simple Harmonic Motion Energy
 - The [[Law of Conservation of Energy]] states:
 $$E = U + K = \frac{1}{2}kx^{2} + \frac{1}{2}mv^{2}$$
 - where:
@@ -131,7 +131,51 @@ y_{0} &= \frac{mg}{k}
 
 - At this point, the oscillation would have the same behavior and equation as a horizontal spring with the equilibrium being at $y_{0}$, with $\Delta L$ being the static stretch
 
-![[Vertical SHM]]
+![[Vertical SHM|center]]
+
+# Simple Pendulum
+- A pendulum is also an oscillator!
+
+- A pendulum's forces are more useful when broken down to its radial and tangential components (rather than x- and y-components)
+
+- Only the tangential component needs to be analyzed, since the oscillation is on the tangential curve.
+
+![[Pendulum Forces|center]]
+
+$$\begin{align*}
+\sum F_{t} &= -mg\sin\theta\\
+a_{t} &= -g\sin\theta
+\end{align*}$$
+
+>[!note] Small Angle Approximation
+> - The forces dictating a pendulum are sinusoidally proportional, not linear.
+> 
+> - This means that a pendulum does not follow [[Notes/Hooke's Law|Hooke's Law]] and therefore does not follow [[Simple Harmonic Motion]]
+> 
+> - However, for small values of $\theta$, small-angle approximation applies: 
+> $$\begin{align*}
+\sin\theta &\approx \theta \text{, where } \theta \text{ < 1 rad} \\\\
+\sum F_{t} &= -mg\sin\theta \approx -mg\theta\\\\
+a_{t} &\approx -g\theta = -g \frac{s}{L} & \theta &= \frac{s}{L}
+\end{align*}$$
+> - where:
+> 	- $s$ : Arc length of the pendulum
+> 	- $L$ : Length of the string
+> 
+> - With a good approximation, pendulums with a small angular amplitude can be treated as a simple oscillator!
+
+- The equation for a simple pendulum is then: $$\begin{align*}
+\theta(t) &= \theta_\text{max} \cos(\omega t + \phi_{0}) \quad\longrightarrow\quad \text{SHM spring equation:}\quad x(t) = A\cos(\omega t + \phi_{0})\\\\
+s(t) &= s_\text{max} \cos(\omega t + \phi_{0}), \quad s = \theta_\text{max} L
+\end{align*}$$
+
+![[Simple Pendulum Characteristics|1000|center]]
+- The pendulum's angular frequency $\omega = \sqrt{\frac{g}{L}} = 2\pi f$
+
+- The pendulums spring constant $k = \frac{mg}{L}$ 
+
+>[!warning] Pendulum Mass and Frequency
+> - Since $\omega = \sqrt{\frac{g}{L}}$, the frequency (and therefore period) of a pendulum is independent of mass!
 
 ---
 tags: #TODO - #Physics/Oscillation 
