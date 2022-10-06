@@ -7,12 +7,9 @@
         "id": "d983a2cf7b04b427",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Wave.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Wave.md",
+                "file": "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Wave.md",
+                "file": "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +107,15 @@
   },
   "active": "d983a2cf7b04b427",
   "lastOpenFiles": [
-    "Notes/Density.md",
-    "Notes/Charge Density.md",
-    "Notes/Wave.md",
-    "Sketches/Types of Waves.md",
-    "Notes/Simple Harmonic Motion.md",
-    "Sketches/Simple Pendulum Characteristics.md",
+    "Sketches/Drawing 2022-10-05 23.32.37.excalidraw.md",
+    "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
+    "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
+    "Sketches/Operational Amplifier Circuit Diagram.md",
+    "Sketches/OR Gate.md",
+    "Sketches/Parallel-Plate Capacitor.md",
+    "Sketches/Passive Sign Convention.md",
     "Sketches/Pendulum Forces.md",
-    "Sketches/Vertical SHM.md",
-    "Sketches/SHM Graphs.md",
-    "Sketches/Hooke's Law.md"
+    "Sketches/Ratio Test Example.md",
+    "Notes/Wave.md"
   ]
 }
