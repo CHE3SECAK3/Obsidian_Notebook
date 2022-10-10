@@ -7,12 +7,9 @@
         "id": "d983a2cf7b04b427",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Notes/Truth Tables.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
+            "file": "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Truth Tables.md",
+                "file": "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Truth Tables.md",
+                "file": "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +108,7 @@
   "active": "d983a2cf7b04b427",
   "lastOpenFiles": [
     "Notes/Wave.md",
+    "Notes/Truth Tables.md",
     "Notes/Simple Harmonic Motion.md",
     "Sketches/Drawing 2022-10-06 00.11.03.excalidraw.md",
     "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
@@ -118,7 +116,6 @@
     "Sketches/Drawing 2022-10-05 23.32.37.excalidraw.md",
     "Sketches/Operational Amplifier Circuit Diagram.md",
     "Sketches/OR Gate.md",
-    "Sketches/Parallel-Plate Capacitor.md",
-    "Sketches/Passive Sign Convention.md"
+    "Sketches/Parallel-Plate Capacitor.md"
   ]
 }

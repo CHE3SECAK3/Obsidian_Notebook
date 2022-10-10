@@ -32,6 +32,11 @@ $$v_{s} = \sqrt{\frac{T_{s}}{\mu}}$$ where:
 		- $L$ : Length of the string
 
 
+## Wavelength
+- The wavelength $\lambda$ is the distance between repetition in the propogation of a wave
+
+
+
 - A wave can be mathematically represented by deriving an equation that determines the displacement of any point in the medium at any given time.
 
 - Given a sinusoidal wave:
@@ -56,11 +61,22 @@ $$\begin{align} D(x, t) &= D(x - vt, t=0)\\\\ &= A\sin\left(\frac{2\pi}{\lambda}
 
 # Snapshot Graph
 - *Representation of the whole wave in a fixed time*
+- Snapshot graphs depict displacement vs position (points on the medium), so the distance between two crests is the wavelength $\lambda$
 
 # History Graph
 - *Representation of a specific particle's motion in a wave*
+- History graphs depict displacement vs time, so the distance between two crests is known as the period $T$
 
-
+>[!note] Wavelength and Period
+> - The wavelength is a property of a wave 
+>
+> - The period is a property of a particle on the medium
+> - However, for sinusoidal motion, a wave travels one $\lambda$ for every $T$
+> - In other words, $v = \Large\frac{\lambda}{T}$ or $v = \lambda f$ , where:
+> 	- $v$ : Wave speed
+> 	- $\lambda$ : Wavelength
+> 	- $T$ : Period
+> 	- $f$ : Frequency
 
 ---
 tags: #TODO
