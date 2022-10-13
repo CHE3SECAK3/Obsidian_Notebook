@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Superposition.md",
+            "file": "Notes/Standing Waves.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Superposition.md",
+                "file": "Notes/Standing Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Superposition.md",
+                "file": "Notes/Standing Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +110,7 @@
   },
   "active": "d983a2cf7b04b427",
   "lastOpenFiles": [
+    "Notes/Superposition.md",
     "Notes/Alternating Series.md",
     "Notes/Wave.md",
     "Notes/Density.md",
@@ -118,7 +119,6 @@
     "Notes/Charge Density.md",
     "Notes/Charge Conservation.md",
     "Notes/Brute Force Design.md",
-    "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md",
-    "Notes/Truth Tables.md"
+    "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md"
   ]
 }
