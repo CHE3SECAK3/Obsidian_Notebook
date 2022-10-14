@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Standing Waves.md",
-            "mode": "source",
+            "file": "Notes/Proofs.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Standing Waves.md",
+                "file": "Notes/Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Standing Waves.md",
+                "file": "Notes/Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +110,7 @@
   },
   "active": "d983a2cf7b04b427",
   "lastOpenFiles": [
+    "Notes/Standing Waves.md",
     "Notes/Superposition.md",
     "Notes/Alternating Series.md",
     "Notes/Wave.md",
@@ -118,7 +119,6 @@
     "Notes/DeMorgan's Law.md",
     "Notes/Charge Density.md",
     "Notes/Charge Conservation.md",
-    "Notes/Brute Force Design.md",
-    "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md"
+    "Notes/Brute Force Design.md"
   ]
 }
