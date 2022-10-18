@@ -1,6 +1,14 @@
 # Proofs
 
 ## Proof by Exhaustion
+>[!example] Exhaustion
+> $\text{Prove that for every integer } x \in \{1, 2, 3\},\quad x < 2x$
+> - Since $x$ can only be 3 integers, it would be easy to just test all values for $x$ to prove this theorem
+> $$\begin{align*}
+> x = 1: &\quad 1 < 2 \\\\
+> x = 2: &\quad 2 < 4 \\\\
+> x = 3: &\quad 3 < 6 \qquad \blacksquare
+> \end{align*}$$
 ## Existence Proof
 ## Constructive Proof of Existence
 ## Nonconstructive Proof of Existence

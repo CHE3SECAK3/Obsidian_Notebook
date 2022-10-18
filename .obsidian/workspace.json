@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "558ac27c13fc5943",
+    "type": "split",
+    "children": [
+      {
+        "id": "abcb9fbe09be1c17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d983a2cf7b04b427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Proofs.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75bc6fe6d0b38784",
+    "type": "split",
+    "children": [
+      {
+        "id": "566d0c334c0d8fd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "025dbbc15987f4c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57b27eab1c85068e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1c1673af42dcc9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "98fd7f55848969bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5140ac7961400108",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Proofs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4eacdea4c0c9e801",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fef3e365dd2c3968",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Proofs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d983a2cf7b04b427",
+  "lastOpenFiles": [
+    "Notes/Electric Field-Vector and Field-Line Diagrams.md",
+    "Notes/Magnetic Field of a Loop of Wire.md",
+    "Notes/Ratio Test.md",
+    "Notes/Sequence Convergence.md",
+    "Sketches/Independent Current Source.md",
+    "Sketches/SHM Graphs.md",
+    "Notes/Gauss' Law.md",
+    "Notes/Integral Test.md",
+    "Notes/Current Density.md",
+    "Notes/Conductance.md"
+  ]
+}
