@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Proofs.md",
+                "file": "Notes/Identity Matrix.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Proofs.md",
+                "file": "Notes/Identity Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Proofs.md",
+                "file": "Notes/Identity Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,6 +122,7 @@
   },
   "active": "d983a2cf7b04b427",
   "lastOpenFiles": [
+    "Notes/Proofs.md",
     "Notes/Electric Field-Vector and Field-Line Diagrams.md",
     "Notes/Magnetic Field of a Loop of Wire.md",
     "Notes/Ratio Test.md",
@@ -130,7 +131,6 @@
     "Sketches/SHM Graphs.md",
     "Notes/Gauss' Law.md",
     "Notes/Integral Test.md",
-    "Notes/Current Density.md",
-    "Notes/Conductance.md"
+    "Notes/Current Density.md"
   ]
 }
