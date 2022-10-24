@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "abcb9fbe09be1c17",
+        "id": "095e88e8030f7877",
         "type": "tabs",
         "children": [
           {
-            "id": "d983a2cf7b04b427",
+            "id": "1dc975d1dd72ecab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Identity Matrix.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Identity Matrix.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Identity Matrix.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,8 +120,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d983a2cf7b04b427",
+  "active": "1dc975d1dd72ecab",
   "lastOpenFiles": [
+    "Notes/Simple Harmonic Motion.md",
+    "Notes/Identity Matrix.md",
     "Notes/Proofs.md",
     "Notes/Electric Field-Vector and Field-Line Diagrams.md",
     "Notes/Magnetic Field of a Loop of Wire.md",
@@ -129,8 +131,6 @@
     "Notes/Sequence Convergence.md",
     "Sketches/Independent Current Source.md",
     "Sketches/SHM Graphs.md",
-    "Notes/Gauss' Law.md",
-    "Notes/Integral Test.md",
-    "Notes/Current Density.md"
+    "Notes/Gauss' Law.md"
   ]
 }

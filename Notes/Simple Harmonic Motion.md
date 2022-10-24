@@ -22,11 +22,6 @@
 - The period and frequency are inverses of each other
 $$T = \frac{1}{f} \text{ and } f = \frac{1}{T}$$
 
----
-tags: #TODO - #Physics/Oscillation 
-links: [[Period]]
-
-
 # Simple Harmonic Motion (SHM)
 - *Most important oscillation*
 - Sinusoidal oscillation
@@ -43,6 +38,10 @@ links: [[Period]]
 >	- $\omega$ : Angular frequency or angular velocity ($\frac{\text{rad}}{s}$)
 >	- $t$ : Time variable
 >	- $\phi_{0}$ : Phase constant
+> ---
+> - Oftentimes, $wt + \phi_{0}$ is written as $\phi$, or the phase of the oscillation
+> 	- $\phi$ is the oscillation's current angle, whereas $\phi_{0}$ is the initial condition
+
 
 > [!note] Angular Frequency $\omega$
 > - Angular frequency $\omega$ is the speed of cyclical motion in $\frac{\text{radians}}{\text{second}}$
@@ -154,7 +153,7 @@ a_{t} &= -g\sin\theta
 > 
 > - However, for small values of $\theta$, small-angle approximation applies: 
 > $$\begin{align*}
-\sin\theta &\approx \theta \text{, where } \theta \text{ < 1 rad} \\\\
+\sin\theta &\approx \tan\theta \approx \theta \text{, where } \theta \text{ < 1 rad} \\\\
 \sum F_{t} &= -mg\sin\theta \approx -mg\theta\\\\
 a_{t} &\approx -g\theta = -g \frac{s}{L} & \theta &= \frac{s}{L}
 \end{align*}$$
@@ -172,7 +171,7 @@ s(t) &= s_\text{max} \cos(\omega t + \phi_{0}), \quad s = \theta_\text{max} L
 ![[Simple Pendulum Characteristics|1000|center]]
 - The pendulum's angular frequency $\omega = \sqrt{\frac{g}{L}} = 2\pi f$
 
-- The pendulums spring constant $k = \frac{mg}{L}$ 
+- The pendulum's "spring constant" $k = \large\frac{mg}{L}$ 
 
 >[!warning] Pendulum Mass and Frequency
 > - Since $\omega = \sqrt{\frac{g}{L}}$, the frequency (and therefore period) of a pendulum is independent of mass!
