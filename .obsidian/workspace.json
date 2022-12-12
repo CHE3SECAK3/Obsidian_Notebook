@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Truth Tables.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "truth",
+                "query": "SHM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Truth Tables.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Truth Tables.md",
+                "file": "Notes/Simple Harmonic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,6 +134,8 @@
   },
   "active": "fff07b37e0962dc5",
   "lastOpenFiles": [
+    "Notes/Wave.md",
+    "Notes/Truth Tables.md",
     "Notes/Logic.md",
     "Notes/Simple Harmonic Motion.md",
     "Notes/Identity Matrix.md",
@@ -141,8 +143,6 @@
     "Notes/Electric Field-Vector and Field-Line Diagrams.md",
     "Notes/Magnetic Field of a Loop of Wire.md",
     "Notes/Ratio Test.md",
-    "Notes/Sequence Convergence.md",
-    "Sketches/Independent Current Source.md",
-    "Sketches/SHM Graphs.md"
+    "Notes/Sequence Convergence.md"
   ]
 }
