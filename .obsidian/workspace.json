@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Sketches/Drawing 2023-01-11 09.38.26.excalidraw.md"
+                "file": "Sketches/Drawing 2023-01-11 11.24.56.excalidraw.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2023-01-11 09.38.26.excalidraw.md",
+                "file": "Sketches/Drawing 2023-01-11 11.24.56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2023-01-11 09.38.26.excalidraw.md",
+                "file": "Sketches/Drawing 2023-01-11 11.24.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,6 +116,7 @@
   },
   "active": "1bc234107c6f67e8",
   "lastOpenFiles": [
+    "Sketches/Drawing 2023-01-11 09.38.26.excalidraw.md",
     "Notes/Modeling a Cube.md",
     "Notes/Absolute Convergence.md",
     "Notes/Simple Harmonic Motion.md",
@@ -124,7 +125,6 @@
     "Notes/Logic.md",
     "Notes/Identity Matrix.md",
     "Notes/Proofs.md",
-    "Notes/Electric Field-Vector and Field-Line Diagrams.md",
-    "Notes/Magnetic Field of a Loop of Wire.md"
+    "Notes/Electric Field-Vector and Field-Line Diagrams.md"
   ]
 }
