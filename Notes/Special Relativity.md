@@ -6,4 +6,6 @@
 	- Scientists used to believe light propogated through an *ether*, which was considered to be the true resting substance.
 	- If ether existed, light would only travel at speed $c$ in a frame relatively stationary to ether, but the experiment concluded that light travels with speed $c$ in all directions regardless of frame
 
+---
+
 - Event: Anything with a location in space and time
