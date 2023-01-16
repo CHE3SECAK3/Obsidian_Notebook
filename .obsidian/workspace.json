@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Einstein's Postulates.md",
+                "file": "Notes/Special Relativity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Einstein's Postulates.md",
+                "file": "Notes/Special Relativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Einstein's Postulates.md",
+                "file": "Notes/Special Relativity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
