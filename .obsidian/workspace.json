@@ -21,14 +21,30 @@
             "id": "79d058793faa0842",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Sketches/Drawing 2023-01-11 17.06.47.excalidraw.md"
+                "file": "Notes/Absolute Convergence.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8c3c95080c032e6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Einstein's Postulates.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2023-01-11 17.06.47.excalidraw.md",
+                "file": "Notes/Einstein's Postulates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2023-01-11 17.06.47.excalidraw.md",
+                "file": "Notes/Einstein's Postulates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +154,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "79d058793faa0842",
+  "active": "8c3c95080c032e6c",
   "lastOpenFiles": [
+    "Notes/Absolute Convergence.md",
+    "Sketches/Drawing 2023-01-11 17.06.47.excalidraw.md",
     "Sketches/Drawing 2023-01-11 17.20.10.excalidraw.md",
     "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
     "Sketches/Drawing 2023-01-11 11.24.56.excalidraw.md",
-    "Sketches/Drawing 2023-01-11 17.06.47.excalidraw.md",
     "Notes/Plant Form and Function.md",
     "Sketches/Drawing 2023-01-11 09.38.26.excalidraw.md",
     "Notes/Modeling a Cube.md",
-    "Notes/Absolute Convergence.md",
     "Notes/Simple Harmonic Motion.md",
     "Notes/Wave.md"
   ]
