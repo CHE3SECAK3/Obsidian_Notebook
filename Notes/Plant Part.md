@@ -24,3 +24,9 @@
 $$\text{sunlight} + \text{water} + \text{carbon dioxide} = \text{sugar / energy}$$
 - Contains chlorophyll - green pigment
 - Variegated plants: some cells acquire mutations that prevent the production of chlorophyll
+
+## Mitochondria
+- Where cellular respiration occur
+- Takes sugar and starches into useable energy
+- Similar structure to chloroplasts
+	- Inner folded membrane
