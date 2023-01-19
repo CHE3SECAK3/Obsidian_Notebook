@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "79d058793faa0842",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Absolute Convergence.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "8c3c95080c032e6c",
             "type": "leaf",
             "state": {
@@ -84,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,17 +143,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "57b27eab1c85068e",
+  "active": "96fffc049790acde",
   "lastOpenFiles": [
-    "Notes/Identity Matrix.md",
-    "Notes/Plant Part.md",
-    "Sketches/Drawing 2023-01-11 17.20.10.excalidraw.md",
+    "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md",
     "Sketches/Drawing 2023-01-11 09.38.26.excalidraw.md",
     "Sketches/Drawing 2023-01-11 11.24.56.excalidraw.md",
+    "Sketches/Plant Parts.md",
+    "Sketches/Plant Cell.md",
+    "Notes/Plant Part.md",
+    "Notes/Identity Matrix.md",
     "Notes/Special Relativity.md",
     "Notes/Absolute Convergence.md",
-    "Sketches/Drawing 2023-01-11 17.06.47.excalidraw.md",
-    "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
-    "Notes/Plant Form and Function.md"
+    "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md"
   ]
 }
