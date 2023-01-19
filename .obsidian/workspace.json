@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "transform",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "96fffc049790acde",
+  "active": "57b27eab1c85068e",
   "lastOpenFiles": [
     "Notes/Identity Matrix.md",
     "Notes/Plant Part.md",
