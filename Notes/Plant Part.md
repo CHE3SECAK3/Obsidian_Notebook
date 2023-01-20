@@ -112,7 +112,7 @@ $$\text{sunlight} + \text{water} + \text{carbon dioxide} = \text{sugar / energy}
 	- Tracheids: Tapered at the ends, water passes betw tracheids through thin areas in the cell wall called pits
 	- Vessel elements: Long tubular cells open at both ends, arranged end to end forming vessels that function like water pipes
 	- Vessels are more efficient water conductors than tracheids
-		- However, thacheids are good at supporting water pressure as it travels up and down the plant
+		- However, tracheids are good at supporting water pressure as it travels up and down the plant
 - Made of fibers and parenchyma as well
 
 ### Phloem
