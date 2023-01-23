@@ -13,8 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Plant Part.md",
+                "file": "Notes/Alternating Series.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "418351a51f8e27d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/EE TODO.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Plant Part.md",
+                "file": "Notes/EE TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Plant Part.md",
+                "file": "Notes/EE TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +157,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "96fffc049790acde",
+  "active": "418351a51f8e27d0",
   "lastOpenFiles": [
-    "Sketches/Plant Parts.md",
+    "Notes/Alternating Series.md",
     "Notes/Plant Part.md",
+    "Sketches/Plant Parts.md",
     "Notes/Special Relativity.md",
     "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md",
     "Sketches/Drawing 2023-01-11 09.38.26.excalidraw.md",
     "Sketches/Drawing 2023-01-11 11.24.56.excalidraw.md",
     "Sketches/Plant Cell.md",
     "Notes/Identity Matrix.md",
-    "Notes/Absolute Convergence.md",
-    "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md"
+    "Notes/Absolute Convergence.md"
   ]
 }
