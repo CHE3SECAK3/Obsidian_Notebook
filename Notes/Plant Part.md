@@ -126,3 +126,11 @@ $$\text{sunlight} + \text{water} + \text{carbon dioxide} = \text{sugar / energy}
 
 ![[Plant Cell | 1000]]
 ![[Plant Parts | 1000]]
+
+---
+
+# Primary Growth
+
+- At the apical meristem
+- At the axillary buds
+- In the root system

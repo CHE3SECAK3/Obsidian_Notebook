@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96fffc049790acde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Alternating Series.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "418351a51f8e27d0",
             "type": "leaf",
             "state": {
@@ -34,13 +21,23 @@
             }
           },
           {
-            "id": "8c3c95080c032e6c",
+            "id": "6795c022af1dd4e9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Sketches/Nodal and Mesh Analysis.md"
+              }
+            }
+          },
+          {
+            "id": "a137b4f816aa2e90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Special Relativity.md",
-                "mode": "source",
+                "file": "Notes/Plant Part.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -76,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transform",
+                "query": "plant",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/EE TODO.md",
+                "file": "Sketches/Nodal and Mesh Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/EE TODO.md",
+                "file": "Sketches/Nodal and Mesh Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +154,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "418351a51f8e27d0",
+  "active": "6795c022af1dd4e9",
   "lastOpenFiles": [
-    "Notes/Alternating Series.md",
     "Notes/Plant Part.md",
+    "Sketches/Nodal and Mesh Analysis.md",
+    "Notes/Plant Form and Function.md",
+    "Node Analysis.md",
+    "Notes/EE TODO.md",
+    "Notes/DD TODO.md",
+    "Notes/Alternating Series.md",
     "Sketches/Plant Parts.md",
     "Notes/Special Relativity.md",
-    "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md",
-    "Sketches/Drawing 2023-01-11 09.38.26.excalidraw.md",
-    "Sketches/Drawing 2023-01-11 11.24.56.excalidraw.md",
-    "Sketches/Plant Cell.md",
-    "Notes/Identity Matrix.md",
-    "Notes/Absolute Convergence.md"
+    "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md"
   ]
 }
