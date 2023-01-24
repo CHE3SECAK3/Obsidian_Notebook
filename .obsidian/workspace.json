@@ -37,14 +37,14 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Plant Part.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Nodal and Mesh Analysis.md",
+                "file": "Notes/Plant Part.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Nodal and Mesh Analysis.md",
+                "file": "Notes/Plant Part.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,10 +154,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6795c022af1dd4e9",
+  "active": "a137b4f816aa2e90",
   "lastOpenFiles": [
-    "Notes/Plant Part.md",
     "Sketches/Nodal and Mesh Analysis.md",
+    "Notes/Plant Part.md",
     "Notes/Plant Form and Function.md",
     "Node Analysis.md",
     "Notes/EE TODO.md",
