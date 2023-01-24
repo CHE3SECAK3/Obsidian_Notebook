@@ -164,3 +164,4 @@ $$\text{sunlight} + \text{water} + \text{carbon dioxide} = \text{sugar / energy}
 
 - bulbs: underground storage stem with flesky leaves for storage
 - tuber: swollen end of underground stem
+- thorn: sharp pointer stem for protection
