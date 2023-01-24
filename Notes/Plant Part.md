@@ -158,3 +158,9 @@ $$\text{sunlight} + \text{water} + \text{carbon dioxide} = \text{sugar / energy}
 
 - Rhizome
 	- Horizontal underground stem (ginger)
+
+- succulent stems
+	- roudn water storing stems
+
+- bulbs: underground storage stem with flesky leaves for storage
+- tuber: swollen end of underground stem
