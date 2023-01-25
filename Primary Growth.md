@@ -32,10 +32,10 @@
 	- Horizontal stem growth underground
 		- Ginger plant
 
-- Succulent stems
-	- roudn water storing stems
+- Succulent stem
+	- Round stems optimized for water storage --> Seen on cacti
 
-- bulbs: underground storage stem with flesky leaves for storage
+- Bulb: underground storage stem with flesky leaves for storage
 - tuber: swollen end of underground stem
 - thorn: sharp pointer stem for protection
 
