@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Plant Cells.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plant Tissue Systems.md",
+                "file": "Notes/Plant Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plant Tissue Systems.md",
+                "file": "Notes/Plant Cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,12 +206,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6c420b4bbe5ac300",
+  "active": "c6da0d264a693209",
   "lastOpenFiles": [
+    "Plant Tissue Systems.md",
     "Attachments/Pasted Image 20230111114140_340.png",
     "Attachments/Pasted Image 20230111112652_272.png",
     "Attachments/sundew.jpg",
-    "Plant Tissue Systems.md",
     "Primary Growth.md",
     "Plant Tissue.md",
     "Notes/Plant Stem Structure.md",

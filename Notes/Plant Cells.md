@@ -1,5 +1,7 @@
 - Cell Wall --> Cell Membrane --> Protoplasm --> Organelles
 
+![[Plant Cell|1000]]
+
 ## Cell Wall
 - Made of *cellulose* : Linked glucose molecules
 - Provides structure and protection
