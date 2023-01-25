@@ -68,9 +68,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6c420b4bbe5ac300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plant Tissue Systems.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e1244a05ced59584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primary Growth.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plant Tissue.md",
+                "file": "Plant Tissue Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plant Tissue.md",
+                "file": "Plant Tissue Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,17 +206,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "10c4ebdb1c4c80b9",
+  "active": "6c420b4bbe5ac300",
   "lastOpenFiles": [
-    "Notes/Plant Stem Structure.md",
-    "Sketches/Plant Cell.md",
+    "Primary Growth.md",
     "Notes/Plant Cells.md",
+    "Sketches/Plant Cell.md",
     "Plant Tissue.md",
+    "Plant Tissue Systems.md",
+    "Notes/Plant Stem Structure.md",
     "Attachments/Coleus.jpg",
     "Notes/Plant Form and Function.md",
     "Notes/Power.md",
-    "Notes/Wave.md",
-    "Notes/Node Analysis.md",
-    "Test/Absolute Convergence.md"
+    "Notes/Wave.md"
   ]
 }
