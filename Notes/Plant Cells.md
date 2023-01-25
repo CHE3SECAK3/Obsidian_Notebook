@@ -1,30 +1,26 @@
-# Cell 
-
-- Plants have 3 main types of cells:
-	- Parenchyma
-	- Collenchyma
-	- Sclerenchyma
+# Cell Structure
+- Cell Wall --> Cell Membrane --> Protoplasm --> Organelles
 
 ## Cell Wall
-- Made of *cellulose*
-	- Most abundant polymer on Earth
-- Function: Structure and protection
-- All plant cells have a thin, flexible *primary* cell wall
-- Some cells have additional thick, rigid *secondary* cell wall
-- Cellulose structure: 100 - 1000s of $\beta$ linked 
-- Cellulose microfibrosis
+- Made of *cellulose* : Linked glucose molecules
+- Provides structure and protection
+- All plant cells have a thin, flexible *primary cell wall*
+- Some cells have additional thick, rigid *secondary cell wall*
+- Walls are are of a layered mesh of *cellulose microfibrils*
+
 
 ## Plasma Membrane
-- Permeable barrier that regulates momevement of substances in and out of the cell
+- Selectively permeable barrier that regulates momevement of substances in and out of the cell
+	- Molecular pumps within the membrane facilitate transport of molecules
+- Primarily consists of two layers of phospholipids and different proteins
 
 ### Plasmodesmata
 - Small channels that connect neighboring cells together fofr the exchange of chemical signals that extend from the cell membrane
 
 ## Nucleus
-- Control center
-- Stores DNA - genetic material
-- Instructions for making enzymes and proteins
-- Bound by a double membrane (nuclear membrane)
+- Control center and genetic archive
+	- Stores DNA : Instructions for making enzymes and proteins
+- Nulcei are bound by a *nuclear envelope*, consisting of an inner and outer membrane and uses small holes called *nuclear pores* to transport material
 
 ## Chloroplast
 - Specialized organelle where photosynthesis occurs
@@ -39,9 +35,18 @@ $$\text{sunlight} + \text{water} + \text{carbon dioxide} = \text{sugar / energy}
 	- Inner folded membrane
 
 ## Vacuole
+- Occupy the majority of cell volume
+- Store water, nutrients, waste products
+- Maintain cell pressure
+- Contains *anthocyanin*, a purplish pigment which overshadows the effects of green seen by chlorophyll
+![[Coleus.jpg|300]]
 
 ## Mitosis
 
+- Plants have 3 main types of cells:
+	- Parenchyma
+	- Collenchyma
+	- Sclerenchyma
 # Plant Tissue
 ## Parenchyma Tissue
 - Alive at maturity

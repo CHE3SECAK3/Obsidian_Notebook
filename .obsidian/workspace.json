@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plant Stem Structure.md",
+                "file": "Notes/Plant Stem Structure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -169,15 +169,15 @@
   },
   "active": "c6da0d264a693209",
   "lastOpenFiles": [
+    "Attachments/Coleus.jpg",
     "Sketches/Plant Cell.md",
-    "Plant Stem Structure.md",
     "Notes/Plant Cells.md",
     "Notes/Plant Form and Function.md",
-    "Sketches/Plant Parts.md",
-    "Sketches/Nodal and Mesh Analysis.md",
-    "Node Analysis.md",
-    "Notes/EE TODO.md",
-    "Notes/DD TODO.md",
-    "Notes/Alternating Series.md"
+    "Notes/Power.md",
+    "Notes/Wave.md",
+    "Notes/Plant Stem Structure.md",
+    "Notes/Node Analysis.md",
+    "Test/Absolute Convergence.md",
+    "Sketches/Vertical SHM.md"
   ]
 }
