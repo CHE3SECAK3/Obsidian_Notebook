@@ -23,26 +23,17 @@
 		- For storage and support
 
 ## Modified Stem
-- Stolon: "Runner" stems (e.g. strawberry plant)
+- Stolon: "Runner" stems --> Strawberry plant
   ![[strawberry_stolon.jpg|300]]
 	- Horizontal stem growth above ground
 	- Strawberries undergo *asexual propogation* through stolons that grow away from the mother plant and start rooting themselves
+- Rhizome: Horizontal stem growth underground --> Ginger
+- Succulent stem: Round stems optimized for water storage --> Cacti
+- Bulb: Underground storage stem with fleshy leaves for storage --> Onion
+- Tuber: Swollen end of underground stem that stores nutrients --> Potato
+- Thorn: Sharp, pointed stem for protection --> Rose thorns
 
-- Rhizome
-	- Horizontal stem growth underground
-		- Ginger plant
 
-- Succulent stem
-	- Round stems optimized for water storage --> Seen on cacti
-
-- Bulb: underground storage stem with flesky leaves for storage
-- tuber: swollen end of underground stem
-- thorn: sharp pointer stem for protection
-
-# Root System
-- Anchorage
-- Absoption
-- Conduction
-- Storage
-- Hormone Production
-
+---
+tags: #TODO - #Botany 
+links:

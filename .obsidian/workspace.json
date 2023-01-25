@@ -71,6 +71,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "44eb9ee1ce32a67c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root System.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -184,15 +197,15 @@
   },
   "active": "a137b4f816aa2e90",
   "lastOpenFiles": [
-    "Attachments/strawberry_stolon.jpg",
-    "Primary Growth.md",
-    "Notes/Plant Form and Function.md",
-    "Plant Tissue Systems.md",
-    "Notes/Plant Cells.md",
     "Notes/Plant Stem Structure.md",
     "Plant Tissue.md",
+    "Plant Tissue Systems.md",
+    "Root System.md",
+    "Primary Growth.md",
+    "Attachments/strawberry_stolon.jpg",
+    "Notes/Plant Form and Function.md",
+    "Notes/Plant Cells.md",
     "Attachments/Pasted Image 20230111114140_340.png",
-    "Attachments/Pasted Image 20230111112652_272.png",
-    "Attachments/sundew.jpg"
+    "Attachments/Pasted Image 20230111112652_272.png"
   ]
 }
