@@ -55,9 +55,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "10c4ebdb1c4c80b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plant Tissue.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Plant Cells.md",
+                "file": "Plant Tissue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Plant Cells.md",
+                "file": "Plant Tissue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,17 +180,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c6da0d264a693209",
+  "active": "10c4ebdb1c4c80b9",
   "lastOpenFiles": [
-    "Attachments/Coleus.jpg",
+    "Notes/Plant Stem Structure.md",
     "Sketches/Plant Cell.md",
     "Notes/Plant Cells.md",
+    "Plant Tissue.md",
+    "Attachments/Coleus.jpg",
     "Notes/Plant Form and Function.md",
     "Notes/Power.md",
     "Notes/Wave.md",
-    "Notes/Plant Stem Structure.md",
     "Notes/Node Analysis.md",
-    "Test/Absolute Convergence.md",
-    "Sketches/Vertical SHM.md"
+    "Test/Absolute Convergence.md"
   ]
 }
