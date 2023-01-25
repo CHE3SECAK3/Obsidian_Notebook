@@ -1,4 +1,3 @@
-# Capacitance
 - *Property of a [[capacitor]] to store charge*
 
 - Symbol : $C$

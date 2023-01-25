@@ -1,7 +1,6 @@
-# Capacitor
 - *Circuit element that holds [[charge]]*
 
-![[Capacitor Circuit Diagram]]
+![[Capacitor Circuit Diagram|200]]
 
 > [!info] Capacitors in Parallel
 > - Parallel capacitors have the same drop in voltage across them

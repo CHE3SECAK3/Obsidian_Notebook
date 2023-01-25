@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Operational Amplifier.md",
+                "file": "Notes/Capacitor.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -84,8 +84,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9590904e32796302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capacitor Relationships.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -143,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Operational Amplifier.md",
+                "file": "Capacitor Relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Operational Amplifier.md",
+                "file": "Capacitor Relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,17 +209,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a137b4f816aa2e90",
+  "active": "9590904e32796302",
   "lastOpenFiles": [
-    "Notes/EE TODO.md",
-    "Primary Growth.md",
-    "Notes/Plant Stem Structure.md",
-    "Plant Tissue.md",
-    "Plant Tissue Systems.md",
-    "Root System.md",
-    "Attachments/strawberry_stolon.jpg",
-    "Notes/Plant Form and Function.md",
-    "Notes/Plant Cells.md",
-    "Attachments/Pasted Image 20230111114140_340.png"
+    "Notes/Capacitor.md",
+    "Notes/Comparator.md",
+    "Notes/Truth Tables.md",
+    "Notes/Wave.md",
+    "Notes/Alternating Series Test.md",
+    "Notes/Alternating Series.md",
+    "Notes/Absolute Convergence.md",
+    "Notes/Capacitance.md",
+    "Notes/Operational Amplifier.md",
+    "Notes/EE TODO.md"
   ]
 }
