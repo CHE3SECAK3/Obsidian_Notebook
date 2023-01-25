@@ -43,22 +43,27 @@
 
 ### Xylem
 - Transports water and minerals
-- Strong structure and held by a lot of lignin
-- Composed of different cell types
-	- Tracheids: Tapered at the ends, water passes betw tracheids through thin areas in the cell wall called pits
-	- Vessel elements: Long tubular cells open at both ends, arranged end to end forming vessels that function like water pipes
+- Strong structure and held by a lot of *lignin*
+- Cell types:
+	- Tracheids
+		- Tapered at the ends
+		- Water passes between different tracheids through thin areas in the cell wall called *pits*
+	- Vessel elements
+		- Long tubular cells open at both ends
+		- Arranged end to end forming vessels that function like water pipes
 	- Vessels are more efficient water conductors than tracheids
 		- However, tracheids are good at supporting water pressure as it travels up and down the plant
-- Made of fibers and parenchyma as well
+- Composed of fibers and parenchyma as well
 
 ### Phloem
-- Transports sugats and other substances
-- Sieve tube members
-	- Long tubular cells with sieve plates in the end walls, arranged end to end, alive but lack a nucleus
-- Copmanion cells
-	- Help and mediate the transport of sugars in sieve tubes members
-	- Contains genetic information and maintains pressure in the tissue
-- Also made of some fibers and parenchyma
+- Transports sugars and other substances
+- Cell types:
+	- Sieve tube members
+		- Long tubular cells with sieve plates in the end walls, arranged end to end, alive but lack a nucleus
+	- Copmanion cells
+		- Help and mediate the transport of sugars in sieve tubes members
+		- Contains genetic information and maintains pressure in the tissue
+	- Also made of some fibers and parenchyma
 
 ![[Plant Cell | 1000]]
 ![[Plant Parts | 1000]]
