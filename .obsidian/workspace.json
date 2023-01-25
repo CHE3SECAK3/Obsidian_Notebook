@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "418351a51f8e27d0",
+            "id": "a137b4f816aa2e90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/EE TODO.md",
+                "file": "Notes/Plant Form and Function.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,17 +21,7 @@
             }
           },
           {
-            "id": "6795c022af1dd4e9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Sketches/Nodal and Mesh Analysis.md"
-              }
-            }
-          },
-          {
-            "id": "a137b4f816aa2e90",
+            "id": "c6da0d264a693209",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +32,32 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "109d6255f8c4bded",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Sketches/Plant Cell.md"
+              }
+            }
+          },
+          {
+            "id": "b632b46e485691a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plant Stem Structure.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Plant Part.md",
+                "file": "Plant Stem Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Plant Part.md",
+                "file": "Plant Stem Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,17 +167,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a137b4f816aa2e90",
+  "active": "b632b46e485691a0",
   "lastOpenFiles": [
-    "Sketches/Nodal and Mesh Analysis.md",
+    "Sketches/Plant Cell.md",
     "Notes/Plant Part.md",
     "Notes/Plant Form and Function.md",
+    "Sketches/Plant Parts.md",
+    "Plant Stem Structure.md",
+    "Sketches/Nodal and Mesh Analysis.md",
     "Node Analysis.md",
     "Notes/EE TODO.md",
     "Notes/DD TODO.md",
-    "Notes/Alternating Series.md",
-    "Sketches/Plant Parts.md",
-    "Notes/Special Relativity.md",
-    "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md"
+    "Notes/Alternating Series.md"
   ]
 }
