@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Plant Part.md",
+                "file": "Notes/Plant Cells.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -50,14 +50,14 @@
               "type": "markdown",
               "state": {
                 "file": "Plant Stem Structure.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plant Stem Structure.md",
+                "file": "Notes/Plant Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plant Stem Structure.md",
+                "file": "Notes/Plant Cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,13 +167,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b632b46e485691a0",
+  "active": "c6da0d264a693209",
   "lastOpenFiles": [
     "Sketches/Plant Cell.md",
-    "Notes/Plant Part.md",
+    "Plant Stem Structure.md",
+    "Notes/Plant Cells.md",
     "Notes/Plant Form and Function.md",
     "Sketches/Plant Parts.md",
-    "Plant Stem Structure.md",
     "Sketches/Nodal and Mesh Analysis.md",
     "Node Analysis.md",
     "Notes/EE TODO.md",

@@ -1,3 +1,10 @@
+# Cell 
+
+- Plants have 3 main types of cells:
+	- Parenchyma
+	- Collenchyma
+	- Sclerenchyma
+
 ## Cell Wall
 - Made of *cellulose*
 	- Most abundant polymer on Earth
