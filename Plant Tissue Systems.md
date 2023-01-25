@@ -16,7 +16,7 @@
 - *Leaf hairs*
 - Attached directly to the surface of the epidermis
 - Different function for different plants
-	- Capturing insects
+	- Capturing insects 
 	- Decreased air flow to reduce water loss
 	- Chemical signal emitters
 	- Pain
