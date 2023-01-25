@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primary Growth.md",
-                "mode": "source",
+                "file": "Notes/Operational Amplifier.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primary Growth.md",
+                "file": "Notes/Operational Amplifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primary Growth.md",
+                "file": "Notes/Operational Amplifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,15 +197,15 @@
   },
   "active": "a137b4f816aa2e90",
   "lastOpenFiles": [
+    "Notes/EE TODO.md",
+    "Primary Growth.md",
     "Notes/Plant Stem Structure.md",
     "Plant Tissue.md",
     "Plant Tissue Systems.md",
     "Root System.md",
-    "Primary Growth.md",
     "Attachments/strawberry_stolon.jpg",
     "Notes/Plant Form and Function.md",
     "Notes/Plant Cells.md",
-    "Attachments/Pasted Image 20230111114140_340.png",
-    "Attachments/Pasted Image 20230111112652_272.png"
+    "Attachments/Pasted Image 20230111114140_340.png"
   ]
 }
