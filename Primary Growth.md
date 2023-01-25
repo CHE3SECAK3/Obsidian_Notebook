@@ -4,8 +4,8 @@
 - In the root system
 
 ## Phototropism and Auxin
-- When sunlight is overhead, the IAA molecules produced by the meristem spread evenly in the shoot
-- If the sunlight is at an angle, IAA molecules go to the other side and induces elongation towards the light
+- When sunlight is overhead, the IAA (Indole-3-acetic acid) molecules produced by the meristem spread evenly in the shoot, which makes the plant grow straight
+- If the sunlight is at an angle, IAA molecules go to the other side and allows elongation towards the light
 
 ## Function of Stem
 - Transport --> vasular tissue to transport water and sugar

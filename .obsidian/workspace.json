@@ -34,16 +34,6 @@
             }
           },
           {
-            "id": "109d6255f8c4bded",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Sketches/Plant Cell.md"
-              }
-            }
-          },
-          {
             "id": "b632b46e485691a0",
             "type": "leaf",
             "state": {
@@ -96,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Plant Cells.md",
+                "file": "Primary Growth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Plant Cells.md",
+                "file": "Primary Growth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,16 +196,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c6da0d264a693209",
+  "active": "e1244a05ced59584",
   "lastOpenFiles": [
+    "Notes/Plant Stem Structure.md",
+    "Notes/Plant Cells.md",
     "Plant Tissue Systems.md",
     "Attachments/Pasted Image 20230111114140_340.png",
     "Attachments/Pasted Image 20230111112652_272.png",
     "Attachments/sundew.jpg",
     "Primary Growth.md",
     "Plant Tissue.md",
-    "Notes/Plant Stem Structure.md",
-    "Notes/Plant Cells.md",
     "Notes/Plant Form and Function.md",
     "Sketches/Plant Cell.md"
   ]
