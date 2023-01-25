@@ -1,33 +1,38 @@
 
-- At the apical meristem
-- At the axillary buds
-- In the root system
+- Primary growth takes place in:
+	- At the apical meristem
+	- At the axillary buds
+	- In the root system
+- Growth order usually goes: Stem --> Leaf --> Bud
 
 ## Phototropism and Auxin
 - When sunlight is overhead, the IAA (Indole-3-acetic acid) molecules produced by the meristem spread evenly in the shoot, which makes the plant grow straight
 - If the sunlight is at an angle, IAA molecules go to the other side and allows elongation towards the light
 
 ## Function of Stem
-- Transport --> vasular tissue to transport water and sugar
-- supprt holds leaves for photosynthesis
-- storage ground tissue for storage of water adn sugar
+- Transport of nutrients and water via vascular system
+- Support for (photosynthetic) leaves
+- Storage of water and energy in the ground tissue
 
 ## Internal Stem Structure
-- Pith: Stem center for storage support
-- Cortex
-- Epidermis
+- From outer to inner:
+	- Epidermal tissue
+	- Cortex: Outer ring of ground tissue
+	- Vascular tissue
+	- Pith: Inner ring of ground tissue
+		- For storage and support
 
-## Stem Grwoth order
-- Stem leaf bud consistent growth
-
-- Stolon: modified stem " RUnner" (strawberry plant)
-	- Horizontal stem above ground
-	- function: vegetative reprodution
+## Modified Stem
+- Stolon: "Runner" stems (e.g. strawberry plant)
+  ![[strawberry_stolon.jpg|300]]
+	- Horizontal stem growth above ground
+	- Strawberries undergo *asexual propogation* through stolons that grow away from the mother plant and start rooting themselves
 
 - Rhizome
-	- Horizontal underground stem (ginger)
+	- Horizontal stem growth underground
+		- Ginger plant
 
-- succulent stems
+- Succulent stems
 	- roudn water storing stems
 
 - bulbs: underground storage stem with flesky leaves for storage

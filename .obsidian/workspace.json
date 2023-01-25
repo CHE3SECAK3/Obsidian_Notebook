@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Plant Form and Function.md",
+                "file": "Primary Growth.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -71,22 +71,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "e1244a05ced59584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primary Growth.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plant",
+                "query": "IAA",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,17 +182,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e1244a05ced59584",
+  "active": "a137b4f816aa2e90",
   "lastOpenFiles": [
-    "Notes/Plant Stem Structure.md",
-    "Notes/Plant Cells.md",
+    "Attachments/strawberry_stolon.jpg",
+    "Primary Growth.md",
+    "Notes/Plant Form and Function.md",
     "Plant Tissue Systems.md",
+    "Notes/Plant Cells.md",
+    "Notes/Plant Stem Structure.md",
+    "Plant Tissue.md",
     "Attachments/Pasted Image 20230111114140_340.png",
     "Attachments/Pasted Image 20230111112652_272.png",
-    "Attachments/sundew.jpg",
-    "Primary Growth.md",
-    "Plant Tissue.md",
-    "Notes/Plant Form and Function.md",
-    "Sketches/Plant Cell.md"
+    "Attachments/sundew.jpg"
   ]
 }
