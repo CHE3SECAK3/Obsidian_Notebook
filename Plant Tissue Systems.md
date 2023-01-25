@@ -16,15 +16,19 @@
 - *Leaf hairs*
 - Attached directly to the surface of the epidermis
 - Different function for different plants
-	- Capturing insects 
+	- Capturing insects (e.g. sundew)
+	  
+	  ![[sundew.jpg|300]]
 	- Decreased air flow to reduce water loss
 	- Chemical signal emitters
-	- Pain
+	- Toxic chemicals (like produced by stinging nettle)
+	  
+	  ![[stinging_nettle.jpg|300]]
 
 ### Stomata
 - Pores in leaves and stems where gas exchange occurs and water evaporates
-- Surrounded by guard cells to open and close the pores
-	- $CO_{2}$ enters, $O_{2}$ and water exists
+- Surrounded by *guard cells* to open and close the pores
+	- $CO_{2}$ enters, $O_{2}$ and water exits
 
 ## Ground Tissue
 - Between epidermal and vascular tissue as a "filling tissue"
