@@ -11,12 +11,9 @@
             "id": "ad7036edad7fd9d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/Primary Growth.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "Attachments/strawberry_stolon.jpg"
               }
             }
           }
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Primary Growth.md",
+                "file": "Attachments/strawberry_stolon.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Primary Growth.md",
+                "file": "Attachments/strawberry_stolon.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,6 +129,7 @@
   },
   "active": "ad7036edad7fd9d7",
   "lastOpenFiles": [
+    "Notes/Primary Growth.md",
     "Notes/Plant Tissue Systems.md",
     "Notes/Plant Tissue.md",
     "Notes/Plant Stem Structure.md",
@@ -140,7 +138,6 @@
     "Notes/Passive Sign Convention.md",
     "Sketches/Charging and Discharging Capacitor.md",
     "Notes/Capacitor Relationships.md",
-    "Notes/Root System.md",
-    "Notes/Capacitor.md"
+    "Notes/Root System.md"
   ]
 }
