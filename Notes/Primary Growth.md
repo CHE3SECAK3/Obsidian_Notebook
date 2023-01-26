@@ -54,7 +54,17 @@
 	- Monocots: Lilies, orchids, grass, etc
 	- Eudicots: Roses, tomatoes, poppies, avocado, etc
 
-![[monocot_diocot.png]]
+![[monocot_diocot.png|500]]
+
+
+- Endodermis in roots
+	- Ring of cells surrounding vascular cylinder
+	- Each endodermis cell is surrounded by a *Casparian strip* which has suberin and lignin. The sptrip is waterproof
+	- apoplastic movememt of water barred due to strip. without it, the leakage of water between endodermis cells would be bad since groundwater contains unwanted bacterial and fungal nonsense
+- Pericycle layer right insisde endodermis layer
+	- Layer of meristematic cells where lateral roots develop
+	- Later roots emerges from the pericycle from inside the primary root
+	- lateral roots maintain connection with the vascular tissue
 
 ---
 tags: #TODO - #Botany 
