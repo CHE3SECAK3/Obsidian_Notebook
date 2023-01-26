@@ -66,6 +66,14 @@
 	- Later roots emerges from the pericycle from inside the primary root
 	- lateral roots maintain connection with the vascular tissue
 
+- Root ground tissue
+	- Greatest volume of most roots
+	- Contains amyloplasts
+- Adventitous roots
+	- Roots that arise outside of the pericycle
+	- Prop roots: adv roots that stabilize the plant like sstilts
+	- Ariel roots: above ground adv roots that absorb water or reach the soil as prop roots
+
 ---
 tags: #TODO - #Botany 
 links:
