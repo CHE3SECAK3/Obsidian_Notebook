@@ -1,4 +1,4 @@
-
+# Stem Growth
 - Primary growth takes place in:
 	- At the apical meristem
 	- At the axillary buds
@@ -33,6 +33,22 @@
 - Tuber: Swollen end of underground stem that stores nutrients --> Potato
 - Thorn: Sharp, pointed stem for protection --> Rose thorns
 
+# Root Growth
+- Taproot: One main root that grows downwards
+	- Carrots, radishes, etc
+	- Most are eudicots
+- Fibrous roots: Many branching roots with no prominent root
+	- Wheat, corn, etc
+	- Most are monocots
+- Roots have:
+	- Root cap: Protects the root apical meristem
+		- Root apical meristem produces *mucigel*, a lubricant that allows the root to burrow without damage
+		- Root cap cells are constantly destroyed and regenerated as root apical meristem grows
+	- No node
+	- Root hairs for water absorption
+- 1937 Root Hair Experiment
+	- Rye plant grown in a shoebox sized container of soil for 4 months
+	- Functional surface area of the roots are greater by orders of magnitude than the shoot system
 
 ---
 tags: #TODO - #Botany 
