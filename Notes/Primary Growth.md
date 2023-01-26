@@ -50,6 +50,12 @@
 	- Rye plant grown in a shoebox sized container of soil for 4 months
 	- Functional surface area of the roots are greater by orders of magnitude than the shoot system
 
+- Angiosperm : Flowering plants (90% of plants are angiosperms)
+	- Monocots: Lilies, orchids, grass, etc
+	- Eudicots: Roses, tomatoes, poppies, avocado, etc
+
+![[monocot_diocot.png]]
+
 ---
 tags: #TODO - #Botany 
 links:
