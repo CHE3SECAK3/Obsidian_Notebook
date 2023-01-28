@@ -11,9 +11,9 @@
             "id": "ad7036edad7fd9d7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Attachments/strawberry_stolon.jpg"
+                "file": "Sketches/Drawing 2023-01-27 18.04.27.excalidraw.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/strawberry_stolon.jpg",
+                "file": "Sketches/Drawing 2023-01-27 18.04.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/strawberry_stolon.jpg",
+                "file": "Sketches/Drawing 2023-01-27 18.04.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "ad7036edad7fd9d7",
   "lastOpenFiles": [
-    "Notes/Primary Growth.md",
-    "Notes/Plant Tissue Systems.md",
-    "Notes/Plant Tissue.md",
-    "Notes/Plant Stem Structure.md",
-    "Notes/Plant Form and Function.md",
-    "Notes/Plant Cells.md",
-    "Notes/Passive Sign Convention.md",
+    "Notes/Capacitor.md",
+    "Sketches/Drawing 2023-01-27 18.04.27.excalidraw.md",
     "Sketches/Charging and Discharging Capacitor.md",
     "Notes/Capacitor Relationships.md",
-    "Notes/Root System.md"
+    "Notes/EE TODO.md",
+    "Attachments/Pasted Image 20220406095536_982.png",
+    "Attachments/Pasted Image 20220406100635_843.png",
+    "Attachments/Pasted Image 20220406101456_820.png",
+    "Attachments/Pasted Image 20220406102026_212.png",
+    "Attachments/Pasted Image 20220406105414_830.png"
   ]
 }
