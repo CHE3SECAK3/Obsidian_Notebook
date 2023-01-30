@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "9ccd41ff3ecf7473",
+        "id": "456dd13a5547a250",
         "type": "tabs",
         "children": [
           {
-            "id": "0575b59e5cd1b90f",
+            "id": "4e0536aa14709a34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Capacitor Relationships.md",
+                "file": "Notes/Capacitor Circuit Analysis.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "5f75321246747249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inductor Circuit Analysis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Capacitor Relationships.md",
+                "file": "Notes/Inductor Circuit Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Capacitor Relationships.md",
+                "file": "Notes/Inductor Circuit Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +144,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0575b59e5cd1b90f",
+  "active": "5f75321246747249",
   "lastOpenFiles": [
-    "Notes/Capacitor Relationships.md",
+    "Notes/Capacitor Circuit Analysis.md",
     "Notes/Capacitor.md",
     "Notes/DD TODO.md",
     "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
