@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Inductor Circuit Analysis.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IAA",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,14 +147,14 @@
   "active": "5f75321246747249",
   "lastOpenFiles": [
     "Notes/Capacitor Circuit Analysis.md",
+    "Notes/Inductor Circuit Analysis.md",
+    "Notes/Magnetic Force on a Magnetic Dipole.md",
+    "Notes/Magnetic Force on a Current-Carrying Wire.md",
     "Notes/Capacitor.md",
     "Notes/DD TODO.md",
     "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
     "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
     "Sketches/Drawing 2022-10-05 23.32.37.excalidraw.md",
-    "Sketches/Drawing 2022-10-06 00.11.03.excalidraw.md",
-    "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md",
-    "Sketches/Drawing 2023-01-11 09.38.26.excalidraw.md",
-    "Sketches/Drawing 2023-01-11 11.24.56.excalidraw.md"
+    "Sketches/Drawing 2022-10-06 00.11.03.excalidraw.md"
   ]
 }
