@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ee3daeb74f1dcb",
+        "id": "9ccd41ff3ecf7473",
         "type": "tabs",
         "children": [
           {
-            "id": "ad7036edad7fd9d7",
+            "id": "0575b59e5cd1b90f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md"
+                "file": "Notes/Capacitor Relationships.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
+                "file": "Notes/Capacitor Relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
+                "file": "Notes/Capacitor Relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +130,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ad7036edad7fd9d7",
+  "active": "0575b59e5cd1b90f",
   "lastOpenFiles": [
+    "Notes/Capacitor Relationships.md",
+    "Notes/Capacitor.md",
+    "Notes/DD TODO.md",
+    "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
     "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
     "Sketches/Drawing 2022-10-05 23.32.37.excalidraw.md",
     "Sketches/Drawing 2022-10-06 00.11.03.excalidraw.md",
     "Sketches/Drawing 2022-10-09 23.58.16.excalidraw.md",
     "Sketches/Drawing 2023-01-11 09.38.26.excalidraw.md",
-    "Sketches/Drawing 2023-01-11 11.24.56.excalidraw.md",
-    "Sketches/Drawing 2023-01-27 18.04.27.excalidraw.md",
-    "Notes/Capacitor.md",
-    "Sketches/Charging and Discharging Capacitor.md",
-    "Notes/Capacitor Relationships.md"
+    "Sketches/Drawing 2023-01-11 11.24.56.excalidraw.md"
   ]
 }

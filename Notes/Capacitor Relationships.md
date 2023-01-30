@@ -16,8 +16,8 @@ $$
 > [!note] Voltage Continuity
 > - Since current depends on the derivative of voltage, voltage *must* be continuous in a capacitor
 > - A jump discontinuity in voltage implies $\frac{\Delta V}{\Delta t}$ where $\Delta t = 0$, implying $\frac{\Delta V}{\Delta t} = \infty \implies i = \infty$
->   - In terms of circuit analysis, the voltage in a capacitor at time $t_{0}$ is equivalent to the voltage at time right *before* $(t^{-})$ and right *after* $(t^{+})$ $t_{0}$
-> 	  - $$\lim_{h \rightarrow 0} \quad v(t - h) = v(t) = v(t + h)$$
+>   - In terms of circuit analysis, the voltage in a capacitor at time $t_{0}$ is equivalent to the voltage at time right *before* $(t^{-})$ and right *after* $(t^{+})$ $t_{0}$ or in other words:
+> $$\lim_{h \rightarrow 0} \quad v(t - h) = v(t) = v(t + h)$$
 
 > [!note] Integral Notation
 > $$\begin{align*}
