@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "404daaf79c4cb253",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Sketches/Drawing 2023-02-06 17.10.24.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "7219c7ffcf452f4c",
             "type": "leaf",
             "state": {
@@ -33,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Inductor Circuit Analysis.md",
+                "file": "Sketches/Drawing 2023-02-06 17.10.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Inductor Circuit Analysis.md",
+                "file": "Sketches/Drawing 2023-02-06 17.10.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +154,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5f75321246747249",
+  "active": "404daaf79c4cb253",
   "lastOpenFiles": [
     "Notes/Capacitor Circuit Analysis.md",
+    "Sketches/Drawing 2023-02-06 17.10.24.excalidraw.md",
+    "Notes/Untitled.md",
     "Notes/Inductor Circuit Analysis.md",
     "Notes/Magnetic Force on a Magnetic Dipole.md",
     "Notes/Magnetic Force on a Current-Carrying Wire.md",
     "Notes/Capacitor.md",
     "Notes/DD TODO.md",
     "Sketches/Drawing 2022-06-07 20.53.50.excalidraw.md",
-    "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md",
-    "Sketches/Drawing 2022-10-05 23.32.37.excalidraw.md",
-    "Sketches/Drawing 2022-10-06 00.11.03.excalidraw.md"
+    "Sketches/Drawing 2022-06-09 23.07.56.excalidraw.md"
   ]
 }
