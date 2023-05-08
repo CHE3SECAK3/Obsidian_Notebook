@@ -31,6 +31,16 @@
             }
           },
           {
+            "id": "255458ecc74f05f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "7219c7ffcf452f4c",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +164,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "404daaf79c4cb253",
+  "active": "255458ecc74f05f4",
   "lastOpenFiles": [
     "Sketches/Drawing 2023-02-06 17.10.24.excalidraw.md",
     "Notes/Capacitor Circuit Analysis.md",
