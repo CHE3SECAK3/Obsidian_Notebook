@@ -7,6 +7,7 @@
 	- Be finite and general (it should be able to take any valid input)
 
 >[!example] $\text{BINARY SEARCH}(x, A=(a_{0,}a_1,...,a_n))$
+>$\dotfill$
 > $\text{Input: An int } x \text{ and a finite, non-empty sequence } A \text{ of n ints}$
-> \text{Output: Whether or not } x \text{ is in sequence } A
+> $\text{Output: Whether or not } x \text{ is in sequence } A$
 > $$

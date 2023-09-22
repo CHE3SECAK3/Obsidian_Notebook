@@ -45,9 +45,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ebcf4eadacaf244e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +175,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9993f71626e2ab02",
+  "active": "ebcf4eadacaf244e",
   "lastOpenFiles": [
     "Notes/Absolute Convergence.md",
     "Notes/Algorithm.md",
