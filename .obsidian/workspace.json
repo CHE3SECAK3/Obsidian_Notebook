@@ -13,32 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inductor Circuit Analysis.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "404daaf79c4cb253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Absolute Convergence.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9993f71626e2ab02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Notes/Algorithm.md",
                 "mode": "source",
                 "backlinks": false,
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,15 +138,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9993f71626e2ab02",
+  "active": "5f75321246747249",
   "lastOpenFiles": [
-    "Notes/Absolute Convergence.md",
+    "Notes/Inductor Circuit Analysis.md",
     "Notes/Algorithm.md",
+    "Notes/Proofs.md",
+    "Notes/Absolute Convergence.md",
     "Sketches/Drawing 2023-02-07 23.22.36.excalidraw.md",
     "Sketches/Drawing 2023-02-06 17.10.24.excalidraw.md",
     "Notes/Capacitor Circuit Analysis.md",
     "Notes/Untitled.md",
-    "Notes/Inductor Circuit Analysis.md",
     "Notes/Magnetic Force on a Magnetic Dipole.md",
     "Notes/Magnetic Force on a Current-Carrying Wire.md",
     "Notes/Capacitor.md",
