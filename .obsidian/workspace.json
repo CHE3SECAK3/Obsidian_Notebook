@@ -24,39 +24,25 @@
             "id": "404daaf79c4cb253",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Sketches/Drawing 2023-02-07 23.22.36.excalidraw.md"
+                "file": "Notes/Absolute Convergence.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           },
           {
-            "id": "255458ecc74f05f4",
+            "id": "9993f71626e2ab02",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "859f037d8e568f9b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
-          },
-          {
-            "id": "83107fb5ef83bf16",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
+                "file": "Notes/Algorithm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           },
@@ -74,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketches/Drawing 2023-02-07 23.22.36.excalidraw.md",
+                "file": "Notes/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sketches/Drawing 2023-02-07 23.22.36.excalidraw.md",
+                "file": "Notes/Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,8 +178,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "83107fb5ef83bf16",
+  "active": "9993f71626e2ab02",
   "lastOpenFiles": [
+    "Notes/Absolute Convergence.md",
+    "Notes/Algorithm.md",
+    "Sketches/Drawing 2023-02-07 23.22.36.excalidraw.md",
     "Sketches/Drawing 2023-02-06 17.10.24.excalidraw.md",
     "Notes/Capacitor Circuit Analysis.md",
     "Notes/Untitled.md",
