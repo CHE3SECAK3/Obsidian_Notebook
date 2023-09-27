@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Correctness.md",
+                "file": "Notes/Signal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Correctness.md",
+                "file": "Notes/Signal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Correctness.md",
+                "file": "Notes/Signal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,8 +168,8 @@
   },
   "active": "ca70adf076d73070",
   "lastOpenFiles": [
-    "Notes/Alternating Series.md",
     "Notes/Correctness.md",
+    "Notes/Alternating Series.md",
     "Notes/Signal.md",
     "Notes/Algorithm.md",
     "Notes/Inductor Circuit Analysis.md",
