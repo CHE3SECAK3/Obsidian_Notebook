@@ -23,3 +23,5 @@ O(n^{\log_{b}a}), \log_{b}a > d
 
 
 $$
+
+A smaller big-O estimate indicates less operations and therefore a faster algorithm
