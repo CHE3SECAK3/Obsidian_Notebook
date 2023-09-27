@@ -13,3 +13,13 @@
 	- $T(n) = a \cdot T(m)$ is the total number of operations done recursively
 	- $O(g(n)$ is the total number of non-recursive operations
 - This *recurrence relation* is also a recursive equation, so finding a big-O closed equation is necessary
+
+# Master Theorem
+If $T(n) = a \cdot T\left(\frac{n}{b}\right)+ O(n^d)$, where $a > 0, b > 1, d \geq 0$, then:
+$$
+O(n^{d}),\log_{b}a < d,
+O(n^{d}\log n),\log_{b}a = d,
+O(n^{\log_{b}a}), \log_{b}a > d
+
+
+$$
