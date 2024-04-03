@@ -45,9 +45,29 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "27d2275983b341c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "a18d503cce936f3e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +186,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca70adf076d73070",
+  "active": "a18d503cce936f3e",
   "lastOpenFiles": [
     "Notes/Correctness.md",
     "Notes/Alternating Series.md",
